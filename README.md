@@ -7,8 +7,10 @@ on each of them through time:
 
 
 <div align="center">
+
 | Date       | Sagas | Games | Versions |
 |------------|-------|-------|----------|
 | 2023-03-11 | 347   | 1992  | 78774    |
 | 2024-09-05 | 404   | 2500  | ?????    |
+
 </div>
