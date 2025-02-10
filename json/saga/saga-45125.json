@@ -1,0 +1,39 @@
+{
+  "s_type": "saga",
+  "i_nid": 45125,
+  "s_title": "Choplifter",
+  "s_synopsis": "",
+  "s_years": "1982\u20131987",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 45128,
+      "s_title": "Choplifter III - Rescue Survive",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45126,
+      "s_title": "Choplifter II - Rescue Survive ",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45124,
+      "s_title": "Choplifter!",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "s_type": "game",
+  "i_nid": 47696,
+  "s_title": "Test Drive 6",
+  "s_synopsis": "",
+  "s_years": "1999",
+  "as_genres": [
+    "racing"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 47696,
+      "s_title": "Test Drive",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    14312,
+    19686,
+    69048,
+    14313,
+    69049,
+    82214,
+    14314,
+    69050,
+    84849,
+    69047,
+    18964
+  ]
+}

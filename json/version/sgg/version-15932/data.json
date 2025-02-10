@@ -1,0 +1,31 @@
+{
+  "s_type": "version",
+  "i_nid": 15932,
+  "s_dat_name": "sgg_no-intro",
+  "s_dat_version": "Sega - Game Gear | https://www.no-intro.org | 20240723-204848",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Sonic Blast (World)",
+  "s_romset_alias": "Sonic Blast (World)",
+  "i_romset_size": 1048576,
+  "s_romset_crc32": "031b9da9",
+  "s_romset_platform": "sgg",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "25",
+  "s_mdata_media_type": "",
+  "i_mdata_media_number": 0,
+  "s_mdata_date": "1996-??-??",
+  "as_mdata_views": [],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[wld] Sonic Blast"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    85599
+  ]
+}

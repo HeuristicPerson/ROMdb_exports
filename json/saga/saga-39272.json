@@ -1,0 +1,79 @@
+{
+  "s_type": "saga",
+  "i_nid": 39272,
+  "s_title": "Dragon Quest",
+  "s_synopsis": "Dragon Quest is a series of Japanese-style role-playing games. It is one of the longest-running, largest, and most influential franchise within this sub-genre; it is also the most popular role-playing series in its homeland. Its first installment is commonly regarded as one of the most important progenitors of Japanese RPGs.",
+  "s_years": "1986\u20132001",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 44979,
+      "s_title": "Dragon Quest VII",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 44978,
+      "s_title": "Dragon Quest VI",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 44977,
+      "s_title": "Dragon Quest V",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 39276,
+      "s_title": "Dragon Quest IV",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 39275,
+      "s_title": "Dragon Quest III",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 39274,
+      "s_title": "Dragon Quest II",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 39273,
+      "s_title": "Dragon Quest",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "s_type": "game",
+  "i_nid": 41217,
+  "s_title": "Shining Force - The Sword of Hajya",
+  "s_synopsis": "After a prolonged war, the kingdoms of Cypress and Gardiana decided to join forces fighting the evil empire of Iom. Nick, the Prince of Cypress, that was conquered by Iom, had his hand turned into stone during the last battle, and therefore cannot wield his legendary Sword of Hajya. Nevertheless, he tries to recruit people who would help him to gain his kingdom back.",
+  "s_years": "1994",
+  "as_genres": [
+    "role play",
+    "strategy"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 41217,
+      "s_title": "Shining Force",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    83878,
+    83874,
+    83875,
+    83876,
+    83877,
+    16157
+  ]
+}

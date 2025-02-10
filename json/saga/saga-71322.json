@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 71322,
+  "s_title": "Simon the Sorcerer",
+  "s_synopsis": "",
+  "s_years": "1996\u20132002",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 71324,
+      "s_title": "Simon the Sorcerer",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 71323,
+      "s_title": "Simon the Sorcerer II - The Lion, the Wizard and the Wardrobe",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

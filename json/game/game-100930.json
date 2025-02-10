@@ -1,0 +1,28 @@
+{
+  "s_type": "game",
+  "i_nid": 100930,
+  "s_title": "Zool 2",
+  "s_synopsis": "",
+  "s_years": "????",
+  "as_genres": [
+    "platforms"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 100930,
+      "s_title": "Zool",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    26093,
+    51250,
+    38888,
+    71209,
+    38889,
+    38890
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "s_type": "game",
+  "i_nid": 45027,
+  "s_title": "Final Fantasy Tactics",
+  "s_synopsis": "Set in a fictional medieval-inspired kingdom called Ivalice, the game&#039;s story follows Ramza Beoulve, a highborn cadet who finds himself thrust into the middle of an intricate military conflict known as The Lion War, where two opposing noble factions are coveting the throne of the kingdom. As the story progresses, Ramza and his allies discover a sinister plot behind the war. ",
+  "s_years": "1998\u20132003",
+  "as_genres": [
+    "strategy"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 45027,
+      "s_title": "Final Fantasy Tactics",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    18356,
+    18357,
+    17134,
+    11033
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "s_type": "game",
+  "i_nid": 89901,
+  "s_title": "Sure Instinct",
+  "s_synopsis": "Steer a ball through challenging maps to the goal of each stage. By changing the perspective, you can reach objects on two different sides of each map. Avoid falling down into the abyss or to lose your health on dangerous objects. Collect items to reach new sections or to find hidden paths. Can you find the way to the goal, beat the high score or find the fastest path through the stages?",
+  "s_years": "????",
+  "as_genres": [
+    "puzzle"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    80801,
+    80805,
+    80802,
+    80806,
+    80803,
+    80804
+  ]
+}

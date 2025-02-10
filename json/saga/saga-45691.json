@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 45691,
+  "s_title": "Altered Beast",
+  "s_synopsis": "",
+  "s_years": "1988\u20131990",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 45690,
+      "s_title": "Altered Beast - Guardian of the Realms",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 24953,
+      "s_title": "Altered Beast",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

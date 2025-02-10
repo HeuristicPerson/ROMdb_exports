@@ -1,0 +1,28 @@
+{
+  "s_type": "game",
+  "i_nid": 85470,
+  "s_title": "MediEvil II",
+  "s_synopsis": "Take an eerie romp on the dark side with the undead hero, Sir Daniel Fortesque as he returns to battle the evil occultist Palethorn in a gothic, twisted version of Victorian London.",
+  "s_years": "2000",
+  "as_genres": [
+    "action",
+    "adventure"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 85470,
+      "s_title": "MediEvil",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    17387,
+    41469,
+    18242,
+    18269,
+    17967
+  ]
+}

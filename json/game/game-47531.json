@@ -1,0 +1,26 @@
+{
+  "s_type": "game",
+  "i_nid": 47531,
+  "s_title": "Zillion",
+  "s_synopsis": "The White Knights, a peacekeeping force of the Planetary System, have a mission: prevent the evil Norsa Empire from dominating the world. The Norsa base on Planet X must be destroyed: an operative named JJ is sent to infiltrate it and collect the five floppy disks that will enable him to input the self-destruct sequence into the base&#039;s mainframe computer. However, beside completing this main objective, JJ also has to find a way to rescue his friends, Apple and Champ.",
+  "s_years": "1987",
+  "as_genres": [
+    "adventure",
+    "platforms"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 47531,
+      "s_title": "Zillion",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    10107,
+    10108,
+    10106
+  ]
+}

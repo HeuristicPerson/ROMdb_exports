@@ -1,0 +1,24 @@
+{
+  "s_type": "game",
+  "i_nid": 79664,
+  "s_title": "International Ninja Rabbits",
+  "s_synopsis": "",
+  "s_years": "????",
+  "as_genres": [
+    "action"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 79664,
+      "s_title": "Ninja Rabbits",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    39048,
+    51700
+  ]
+}

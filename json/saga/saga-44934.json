@@ -1,0 +1,39 @@
+{
+  "s_type": "saga",
+  "i_nid": 44934,
+  "s_title": "Destruction Derby",
+  "s_synopsis": "",
+  "s_years": "1995\u20131996",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 71544,
+      "s_title": "Destruction Derby Raw",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 71541,
+      "s_title": "Destruction Derby 2",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 44933,
+      "s_title": "Destruction Derby",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

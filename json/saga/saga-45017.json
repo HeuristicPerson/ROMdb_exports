@@ -1,0 +1,89 @@
+{
+  "s_type": "saga",
+  "i_nid": 45017,
+  "s_title": "Super Mario Bros.",
+  "s_synopsis": "",
+  "s_years": "1985\u20132003",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 89909,
+      "s_title": "Super Mario Land",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45678,
+      "s_title": "Mario Bros.",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45021,
+      "s_title": "Super Mario Bros. - The Lost Levels",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45020,
+      "s_title": "Super Mario Bros. 2",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45019,
+      "s_title": "Super Mario Bros. 3",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45018,
+      "s_title": "Super Mario Bros.",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 40098,
+      "s_title": "Super Mario World 2 - Yoshi's Island",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 143,
+      "s_title": "Super Mario World",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 72,
+  "s_title": "Doom",
+  "s_synopsis": "",
+  "s_years": "1993\u20132001",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 71275,
+      "s_title": "Doom II - Hell on Earth",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 71,
+      "s_title": "Doom",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

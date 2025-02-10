@@ -1,0 +1,59 @@
+{
+  "s_type": "saga",
+  "i_nid": 45098,
+  "s_title": "Contra",
+  "s_synopsis": "",
+  "s_years": "1987\u20132003",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 71518,
+      "s_title": "Probotector (portable)",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 71517,
+      "s_title": "Probotector",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45100,
+      "s_title": "Contra III - The Alien Wars",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45099,
+      "s_title": "Super Contra",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 15677,
+      "s_title": "Contra",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

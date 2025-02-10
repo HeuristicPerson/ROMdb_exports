@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 74559,
+  "s_title": "Master of Monsters",
+  "s_synopsis": "",
+  "s_years": "1991\u20131998",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 74560,
+      "s_title": "Master of Monsters - Disciples of Gaia",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 74558,
+      "s_title": "Master of Monsters",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

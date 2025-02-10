@@ -1,0 +1,26 @@
+{
+  "s_type": "game",
+  "i_nid": 41202,
+  "s_title": "Valis II",
+  "s_synopsis": "From the ashes of your ravaged homeland, the legendary sword Valis calls out to you. Its power transforms you into a ferocious warrior against the evil forces of King Magus. Crush Zarooga, the fearsome red dragon! Battle the unspeakabe Death Pod! But beware! Magus has sworn a blood oath to destroy you and capture Valis, to possess its power forevermore. Summon all your fury to face Magus in an epic struggle over the fate of your countrymen.",
+  "s_years": "????",
+  "as_genres": [
+    "platforms"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 41202,
+      "s_title": "Valis",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    25610,
+    25742,
+    25888,
+    97890
+  ]
+}

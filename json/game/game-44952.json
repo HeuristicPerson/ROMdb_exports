@@ -1,0 +1,31 @@
+{
+  "s_type": "game",
+  "i_nid": 44952,
+  "s_title": "Block Out",
+  "s_synopsis": "Blockout is a Tetris variant with an added twist: it&#039;s in 3D. The player can rotate the blocks in 3D in order to fit them into the pit they are being guided into. Advanced users can play this game with odd three-dimensional pieces, or change the size of the pit, for depth of between 6 and 18 piles, and width and length of between 3 and 7.\r\n",
+  "s_years": "1989\u20131991",
+  "as_genres": [
+    "puzzle"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    52627,
+    43448,
+    51732,
+    7126,
+    43449,
+    51794,
+    50202,
+    52509,
+    52510,
+    38946,
+    50962,
+    26918,
+    75039,
+    26919,
+    36124,
+    26917,
+    14511,
+    5328
+  ]
+}

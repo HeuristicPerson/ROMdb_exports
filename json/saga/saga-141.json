@@ -1,0 +1,39 @@
+{
+  "s_type": "saga",
+  "i_nid": 141,
+  "s_title": "The Secret of Monkey Island",
+  "s_synopsis": "Series of comedy adventure games set in fictional 18th century-like Caribbean Islands, telling the story of the young wannabe-pirate Guybrush Threepwood. The series was originally envisioned as a trilogy by the main designer Ron Gilbert, but he only completed the first two games; the third and the fourth were made without his participation. The latter signified the conclusion of the original series, being the last one developed by LucasArts.",
+  "s_years": "1990\u20131997",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 71444,
+      "s_title": "The Curse of Monkey Island",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 41250,
+      "s_title": "Monkey Island 2 - Lechuck's Revenge",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 140,
+      "s_title": "The Secret of Monkey Island",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

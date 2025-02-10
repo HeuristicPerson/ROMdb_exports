@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 47942,
+  "s_title": "Rally de...",
+  "s_synopsis": "",
+  "s_years": "1998\u20132000",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 47947,
+      "s_title": "Rally de Europe",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 47943,
+      "s_title": "Rally de Africa",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

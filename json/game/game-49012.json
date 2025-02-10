@@ -1,0 +1,28 @@
+{
+  "s_type": "game",
+  "i_nid": 49012,
+  "s_title": "The Terminator (A)",
+  "s_synopsis": "Kyle Reese, a lone warrior from the future, returns to the past to protect the one woman who holds the key to the survival of the human race. Together they must face not only everything Los Angeles has to throw at them, but also the terrifying might of a cyborg known as the Terminator... who will stop at nothing to kill them both!",
+  "s_years": "1992",
+  "as_genres": [
+    "action"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 49012,
+      "s_title": "Terminator",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    46248,
+    6613,
+    16239,
+    6614,
+    10049,
+    10050
+  ]
+}

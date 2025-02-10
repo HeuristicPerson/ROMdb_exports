@@ -1,0 +1,59 @@
+{
+  "s_type": "saga",
+  "i_nid": 41227,
+  "s_title": "Resident Evil",
+  "s_synopsis": "",
+  "s_years": "1996\u20131999",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 101884,
+      "s_title": "Resident Evil - Gaiden",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 85478,
+      "s_title": "Resident Evil - Survivor",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45011,
+      "s_title": "Resident Evil 3 - Nemesis",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45008,
+      "s_title": "Resident Evil 2",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 41228,
+      "s_title": "Resident Evil",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 48967,
+  "s_title": "Wizards & Warriors",
+  "s_synopsis": "",
+  "s_years": "1988",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 48968,
+      "s_title": "Wizards & Warriors III - Kuros - Visions of Power",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 48966,
+      "s_title": "IronSword - Wizards & Warriors II",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

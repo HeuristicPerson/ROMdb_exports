@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 47992,
+  "s_title": "Zombies Ate My Neighbors",
+  "s_synopsis": "",
+  "s_years": "????",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 47991,
+      "s_title": "Ghoul Patrol",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45108,
+      "s_title": "Zombies Ate My Neighbors",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

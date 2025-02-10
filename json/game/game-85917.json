@@ -1,0 +1,24 @@
+{
+  "s_type": "game",
+  "i_nid": 85917,
+  "s_title": "Chester Cheetah - Too Cool to Fool",
+  "s_synopsis": "Put yourself in his paws. You&#039;re a cool cat. So you would like to be treated like that. But no! You&#039;re stuck in a zoo with nothing to do. Mean Eugene, the Zoo Keepin&#039; Fiend has planned an ugly scene. He wants to nail your tail without fail. So, he steals your wheels to cool your heels. Then he hides the parts in the zoo just to fool you. And that&#039;s just the beginning in Eugene&#039;s way of winning. But, stay cool and you can rule. Just find your bike and you can go where you like. The rule is cool. Remember a cool cat is just... &quot;Too Cool To Fool!&quot;",
+  "s_years": "1992\u20131993",
+  "as_genres": [
+    "platforms"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 85917,
+      "s_title": "Chester Cheetah",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    2146,
+    5401
+  ]
+}

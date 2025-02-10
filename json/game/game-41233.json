@@ -1,0 +1,31 @@
+{
+  "s_type": "game",
+  "i_nid": 41233,
+  "s_title": "Vectorman 2",
+  "s_synopsis": "This is a sequel to Vectorman. This time, the super-powerful little robot was attacked while coming back to earth in his spaceship. He falls down on the earth only to discover dark locations full of hostile creatures and to participate in a platformer full of fast and furious action. Fight your enemies, collect photons, jump over obstacles, find weapons, morph into other creatures, and climb walls as the green &quot;orbot&quot; Vectorman.",
+  "s_years": "1995\u20131996",
+  "as_genres": [
+    "action",
+    "platforms"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 41233,
+      "s_title": "Vectorman",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    6707,
+    46274,
+    46275,
+    46276,
+    46277,
+    46278,
+    46273,
+    6706
+  ]
+}

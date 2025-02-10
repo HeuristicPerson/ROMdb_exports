@@ -1,0 +1,35 @@
+{
+  "s_type": "version",
+  "i_nid": 60564,
+  "s_dat_name": "pcc-opt_redump",
+  "s_dat_version": "IBM - PC compatible | (SIMPLIFIED DAT) | &quot;2021-02-13 16-48-59&quot;",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Interplay's 10 Year Anthology - Classic Collection (USA)",
+  "s_romset_alias": "",
+  "i_romset_size": 481515552,
+  "s_romset_crc32": "f9431f50",
+  "s_romset_platform": "pcc-opt",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [
+    "eng"
+  ],
+  "as_mdata_lang_voice": [
+    "non"
+  ],
+  "i_mdata_rating_votes": 0,
+  "f_mdata_rating_value": 0,
+  "s_mdata_media_type": "CD",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "1993-??-??",
+  "as_mdata_views": [],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    39215,
+    43023,
+    45036
+  ]
+}

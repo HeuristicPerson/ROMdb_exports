@@ -1,0 +1,24 @@
+{
+  "s_type": "game",
+  "i_nid": 47636,
+  "s_title": "Taikou Risshiden",
+  "s_synopsis": "&quot;Taikou Risshiden&quot; is an open-ended strategy RPG set in Sengoku-period Japan, where the player takes the role of a subordinate of warlord Oda Nobunaga named Toukichiro Kinoshita. The player chooses one of several possible professions, rolls their attributes, and must become successful in their chosen life.",
+  "s_years": "????",
+  "as_genres": [
+    "strategy"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 47636,
+      "s_title": "Taikou Risshiden",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    4690,
+    6575
+  ]
+}

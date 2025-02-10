@@ -1,0 +1,29 @@
+{
+  "s_type": "game",
+  "i_nid": 48173,
+  "s_title": "Super Puzzle Fighter II Turbo",
+  "s_synopsis": "A Tetris-like puzzle game featuring popular characters from many Capcom games. Colored gems fall from the top of the screen in pairs, but this time lining up those of the same color is not enough. To break the gems and punish your opponent with counter gems you have to place a crash gem of the same color next to the gems. If you make a block of gems of the same color they&#039;ll fuse, forming a power gem. Breaking a power gem sends more counter gems to your opponent than breaking the same amount of gems in some other configuration. But the ultimate attack is breaking power gems in chain.",
+  "s_years": "1996\u20131997",
+  "as_genres": [
+    "puzzle"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    12675,
+    71735,
+    18706,
+    87777,
+    41551,
+    88398,
+    47914,
+    88806,
+    33881,
+    33880,
+    33885,
+    33882,
+    33886,
+    33883,
+    33884,
+    21228
+  ]
+}

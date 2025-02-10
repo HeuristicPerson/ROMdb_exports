@@ -1,0 +1,31 @@
+{
+  "s_type": "game",
+  "i_nid": 76868,
+  "s_title": "X-Men - Mutant Academy",
+  "s_synopsis": "Train to learn over-the-top mutant moves and use your special powers to dominate super-villains. It&#039;s boot camp for fighters... and only the strongest will survive. ",
+  "s_years": "2000",
+  "as_genres": [
+    "vs. fighting"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 76868,
+      "s_title": "X-Men - Mutant Academy",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    14461,
+    19935,
+    41725,
+    14462,
+    22519,
+    14463,
+    24298,
+    24887,
+    18442
+  ]
+}

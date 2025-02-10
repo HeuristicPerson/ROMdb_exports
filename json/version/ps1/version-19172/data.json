@@ -1,0 +1,39 @@
+{
+  "s_type": "version",
+  "i_nid": 19172,
+  "s_dat_name": "ps1_redump",
+  "s_dat_version": "Sony - PlayStation | Simplified with Dat Simplifier - v1.0.2021-11-30 | &quot;2024-12-24 18-15-06&quot;",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Armored Core (Europe) (En, Fr, De, Es, It)",
+  "s_romset_alias": "Armored Core (Europe) (En,Fr,De,Es,It)",
+  "i_romset_size": 552207264,
+  "s_romset_crc32": "f56c34b4",
+  "s_romset_platform": "ps1",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [
+    "eng",
+    "fre",
+    "ger",
+    "ita",
+    "spa"
+  ],
+  "as_mdata_lang_voice": [
+    "eng"
+  ],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "50",
+  "s_mdata_media_type": "CD",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "1998-??-??",
+  "as_mdata_views": [
+    "back"
+  ],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    45045
+  ]
+}

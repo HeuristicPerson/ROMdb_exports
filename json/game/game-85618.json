@@ -1,0 +1,30 @@
+{
+  "s_type": "game",
+  "i_nid": 85618,
+  "s_title": "Parasite Eve II",
+  "s_synopsis": "",
+  "s_years": "2000",
+  "as_genres": [
+    "action",
+    "adventure"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 85618,
+      "s_title": "Parasite Eve",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    17162,
+    18798,
+    17702,
+    20870,
+    23261,
+    18586,
+    17956
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "s_type": "version",
+  "i_nid": 6306,
+  "s_dat_name": "mdr-crt_no-intro",
+  "s_dat_version": "Sega - Mega Drive - Genesis | https://www.no-intro.org | 20231204-141612",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Rock 'n' Roll Racing (Europe)",
+  "s_romset_alias": "Rock &#039;n&#039; Roll Racing (Europe)",
+  "i_romset_size": 1048576,
+  "s_romset_crc32": "bc5a0562",
+  "s_romset_platform": "mdr-crt",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 0,
+  "f_mdata_rating_value": 0,
+  "s_mdata_media_type": "cartridge",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "",
+  "as_mdata_views": [
+    "isometric"
+  ],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[eur] Rock N&#039; Roll Racing"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    85693
+  ]
+}

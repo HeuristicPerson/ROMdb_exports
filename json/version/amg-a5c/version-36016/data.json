@@ -1,0 +1,42 @@
+{
+  "s_type": "version",
+  "i_nid": 36016,
+  "s_dat_name": "amg-a5c_no-intro",
+  "s_dat_version": "Commodore - Amiga | https://www.no-intro.org | 20240604-172503",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Barbarian - The Ultimate Warrior (Europe)",
+  "s_romset_alias": "Barbarian - The Ultimate Warrior (Europe)",
+  "i_romset_size": 1050092,
+  "s_romset_crc32": "b3c36cb5",
+  "s_romset_platform": "amg-a5c",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [
+    "eng"
+  ],
+  "as_mdata_lang_voice": [
+    "eng"
+  ],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "50",
+  "s_mdata_media_type": "3.5\" disk",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "",
+  "as_mdata_views": [
+    "side"
+  ],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [
+    "1",
+    "2"
+  ],
+  "as_mdata_multiplayer": [
+    "versus"
+  ],
+  "as_mdata_screen_titles": [
+    "[eur] Barbarian"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    44920
+  ]
+}

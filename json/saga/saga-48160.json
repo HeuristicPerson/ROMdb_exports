@@ -1,0 +1,19 @@
+{
+  "s_type": "saga",
+  "i_nid": 48160,
+  "s_title": "Silva Saga",
+  "s_synopsis": "",
+  "s_years": "1987",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 48161,
+      "s_title": "Minelvaton Saga",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

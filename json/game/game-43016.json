@@ -1,0 +1,19 @@
+{
+  "s_type": "game",
+  "i_nid": 43016,
+  "s_title": "Varth - Operation Thunderstorm",
+  "s_synopsis": "A human colony on planet Varth has a big problem with 7th generation supercomputer &quot;Delta-7&quot;. This computer has been possessed by the evil entity &quot;DUO&quot;. The only hope are two pilots of older planes equipped with 4th generation computers.",
+  "s_years": "1992",
+  "as_genres": [
+    "shooter"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    80547,
+    35051,
+    35052,
+    42952,
+    35053,
+    42951
+  ]
+}

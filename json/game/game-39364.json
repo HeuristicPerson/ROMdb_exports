@@ -1,0 +1,22 @@
+{
+  "s_type": "game",
+  "i_nid": 39364,
+  "s_title": "Hyper Sports",
+  "s_synopsis": "Six tough events await in this joystick-waggling successor to Track &amp; Field. The full sequence of events is - swimming, skeet shooting, gymnastics, archery, triple jumping and weightlifting. You must complete each event in order to be allowed onto the next one.",
+  "s_years": "1984\u20131988",
+  "as_genres": [
+    "sports"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    7926,
+    16384,
+    29518,
+    15012,
+    29519,
+    15013,
+    7925,
+    16383,
+    29520
+  ]
+}

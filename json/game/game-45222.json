@@ -1,0 +1,25 @@
+{
+  "s_type": "game",
+  "i_nid": 45222,
+  "s_title": "King's Field",
+  "s_synopsis": "The country of Verdite has descended into decay. Its royal family began practicing dark magic, guided by evil forces lurking beneath the surface of the country. A remote descendant of the cursed bloodline, Zoela Reinhardt, married the captain of the king&#039;s guards, Houser Forester. This valiant man went off to fight horrifying creatures that appeared within the Royal Cemetery. He has not returned, and neither did anyone who accompanied him. His son, John Alfred, ventured into the depths of the cemetery, determined to find out what has happened and whether there was still a chance to rescue his father.",
+  "s_years": "1994",
+  "as_genres": [
+    "role play"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 45222,
+      "s_title": "King's Field",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    17149,
+    17612,
+    19488
+  ]
+}

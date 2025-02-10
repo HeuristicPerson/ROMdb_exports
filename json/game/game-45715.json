@@ -1,0 +1,28 @@
+{
+  "s_type": "game",
+  "i_nid": 45715,
+  "s_title": "Broken Sword - The Shadow of the Templars",
+  "s_synopsis": "George Stobbart is an American tourist spending his autumn vacation in Paris. He barely escapes a bombing of a caf\u00e9 and decides to investigate the clues left behind by the killer. This eventually leads him to a mystery dating back to the legend of the Knights Templar.",
+  "s_years": "????",
+  "as_genres": [
+    "graphic adventure"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 45715,
+      "s_title": "Broken Sword",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    10511,
+    23015,
+    10512,
+    41909,
+    17654,
+    19565
+  ]
+}

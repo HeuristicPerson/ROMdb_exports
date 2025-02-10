@@ -1,0 +1,24 @@
+{
+  "s_type": "game",
+  "i_nid": 26095,
+  "s_title": "Wolfenstein 3D",
+  "s_synopsis": "Wolfenstein 3D is an episodic first-person shooter and a follow-up to the top-down infiltration game Castle Wolfenstein. The game puts the player in the boots of B.J. Blazkowicz, an allied spy. There are six episodes: the first distributed complete as shareware; the second and the third available after registration; and the three final missions (which happen before the events of the first episode) available in the Nocturnal Missions pack.",
+  "s_years": "1994",
+  "as_genres": [
+    "shooter"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    5028,
+    5032,
+    52231,
+    5029,
+    12961,
+    155849,
+    5030,
+    155848,
+    5031,
+    49659,
+    26090
+  ]
+}

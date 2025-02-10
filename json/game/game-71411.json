@@ -1,0 +1,25 @@
+{
+  "s_type": "game",
+  "i_nid": 71411,
+  "s_title": "Dragon Lore - The Legend Begins",
+  "s_synopsis": "You are Werner Von Wallenrod, an orphan living in a realm lost in time. You leave to travel across these lands and meet fantastically surreal characters who help you in your quest for truth. Your father was assassinated by the Devil&#039;s Horseman, Haagen Von Kiakonov, has vowed to destroy everything you know and love. Just before your father died, he was able to entrust you with a farmer in the kingdom, but now the hour has arrived for you to take up arms and defend your country. Inexperienced in the art of combat, you must prove yourself all throughout the voyage that awaits you. ",
+  "s_years": "????",
+  "as_genres": [
+    "graphic adventure"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 71411,
+      "s_title": "Dragon Lore",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    45538,
+    57240,
+    57241
+  ]
+}

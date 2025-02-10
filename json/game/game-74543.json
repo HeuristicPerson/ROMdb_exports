@@ -1,0 +1,24 @@
+{
+  "s_type": "game",
+  "i_nid": 74543,
+  "s_title": "The Adventures of Dr. Franken",
+  "s_synopsis": "Franky and his girlfriend Bitsy are planning a vacation to New York. There&#039;s just one problem: Bitsy doesn&#039;t have a passport. Our protagonist comes up with a brilliant idea: He takes Bitsy apart and mails her to New York in different packages, where he will put her back together. Unfortunately for the couple, Bitsy has been lost in the mail. It is up to Franky to find her parts and put her back together.",
+  "s_years": "1993",
+  "as_genres": [
+    "platforms"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 74543,
+      "s_title": "Dr. Franken",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    1820,
+    1821
+  ]
+}

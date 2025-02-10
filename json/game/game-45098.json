@@ -1,0 +1,25 @@
+{
+  "s_type": "game",
+  "i_nid": 45098,
+  "s_title": "Probotector (portable)",
+  "s_synopsis": "",
+  "s_years": "1991",
+  "as_genres": [
+    "shooter"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 45098,
+      "s_title": "Contra",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    413,
+    1276,
+    1130
+  ]
+}

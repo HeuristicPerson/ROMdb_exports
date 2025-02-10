@@ -1,0 +1,39 @@
+{
+  "s_type": "saga",
+  "i_nid": 47526,
+  "s_title": "Rocket Knight Adventures",
+  "s_synopsis": "",
+  "s_years": "1993\u20131994",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 47528,
+      "s_title": "Sparkster",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 47527,
+      "s_title": "Sparkster - Rocket Knight Adventures 2",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45254,
+      "s_title": "Rocket Knight Adventures",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

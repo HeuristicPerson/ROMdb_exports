@@ -1,0 +1,39 @@
+{
+  "s_type": "saga",
+  "i_nid": 45187,
+  "s_title": "Ecco the Dolphin",
+  "s_synopsis": "",
+  "s_years": "1993\u20131995",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 85459,
+      "s_title": "Ecco Jr.",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45188,
+      "s_title": "Ecco - The Tides of Time",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 39235,
+      "s_title": "Ecco the Dolphin",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

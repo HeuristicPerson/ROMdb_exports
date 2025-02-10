@@ -1,0 +1,24 @@
+{
+  "s_type": "game",
+  "i_nid": 41187,
+  "s_title": "Rampage Through Time",
+  "s_synopsis": "Our most lovable mutants are back and out to destroy history! Crush, bash and gobble your way through levels in ancient Egypt and the distant future where robots rules! Play as Old favorites including Boris, George, Lizzie or Curtis and look for the brand new character! Let the demolition of history begin with rampage through time!",
+  "s_years": "????",
+  "as_genres": [
+    "action"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 41187,
+      "s_title": "Rampage",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    19161,
+    21696
+  ]
+}

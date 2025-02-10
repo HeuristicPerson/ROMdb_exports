@@ -1,0 +1,29 @@
+{
+  "s_type": "game",
+  "i_nid": 84267,
+  "s_title": "Montezuma's Revenge",
+  "s_synopsis": "Wherever there&#039;s mind-twisting mystery, hair-raising adventure, and non-stop action--Panama Joe is sure to be there. And in &quot;Montezuma&#039;s Revenge&quot;, he&#039;s got more than he bargained for as you help him through 100 danger-filled chambers in the Aztec emperor&#039;s fortress. The stakes? Priceless treasure. And lots of it. But finding necessary keys, torches, swords, and amulets is no small feat as Panama Joe tries to avoid deadly snakes, menacing spiders, and bouncing skulls. But then disappearing floors, bridges, and laser walls are no picnic either! It&#039;s up to you to lead this undaunted adventurer through the labyrinth of chambers in an attempt to solve the riddle of the fortress and escape with the loot!",
+  "s_years": "????",
+  "as_genres": [
+    "platforms"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 84267,
+      "s_title": "Montezuma's Revenge",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    9867,
+    44128,
+    9866,
+    49448,
+    15740,
+    83158,
+    39789
+  ]
+}

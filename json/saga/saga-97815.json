@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 97815,
+  "s_title": "Chase H.Q.",
+  "s_synopsis": "",
+  "s_years": "1988\u20131992",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 97814,
+      "s_title": "Special Criminal Investigation",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 71395,
+      "s_title": "Chase H.Q.",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

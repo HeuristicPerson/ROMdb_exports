@@ -1,0 +1,30 @@
+{
+  "s_type": "game",
+  "i_nid": 39322,
+  "s_title": "Gauntlet Legends",
+  "s_synopsis": "The wizard Garm releases the evil demon Skorne from the Underworld. But Garm&#039;s brother Sumner, who happens to be a wizard aswell, counters by summoning the four mighty heroes (a warrior, a valkyrie, a wizard, and an archer) to stop Skorne from taking over the land. They must travel to the four realms of the land and free them from Skorne&#039;s four guardians. Once the guardians are destroyed, their keys unlock a desecrated temple, where the heroes battle Skorne. After facing defeat, however, Skorne flees back to the Underworld. The heroes must then find the 13 runestones that will open the Underworld, where they face Skorne again and destroy him for good. ",
+  "s_years": "????",
+  "as_genres": [
+    "action"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 39322,
+      "s_title": "Gauntlet",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    17804,
+    40427,
+    19474,
+    40428,
+    21447,
+    41704,
+    40426,
+    41714
+  ]
+}

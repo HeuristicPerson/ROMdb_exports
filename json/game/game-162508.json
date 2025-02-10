@@ -1,0 +1,28 @@
+{
+  "s_type": "game",
+  "i_nid": 162508,
+  "s_title": "Little Big Adventure",
+  "s_synopsis": "Somewhere in the universe, there is a beautiful planet called Twinsun. It is populated by four different races, which have been living in peace and prosperity, until a mad scientist Dr. Funfrock of the Quetch (human-like) race used his newly invented cloning and teleporting techniques to create an army of fearsome soldiers and become the planet&#039;s dictator. Twinsun&#039;s inhabitants have not lost hope, placing their faith in the old legend about the benevolent goddess Sendell who would save the world. However, Dr. Funfrock totalitarian regime forbade displaying any images of the goddess and her worship. A young Quetch named Twinsen was just a regular fellow until he had a dream, which surprisingly involved the outlawed goddess. It seems that Dr. Funfrock was no stranger to mind control; in his opinion, even dreaming of the goddess was illegal, and he promptly ordered to put the perpetrator in prison. Now the unlikely hero must find a way to escape and eventually save his planet from the clutches of its insane ruler.",
+  "s_years": "1997",
+  "as_genres": [
+    "adventure"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 162508,
+      "s_title": "Little Big Adventure",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    61806,
+    24393,
+    49782,
+    61805,
+    85188,
+    17719
+  ]
+}

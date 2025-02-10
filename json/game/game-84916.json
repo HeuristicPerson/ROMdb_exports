@@ -1,0 +1,24 @@
+{
+  "s_type": "game",
+  "i_nid": 84916,
+  "s_title": "Advanced Daisenryaku - Doitsu Dengeki Sakusen",
+  "s_synopsis": "",
+  "s_years": "1991",
+  "as_genres": [
+    "strategy"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 84916,
+      "s_title": "Daisenryaku",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    5185,
+    45718
+  ]
+}

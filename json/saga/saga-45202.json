@@ -1,0 +1,49 @@
+{
+  "s_type": "saga",
+  "i_nid": 45202,
+  "s_title": "Prince of Persia",
+  "s_synopsis": "",
+  "s_years": "1990\u20131993",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 134667,
+      "s_title": "Prince of Persia - The Sands of Time (3D)",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 47970,
+      "s_title": "Prince of Persia - The Sands of Time (2D)",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 46634,
+      "s_title": "Prince of Persia 2 - The Shadow and the Flame",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 1776,
+      "s_title": "Prince of Persia",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

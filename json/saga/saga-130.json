@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 130,
+  "s_title": "Maniac Mansion",
+  "s_synopsis": "",
+  "s_years": "1988\u20131995",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 52636,
+      "s_title": "Day of the Tentacle",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 129,
+      "s_title": "Maniac Mansion",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

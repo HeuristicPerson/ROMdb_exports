@@ -1,0 +1,25 @@
+{
+  "s_type": "game",
+  "i_nid": 79102,
+  "s_title": "Metal Max",
+  "s_synopsis": "Set in a futuristic world where monsters and mechanical creatures roam the land and where many people live in huge underground caves. You play the role of a young boy who lives in a town with his father and his older sister. Your biggest dream is to become a &quot;hunter&quot; - to kill the monsters that are roaming outside, and to receive rewards for that. Your father doesn&#039;t approve of your dream, but you nevertheless decide to explore the underground caves surrounding your town, to learn more about the world you live in, and eventually become a true hunter and help to overthrow the evil that threatens the world.",
+  "s_years": "1991",
+  "as_genres": [
+    "role play"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 79102,
+      "s_title": "Metal Max",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    71910,
+    83124,
+    8360
+  ]
+}

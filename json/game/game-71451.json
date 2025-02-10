@@ -1,0 +1,30 @@
+{
+  "s_type": "game",
+  "i_nid": 71451,
+  "s_title": "Earth Bound",
+  "s_synopsis": "In the early 1900s, a mysterious dark shadow covered a small country town in rural America. A young married couple vanished from their house without a trace. The man&#039;s name was George, the woman&#039;s name was Maria. Two years passed, and George suddenly returned. He never spoke to anyone about what he had experienced. Instead, he led a solitary life and began an odd study, all by himself. His wife never returned.",
+  "s_years": "1989\u20131990",
+  "as_genres": [
+    "role play"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 71451,
+      "s_title": "Earth Bound",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    2408,
+    11898,
+    3407,
+    71920,
+    74382,
+    80725,
+    8453,
+    7531
+  ]
+}

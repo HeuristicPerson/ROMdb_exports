@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 44835,
+  "s_title": "Asura",
+  "s_synopsis": "",
+  "s_years": "1998\u20132000",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 44896,
+      "s_title": "Asura Buster - Eternal Warriors",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 44836,
+      "s_title": "Asura Blade - Sword of Dynasty",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

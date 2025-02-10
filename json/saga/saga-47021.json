@@ -1,0 +1,49 @@
+{
+  "s_type": "saga",
+  "i_nid": 47021,
+  "s_title": "Lemmings",
+  "s_synopsis": "",
+  "s_years": "1992\u20131996",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 74587,
+      "s_title": "Lemmings 2 - The Tribes",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 71332,
+      "s_title": "Oh No! More Lemmings",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 47020,
+      "s_title": "Lomax",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 35760,
+      "s_title": "Lemmings",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

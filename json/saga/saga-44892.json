@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 44892,
+  "s_title": "Dino Crisis",
+  "s_synopsis": "",
+  "s_years": "1999\u20132000",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 44893,
+      "s_title": "Dino Crisis 2",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 44891,
+      "s_title": "Dino Crisis",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

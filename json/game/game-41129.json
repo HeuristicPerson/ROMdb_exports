@@ -1,0 +1,31 @@
+{
+  "s_type": "game",
+  "i_nid": 41129,
+  "s_title": "Puzzle Bobble 4",
+  "s_synopsis": "Bust-A-Move 4 continues the gameplay tradition of the previous game in the series, focusing on releasing colored bubbles and matching them to make them disappear. This installment adds new characters to choose from, as well as a Story mode, where the player wins Tarot cards after each completed stage. In Story mode the player sees the story unfold as he defeats each CPU-controlled character.",
+  "s_years": "1998\u20132000",
+  "as_genres": [
+    "action",
+    "puzzle"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 41129,
+      "s_title": "Puzzle Bobble",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    13243,
+    21276,
+    24141,
+    18322,
+    54589,
+    65446,
+    19629,
+    14083
+  ]
+}

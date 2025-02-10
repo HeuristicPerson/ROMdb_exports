@@ -1,0 +1,20 @@
+{
+  "s_type": "game",
+  "i_nid": 39358,
+  "s_title": "Badlands",
+  "s_synopsis": "Badlands continued the Super Sprint lineage, but moved the game into a futuristic post-apocalyptic setting. The races consist of 3 souped-up cars toughing it out over 4 laps on one of the 8 tracks, which are viewed from above. Two human players can take part, but only the winner continues without using up credits, so you will only see the early races in two-player mode.",
+  "s_years": "1989\u20131990",
+  "as_genres": [
+    "racing"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    36000,
+    36001,
+    26675,
+    36002,
+    26676,
+    26674,
+    25909
+  ]
+}

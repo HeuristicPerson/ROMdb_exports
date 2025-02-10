@@ -1,0 +1,39 @@
+{
+  "s_type": "saga",
+  "i_nid": 45014,
+  "s_title": "Krynn",
+  "s_synopsis": "",
+  "s_years": "1990\u20131992",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 45016,
+      "s_title": "The Dark Queen of Krynn - A DragonLance Fantasy Role-Playing Epic, Vol.III",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45015,
+      "s_title": "Advanced Dungeons & Dragons - Death Knights of Krynn",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45013,
+      "s_title": "Champions of Krynn - A DragonLance Fantasy Role-Playing Epic, Vol.I",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

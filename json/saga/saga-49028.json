@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 49028,
+  "s_title": "Might and Magic",
+  "s_synopsis": "",
+  "s_years": "1991",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 49029,
+      "s_title": "Might and Magic II - Gates to Another World",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 49027,
+      "s_title": "Might and Magic III - Isles of Terra",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

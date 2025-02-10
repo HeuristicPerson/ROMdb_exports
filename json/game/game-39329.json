@@ -1,0 +1,27 @@
+{
+  "s_type": "game",
+  "i_nid": 39329,
+  "s_title": "Pengo",
+  "s_synopsis": "In Pengo, you must defeat the enemy by pushing ice blocks together to crush them. You also can capture one if they are shocked and dizzy. There is also a time limit to make it a bit more difficult (you must do it in one minute).",
+  "s_years": "1982\u20131983",
+  "as_genres": [
+    "action"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    75987,
+    16089,
+    75988,
+    16090,
+    39828,
+    31591,
+    31597,
+    31593,
+    31594,
+    31596,
+    31598,
+    31590,
+    31595,
+    15746
+  ]
+}

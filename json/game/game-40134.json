@@ -1,0 +1,25 @@
+{
+  "s_type": "game",
+  "i_nid": 40134,
+  "s_title": "Joust",
+  "s_synopsis": "In Joust, players take control of a knight with a lance who rides their flying ostrich (or stork, for Player 2) to do battle against computer-controlled evil knights who ride atop vultures.",
+  "s_years": "1982\u20131992",
+  "as_genres": [
+    "action"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    228,
+    39435,
+    39436,
+    13123,
+    39728,
+    29721,
+    29720,
+    29719,
+    8027,
+    15721,
+    8028,
+    14539
+  ]
+}

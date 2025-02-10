@@ -1,0 +1,16 @@
+{
+  "s_type": "game",
+  "i_nid": 89874,
+  "s_title": "Goindol",
+  "s_synopsis": "",
+  "s_years": "1987",
+  "as_genres": [
+    "pinball"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    29004,
+    29005,
+    29006
+  ]
+}

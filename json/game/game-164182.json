@@ -1,0 +1,32 @@
+{
+  "s_type": "game",
+  "i_nid": 164182,
+  "s_title": "Dave Mirra Freestyle BMX",
+  "s_synopsis": "Choose from all of the current crop of BMX champs, including 10 times world champion Dave Mirra, Ryan Nyquist, Joey Garcia, Shaun Butler &amp; heaps more, and ride your way through 12 highly detailed environments, with vert ramps, huge jumps and track racing. Multiplayer gaming is also thrown in, allowing two players to go head-to-head in a game of B-M-X, an unique variation of the HORSE basketball game.",
+  "s_years": "2001",
+  "as_genres": [
+    "sports"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 164182,
+      "s_title": "Dave Mirra Freestyle BMX",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    13320,
+    22564,
+    48291,
+    24288,
+    85026,
+    19610,
+    41897,
+    19843,
+    48290,
+    18189
+  ]
+}

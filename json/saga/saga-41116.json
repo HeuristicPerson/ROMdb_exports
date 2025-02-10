@@ -1,0 +1,49 @@
+{
+  "s_type": "saga",
+  "i_nid": 41116,
+  "s_title": "Breath of Fire",
+  "s_synopsis": "The games in the series are not directly connected to each other plot-wise, and don&#039;t have any chronological continuity. However, in each Breath of Fire game, the two main characters are invariably called Ryu (Japanese for &quot;dragon&quot;) and Nina. These characters may have different personalities and their common story is different each time, though Ryu always possesses the ability to transform into a dragon, and Nina is always a young girl with wings. Breath of Fire games are usually set in medieval fantasy worlds with technological elements.",
+  "s_years": "1993\u20132001",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 41123,
+      "s_title": "Breath of Fire IV",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 41122,
+      "s_title": "Breath of Fire",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 41115,
+      "s_title": "Breath of Fire II",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 35756,
+      "s_title": "Breath of Fire III",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

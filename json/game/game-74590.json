@@ -1,0 +1,25 @@
+{
+  "s_type": "game",
+  "i_nid": 74590,
+  "s_title": "Guilty",
+  "s_synopsis": "Jack is a crime specialist in serious trouble. After all, he&#039;s just escaped from his cell aboard the prison ship Relentless, only to leave the craft stranded in the flight path of a merciless alien invasion fleet. And with just the ruthless policewoman Ysanne for company. Jack&#039;s about to find out just what the battle of the sexes is all about! ",
+  "s_years": "????",
+  "as_genres": [
+    "graphic adventure"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 74590,
+      "s_title": "Jack T. Ladd",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    51122,
+    59680,
+    59681
+  ]
+}

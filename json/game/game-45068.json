@@ -1,0 +1,27 @@
+{
+  "s_type": "game",
+  "i_nid": 45068,
+  "s_title": "Star Wars - Episode I - The Phantom Menace",
+  "s_synopsis": "There is a disturbance in the force, and the Jedi are there to find its source. There is a whole Armada of Battleships and troops besieging a planet and two Jedi knights come to protect the planet.",
+  "s_years": "????",
+  "as_genres": [
+    "action",
+    "adventure"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    18117,
+    22373,
+    41475,
+    85359,
+    18395,
+    22922,
+    41807,
+    18994,
+    23043,
+    48709,
+    19537,
+    23850,
+    85358
+  ]
+}

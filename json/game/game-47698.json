@@ -1,0 +1,27 @@
+{
+  "s_type": "game",
+  "i_nid": 47698,
+  "s_title": "Super Turrican 2",
+  "s_synopsis": "",
+  "s_years": "????",
+  "as_genres": [
+    "action"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 47698,
+      "s_title": "Turrican",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    4636,
+    80798,
+    4637,
+    4638,
+    4639
+  ]
+}

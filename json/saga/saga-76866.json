@@ -1,0 +1,59 @@
+{
+  "s_type": "saga",
+  "i_nid": 76866,
+  "s_title": "Micro Machines",
+  "s_synopsis": "",
+  "s_years": "1991\u20131997",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 84950,
+      "s_title": "Micro Machines - Turbo Tournament '96",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 84909,
+      "s_title": "Micro Machines Military",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 84202,
+      "s_title": "Micro Machines 2 - Turbo Tournament",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 76865,
+      "s_title": "Micro Machines V3",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 39376,
+      "s_title": "Micro Machines",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

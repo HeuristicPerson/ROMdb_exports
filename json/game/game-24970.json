@@ -1,0 +1,32 @@
+{
+  "s_type": "game",
+  "i_nid": 24970,
+  "s_title": "Street Fighter III 3rd Strike - Fight for The Future",
+  "s_synopsis": "This amazing fighter stars 18 brawlers from the Street Fighter III universe and introduces the new Leap Attack. Plus, a new Grade Judge system evaluates player performance at the end of each match. Huge characters and an innovative Hit-Frame system team up with the return of the Super Arts Fighting Styles. Experience totally seamless animation in the newest chapter of the greatest arcade series ever!",
+  "s_years": "1999",
+  "as_genres": [
+    "vs. fighting"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 24970,
+      "s_title": "Street Fighter",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    82151,
+    112230,
+    33605,
+    87501,
+    87499,
+    87500,
+    76393,
+    33606,
+    76391,
+    76392
+  ]
+}

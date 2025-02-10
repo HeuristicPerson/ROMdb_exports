@@ -1,0 +1,23 @@
+{
+  "s_type": "game",
+  "i_nid": 48841,
+  "s_title": "Aretha III",
+  "s_synopsis": "",
+  "s_years": "????",
+  "as_genres": [
+    "role play"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 48841,
+      "s_title": "Aretha",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    232
+  ]
+}

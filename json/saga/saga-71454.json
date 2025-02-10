@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 71454,
+  "s_title": "Centipede",
+  "s_synopsis": "",
+  "s_years": "1980\u20131995",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 155726,
+      "s_title": "Millipede",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 39240,
+      "s_title": "Centipede",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

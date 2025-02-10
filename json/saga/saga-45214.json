@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 45214,
+  "s_title": "Pandemonium",
+  "s_synopsis": "",
+  "s_years": "1996\u20131997",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 45213,
+      "s_title": "Pandemonium 2",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45212,
+      "s_title": "Pandemonium",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

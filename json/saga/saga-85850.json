@@ -1,0 +1,19 @@
+{
+  "s_type": "saga",
+  "i_nid": 85850,
+  "s_title": "Rent a Hero",
+  "s_synopsis": "",
+  "s_years": "1991",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 85849,
+      "s_title": "Rent a Hero",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

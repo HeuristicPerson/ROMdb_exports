@@ -1,0 +1,32 @@
+{
+  "s_type": "game",
+  "i_nid": 102391,
+  "s_title": "Adventures of Lolo",
+  "s_synopsis": "Prince Lolo of Gentryland visited Eden, a country of love and peace, and enjoyed many pleasant days with Princess Lala of Eden. But one day, Egger, the King of Darkness, who had an evil plot to conquer Eden, spirited the Princess away before Lolo&#039;s eyes. After a long and difficult journey, Lolo has come to the evil Castle of the Labyrinth. The castle is guarded by an army of evil monsters led by Egger, the King of Darkness. Can Lolo solve the seemingly endless series of mazes and save Lala? Lolo is not gifted with strength or agility, but has great courage and patience. Now the battle of wits begins. Good luck, Lolo!",
+  "s_years": "1989\u20131995",
+  "as_genres": [
+    "puzzle"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 102391,
+      "s_title": "Adventures of Lolo",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    71767,
+    159739,
+    71766,
+    159738,
+    6897,
+    159741,
+    6899,
+    159740,
+    6898,
+    185
+  ]
+}

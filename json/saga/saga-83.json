@@ -1,0 +1,19 @@
+{
+  "s_type": "saga",
+  "i_nid": 83,
+  "s_title": "Virtua Racing",
+  "s_synopsis": "",
+  "s_years": "1994",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 84,
+      "s_title": "Virtua Racing",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

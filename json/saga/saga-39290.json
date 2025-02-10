@@ -1,0 +1,99 @@
+{
+  "s_type": "saga",
+  "i_nid": 39290,
+  "s_title": "Fatal Fury",
+  "s_synopsis": "SNK&#039;s original Street Fighter clone turned legit fighting franchise in which warriors from all corners of the world battle against each other.",
+  "s_years": "1991\u20131999",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 43028,
+      "s_title": "Real Bout Fatal Fury 2 - The Newcomers",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 40089,
+      "s_title": "Fatal Fury 3 - Road to the Final Victory",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 39338,
+      "s_title": "Real Bout Fatal Fury Special",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 39300,
+      "s_title": "Real Bout Fatal Fury",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 39299,
+      "s_title": "Fatal Fury Wild Ambition",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 39295,
+      "s_title": "Garou - Mark of the Wolves",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 39293,
+      "s_title": "Fatal Fury Special",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 39292,
+      "s_title": "Fatal Fury 2",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 39291,
+      "s_title": "Fatal Fury",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "s_type": "saga",
+  "i_nid": 39378,
+  "s_title": "Splatterhouse",
+  "s_synopsis": "A series of horror-themed fighting games that star the masked character Rick who usually has to chase after his wife Jennifer who has been kidnapped.",
+  "s_years": "1988\u20131993",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 39382,
+      "s_title": "Splatterhouse - Wanpaku Graffiti",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 39381,
+      "s_title": "Splatterhouse 3",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 39380,
+      "s_title": "Splatterhouse 2",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 39379,
+      "s_title": "Splatterhouse",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

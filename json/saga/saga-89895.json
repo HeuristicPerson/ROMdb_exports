@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 89895,
+  "s_title": "Spriggan",
+  "s_synopsis": "",
+  "s_years": "1996",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 89896,
+      "s_title": "Seirei Senshi Spriggan",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 89894,
+      "s_title": "Spriggan Powered",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

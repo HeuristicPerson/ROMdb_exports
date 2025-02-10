@@ -1,0 +1,24 @@
+{
+  "s_type": "game",
+  "i_nid": 84953,
+  "s_title": "CT Special Forces 3 - Bioterror",
+  "s_synopsis": "The evil terrorist organization known as A.L.K. has created a new molecule capable of modifying human DNA, reinforcing aggression and strength genes. Using this they have created a new breed of super soldiers.",
+  "s_years": "2004",
+  "as_genres": [
+    "action"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 84953,
+      "s_title": "CT Special Forces",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    10686,
+    22674
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 47677,
+  "s_title": "Darwin",
+  "s_synopsis": "",
+  "s_years": "1986\u20131990",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 47678,
+      "s_title": "SRD Super Real Darwin",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45144,
+      "s_title": "Darwin 4078",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

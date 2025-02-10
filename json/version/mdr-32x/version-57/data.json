@@ -1,0 +1,34 @@
+{
+  "s_type": "version",
+  "i_nid": 57,
+  "s_dat_name": "mdr-32x_no-intro",
+  "s_dat_version": "Sega - 32X | https://www.no-intro.org | 20231229-101939",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Virtua Racing Deluxe (USA)",
+  "s_romset_alias": "Virtua Racing Deluxe (USA)",
+  "i_romset_size": 3145728,
+  "s_romset_crc32": "7896b62e",
+  "s_romset_platform": "mdr-32x",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 0,
+  "f_mdata_rating_value": 0,
+  "s_mdata_media_type": "cartridge",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "1994-??-??",
+  "as_mdata_views": [
+    "1st person",
+    "back"
+  ],
+  "s_mdata_overscan": "0, 0, 0, 0",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[usa] V.R. - Virtua Racing Deluxe"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    84
+  ]
+}

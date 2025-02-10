@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 47294,
+  "s_title": "Excitebike",
+  "s_synopsis": "",
+  "s_years": "1984",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 47293,
+      "s_title": "Excitebike - BunBun Mario Battle Stadium",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 40150,
+      "s_title": "Excitebike",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

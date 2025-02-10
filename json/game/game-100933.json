@@ -1,0 +1,43 @@
+{
+  "s_type": "game",
+  "i_nid": 100933,
+  "s_title": "LEGO Star Wars II - The Original Trilogy",
+  "s_synopsis": "The Legos strike back in the sequel to the original &quot;LEGO Star Wars: The Video Game&quot;, where players now get to explore the original trilogy (Episodes IV, V, and VI) of the Star Wars movie series. Players use LEGO-ized Star Wars characters to reenact all three of the original movies. All of the sets and props are also made out of LEGO bricks, and retain their properties such as the ability to be rebuilt and fall apart. Like its predecessor, the game puts a spin on the series by adding a light-hearted, humorous touch to the movies, and also by using no dialogue.",
+  "s_years": "????",
+  "as_genres": [
+    "action",
+    "adventure"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 100933,
+      "s_title": "LEGO Star Wars",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    133077,
+    11591,
+    61537,
+    98185,
+    107660,
+    135609,
+    11592,
+    61534,
+    98578,
+    107661,
+    135610,
+    61536,
+    61535,
+    107658,
+    124564,
+    124565,
+    135611,
+    61533,
+    61532,
+    107659
+  ]
+}

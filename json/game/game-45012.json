@@ -1,0 +1,14 @@
+{
+  "s_type": "game",
+  "i_nid": 45012,
+  "s_title": "Botics",
+  "s_synopsis": "Botics is a Pong variant set in the future. It is disguised as futuristic sports event in which the player fights against five opponents. The basic idea is that each playfield has a large opening on two sides which are guarded by remote-controlled robots. Each of the opponents controls a robot with the goal to reflect a bouncing ball so it enters the opposite opening. If that happens, the screen switches to the next of five areas.",
+  "s_years": "????",
+  "as_genres": [
+    "sports"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    36161
+  ]
+}

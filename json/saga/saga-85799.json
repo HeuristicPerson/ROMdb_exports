@@ -1,0 +1,39 @@
+{
+  "s_type": "saga",
+  "i_nid": 85799,
+  "s_title": "Valkyrie",
+  "s_synopsis": "",
+  "s_years": "1986\u20131992",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 85801,
+      "s_title": "Valkyrie no Densetsu",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 85800,
+      "s_title": "Valkyrie no Bouken",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 85798,
+      "s_title": "Whirlo",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "s_type": "game",
+  "i_nid": 39305,
+  "s_title": "Rolling Thunder 3",
+  "s_synopsis": "",
+  "s_years": "1993",
+  "as_genres": [
+    "action"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 39305,
+      "s_title": "Rolling Thunder",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    6318
+  ]
+}

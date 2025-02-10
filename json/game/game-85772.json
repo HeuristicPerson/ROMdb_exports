@@ -1,0 +1,27 @@
+{
+  "s_type": "game",
+  "i_nid": 85772,
+  "s_title": "Aerobiz",
+  "s_synopsis": "You&#039;re ambitious and you strive for excellence. Your goal is to create a global airline network. You know travelers depend on your airline to get them where they want to go. Now convince them your airline is the best way to fly!\r\nA clean safety record, ad campaigns and special services will distinguish you from the rest. As your network expands, establish hub offices and invest in a hotel chain. Tourism will boost income and win passengers away from your competitors. Be aggressive and maintain superiority in the skies.",
+  "s_years": "1992",
+  "as_genres": [
+    "strategy"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 85772,
+      "s_title": "Aerobiz",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    5204,
+    1839,
+    1840,
+    5197,
+    1832
+  ]
+}

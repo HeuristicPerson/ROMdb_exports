@@ -1,0 +1,26 @@
+{
+  "s_type": "game",
+  "i_nid": 48859,
+  "s_title": "Zero Divide",
+  "s_synopsis": "On one fateful day in the near future, an online database known as XTAL Tower has surfaced. The hackers who were running it claimed that the database contained the national security secrets of every country in the world. Governments have received an invitation from the mysterious XTAL: if they can create robots who are strong enough to defeat XTAL security units, the database will not be made public. The most powerful robots are dispatched on the dangerous mission: take down the units, and eventually destroy XTAL itself...",
+  "s_years": "1995",
+  "as_genres": [
+    "vs. fighting"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 48859,
+      "s_title": "Zero Divide",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    18440,
+    19104,
+    85444,
+    18439
+  ]
+}

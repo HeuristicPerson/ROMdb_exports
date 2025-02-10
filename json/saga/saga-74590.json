@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 74590,
+  "s_title": "Jack T. Ladd",
+  "s_synopsis": "Pair of sci-fi graphical adventure games featuring the roguish Jack T. Ladd as a main protagonist.",
+  "s_years": "????",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 74589,
+      "s_title": "Guilty",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 71381,
+      "s_title": "Innocent Until Caught",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

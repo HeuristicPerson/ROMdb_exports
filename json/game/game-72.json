@@ -1,0 +1,55 @@
+{
+  "s_type": "game",
+  "i_nid": 72,
+  "s_title": "Doom II - Hell on Earth",
+  "s_synopsis": "In this sequel to the original &quot;Doom&quot;, the protagonist is still the same hero - the last remaining space marine. After having single-handedly saved Mars from demonic threat, he returns to Earth, only to find out that the demons have already invaded it, killed most of its inhabitants or possessed them. It&#039;s his task to bring down the force field around the last operational star port to allow the remnants of mankind to escape to the stars.",
+  "s_years": "1994\u20132001",
+  "as_genres": [
+    "shooter"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 72,
+      "s_title": "Doom",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    10813,
+    49946,
+    50650,
+    57157,
+    57184,
+    57188,
+    155159,
+    10814,
+    49947,
+    57159,
+    57185,
+    57193,
+    57197,
+    49708,
+    49948,
+    57160,
+    57186,
+    57194,
+    57198,
+    49783,
+    50240,
+    52765,
+    57183,
+    57187,
+    57195,
+    57199,
+    52422,
+    52606,
+    57189,
+    57190,
+    57196,
+    57191,
+    57192
+  ]
+}

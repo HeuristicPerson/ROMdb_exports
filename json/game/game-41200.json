@@ -1,0 +1,44 @@
+{
+  "s_type": "game",
+  "i_nid": 41200,
+  "s_title": "Lethal Enforcers",
+  "s_synopsis": "Pick up your pistol and be the cop you need to be in order to rid the streets of the criminals out to make your day hell. Aim wisely and quickly, otherwise your lives will be lost quickly in this 1st person arcade shooter, cleaning up the streets. The higher the difficulty level, the more crimes there will be to eliminate, but watch out for the other weapons that can help you along the way. Go straight into the mayhem, practice in the targeting range or have a friend back you up in two player mode. \r\n",
+  "s_years": "1992\u20131993",
+  "as_genres": [
+    "shooter"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 41200,
+      "s_title": "Lethal Enforcers",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    16705,
+    46820,
+    16736,
+    75721,
+    21453,
+    16684,
+    21658,
+    30106,
+    30103,
+    30104,
+    30099,
+    30100,
+    30101,
+    30105,
+    30102,
+    5903,
+    3168,
+    5901,
+    3169,
+    5902,
+    3170,
+    5900
+  ]
+}

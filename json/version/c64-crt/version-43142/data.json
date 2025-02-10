@@ -1,0 +1,32 @@
+{
+  "s_type": "version",
+  "i_nid": 43142,
+  "s_dat_name": "c64-crt_no-intro",
+  "s_dat_version": "Commodore - 64 | http://www.no-intro.org | 20151122-035618",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "MicroProse Soccer + Rick Dangerous + Stunt Car Racer (Europe) (Power Play)",
+  "s_romset_alias": "",
+  "i_romset_size": 131392,
+  "s_romset_crc32": "96be8043",
+  "s_romset_platform": "c64-crt",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "25",
+  "s_mdata_media_type": "cartridge",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "1990-??-??",
+  "as_mdata_views": [],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[wld] Power Play: MicroProse Soccer - Rick Dangerous - Stunt Car Racer"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    38899,
+    44859
+  ]
+}

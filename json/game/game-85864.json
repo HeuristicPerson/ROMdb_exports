@@ -1,0 +1,33 @@
+{
+  "s_type": "game",
+  "i_nid": 85864,
+  "s_title": "Robotron 2084",
+  "s_synopsis": "In 2084, man creates a species of super-advanced cyborgs known as Robotrons. Recognizing the imperfect nature of their creators, the Robotrons conclude that the inefficient human race must be exterminated. Only you and a single family of clones remain. If mankind is to survive, you must destroy the Grunts, Brains, Enforcers, and Tanks - but avoid the indestructible Hulks at all cost. Can you withstand wave after wave of android invasion... before it&#039;s too late?",
+  "s_years": "1982\u20132012",
+  "as_genres": [
+    "shooter"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 85864,
+      "s_title": "Robotron",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    43202,
+    49479,
+    39472,
+    32534,
+    32535,
+    32536,
+    76181,
+    15762,
+    32532,
+    14567,
+    32533
+  ]
+}

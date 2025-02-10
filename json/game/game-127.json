@@ -1,0 +1,24 @@
+{
+  "s_type": "game",
+  "i_nid": 127,
+  "s_title": "Metal Head",
+  "s_synopsis": "It has been five years after the formation of the Worldwide Federation. Although war has been averted, terrorist cells around the world threaten the stability of the federation. To combat this menace, the Federation has created a bi-pedal armored tank known as the Metal Head. You are a Metal Head pilot, and you have to use all the weapons at your disposal to take out the terrorists.",
+  "s_years": "1994\u20131995",
+  "as_genres": [
+    "action"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    29,
+    101177,
+    101178,
+    101179,
+    101180,
+    101181,
+    101182,
+    101183,
+    101184,
+    101185,
+    30
+  ]
+}

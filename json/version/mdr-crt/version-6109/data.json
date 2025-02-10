@@ -1,0 +1,31 @@
+{
+  "s_type": "version",
+  "i_nid": 6109,
+  "s_dat_name": "mdr-crt_no-intro",
+  "s_dat_version": "Sega - Mega Drive - Genesis | https://www.no-intro.org | 20231204-141612",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Oh Mummy Genesis (World) (Aftermarket) (Unl)",
+  "s_romset_alias": "Oh Mummy Genesis (World) (Aftermarket) (Unl)",
+  "i_romset_size": 1048576,
+  "s_romset_crc32": "b7f68b29",
+  "s_romset_platform": "mdr-crt",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "40",
+  "s_mdata_media_type": "cartridge",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "",
+  "as_mdata_views": [
+    "top"
+  ],
+  "s_mdata_overscan": "0, 0, 0, 0",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[wld] Oh Mummy Genesis"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": []
+}

@@ -1,0 +1,22 @@
+{
+  "s_type": "game",
+  "i_nid": 44931,
+  "s_title": "Cruis'n World",
+  "s_synopsis": "&quot;Cruis&#039;n World&quot; leads the players to race all around the world. Courses are located in: Egypt, Florida, Germany, Hawaii, Russia, England, France, Kenya, New York, Australia, China, Italy, and Mexico.\r\n",
+  "s_years": "????",
+  "as_genres": [
+    "racing"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    27610,
+    27614,
+    40310,
+    27611,
+    27615,
+    27612,
+    27616,
+    27613,
+    40309
+  ]
+}

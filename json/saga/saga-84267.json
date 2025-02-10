@@ -1,0 +1,19 @@
+{
+  "s_type": "saga",
+  "i_nid": 84267,
+  "s_title": "Montezuma's Revenge",
+  "s_synopsis": "",
+  "s_years": "????",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 84266,
+      "s_title": "Montezuma's Revenge",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

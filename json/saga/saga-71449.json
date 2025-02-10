@@ -1,0 +1,39 @@
+{
+  "s_type": "saga",
+  "i_nid": 71449,
+  "s_title": "Syphon Filter",
+  "s_synopsis": "",
+  "s_years": "1999",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 85455,
+      "s_title": "Syphon Filter 3",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 84239,
+      "s_title": "Syphon Filter 2",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 71448,
+      "s_title": "Syphon Filter",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

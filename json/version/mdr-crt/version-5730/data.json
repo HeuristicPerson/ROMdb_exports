@@ -1,0 +1,37 @@
+{
+  "s_type": "version",
+  "i_nid": 5730,
+  "s_dat_name": "mdr-crt_no-intro",
+  "s_dat_version": "Sega - Mega Drive - Genesis | https://www.no-intro.org | 20231204-141612",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Gunstar Heroes (Japan) (April, 1993) (Sample)",
+  "s_romset_alias": "Gunstar Heroes (Japan) (April, 1993) (Sample)",
+  "i_romset_size": 1048576,
+  "s_romset_crc32": "6f90b502",
+  "s_romset_platform": "mdr-crt",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 2,
+  "f_mdata_rating_value": "12",
+  "s_mdata_media_type": "cartridge",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "",
+  "as_mdata_views": [
+    "side"
+  ],
+  "s_mdata_overscan": "0, 0, 0, 0",
+  "ai_mdata_players": [
+    "2"
+  ],
+  "as_mdata_multiplayer": [
+    "cooperative"
+  ],
+  "as_mdata_screen_titles": [
+    "[jpn] Gunstar Heroes"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    40110
+  ]
+}

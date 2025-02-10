@@ -1,0 +1,39 @@
+{
+  "s_type": "saga",
+  "i_nid": 85486,
+  "s_title": "Power Rangers",
+  "s_synopsis": "",
+  "s_years": "1994\u20131996",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 85660,
+      "s_title": "Saban's Power Rangers Zeo - Battle Racers",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 85485,
+      "s_title": "Mighty Morphin Power Rangers",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 80998,
+      "s_title": "Mighty Morphin Power Rangers - The Movie",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

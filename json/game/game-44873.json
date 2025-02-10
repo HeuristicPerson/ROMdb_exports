@@ -1,0 +1,29 @@
+{
+  "s_type": "game",
+  "i_nid": 44873,
+  "s_title": "Pang! 3",
+  "s_synopsis": "",
+  "s_years": "1995",
+  "as_genres": [
+    "action"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 44873,
+      "s_title": "Pang",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    80166,
+    42598,
+    42601,
+    42599,
+    42600,
+    75976,
+    75977
+  ]
+}

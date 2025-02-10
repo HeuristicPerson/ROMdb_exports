@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 45102,
+  "s_title": "Shadowgate",
+  "s_synopsis": "",
+  "s_years": "1987\u20131999",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 45103,
+      "s_title": "Shadowgate 64 - Trials of the Four Towers",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45101,
+      "s_title": "Shadowgate",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

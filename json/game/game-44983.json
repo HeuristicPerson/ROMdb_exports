@@ -1,0 +1,18 @@
+{
+  "s_type": "game",
+  "i_nid": 44983,
+  "s_title": "Vulgus",
+  "s_synopsis": "The player controls a spaceship with a single objective: destroy incoming enemies. The vessel has two different weapons: a primary weapon with infinite ammunition and a limited supply of bombs. By picking up the &quot;Pow&quot; icons, which sporadically appear throughout the levels, the player can replenish supplies.",
+  "s_years": "1984\u20131998",
+  "as_genres": [
+    "shooter"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    35289,
+    30243,
+    35287,
+    35288,
+    17487
+  ]
+}

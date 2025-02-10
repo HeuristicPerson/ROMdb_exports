@@ -1,0 +1,42 @@
+{
+  "s_type": "game",
+  "i_nid": 39320,
+  "s_title": "Alien Syndrome",
+  "s_synopsis": "Your job is to run around and rescue all the captives and make it to the escape hatch before the time bomb explodes. Then face the mother alien at the end of the level.",
+  "s_years": "1987\u20131992",
+  "as_genres": [
+    "action"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 39320,
+      "s_title": "Alien Syndrome",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    43334,
+    74920,
+    35878,
+    35879,
+    79127,
+    9605,
+    43333,
+    74919,
+    85970,
+    9603,
+    26363,
+    74917,
+    74921,
+    9604,
+    74918,
+    26360,
+    6936,
+    6937,
+    15796,
+    15797
+  ]
+}

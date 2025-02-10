@@ -1,0 +1,25 @@
+{
+  "s_type": "game",
+  "i_nid": 71445,
+  "s_title": "Exoide-Z",
+  "s_synopsis": "You begin the game as a robot, but immediately transform into a space ship. It is a straight top down, vertical scrolling shooter where you control a space ship and need to shoot down alien ships and bases. In the beginning your weapon shoots a kind of bullets only, but later in the game this can be upgraded to dual bullets and a laser. There are several levels and at the end of each level there is a &quot;boss&quot; fight.",
+  "s_years": "1986",
+  "as_genres": [
+    "shooter"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 71445,
+      "s_title": "Exoide-Z",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    14872,
+    14873,
+    14874
+  ]
+}

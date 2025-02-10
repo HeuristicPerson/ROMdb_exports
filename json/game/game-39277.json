@@ -1,0 +1,24 @@
+{
+  "s_type": "game",
+  "i_nid": 39277,
+  "s_title": "Metroid II - Return of Samus",
+  "s_synopsis": "In Metroid 2, you control Samus Aran in her quest to rid the planet SR388 of the Metroid parasites. After killing the space pirate Mother Brain in the original Metroid, Samus must take on this adventure to prevent the Metroids from multiplying throughout the galaxy. Samus soon finds out that the Metroids have mutated, making them much more difficult to defeat.",
+  "s_years": "1991",
+  "as_genres": [
+    "action",
+    "adventure"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 39277,
+      "s_title": "Metroid",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    963
+  ]
+}

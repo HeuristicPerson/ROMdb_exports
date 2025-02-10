@@ -1,0 +1,46 @@
+{
+  "s_type": "game",
+  "i_nid": 71515,
+  "s_title": "World Series Baseball '95",
+  "s_synopsis": "",
+  "s_years": "1994\u20131995",
+  "as_genres": [
+    "sports"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 71515,
+      "s_title": "World Series Baseball",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    46340,
+    46341,
+    46342,
+    46343,
+    46344,
+    46345,
+    46346,
+    46347,
+    46348,
+    46349,
+    46350,
+    46351,
+    46352,
+    46353,
+    46354,
+    46355,
+    46356,
+    46357,
+    46358,
+    46359,
+    46360,
+    46361,
+    46362,
+    6783
+  ]
+}

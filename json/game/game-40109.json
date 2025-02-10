@@ -1,0 +1,31 @@
+{
+  "s_type": "game",
+  "i_nid": 40109,
+  "s_title": "Gunstar Heroes",
+  "s_synopsis": "Once upon a time, Dr. Brown managed to defeat a mad android known as Golden Silver, who tried to suck out the energy of the planet G-9. Dr. Brown extracted four Mystical Gems, the android&#039;s power source, and sealed them on one of the planet&#039;s moons, where it was guarded by the four Gunstar siblings. However, years later, a dictator named Smash Daisaku kidnapped Gunstar Green and brainwashed him into telling him where the Mystical Gems were. The dictator is now close to reactivating Golden Silver. The Gunstar twins Red and Blue, guided by their sister Yellow, must find a way to stop Smash Daisaku - but they know that their older brother is on that way...",
+  "s_years": "1993\u20131995",
+  "as_genres": [
+    "action"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 40109,
+      "s_title": "Gunstar Heroes",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    5415,
+    160676,
+    160674,
+    5730,
+    160675,
+    5731,
+    5728,
+    5729,
+    15954
+  ]
+}

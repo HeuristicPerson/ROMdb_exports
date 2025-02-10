@@ -1,0 +1,69 @@
+{
+  "s_type": "saga",
+  "i_nid": 85467,
+  "s_title": "Jurassic Park",
+  "s_synopsis": "",
+  "s_years": "1993\u20131994",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 89867,
+      "s_title": "Jurassic Park (D)",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 85843,
+      "s_title": "Jurassic Park Part 2 - The Chaos Continues",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 85468,
+      "s_title": "Jurassic Park (C)",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 85466,
+      "s_title": "Jurassic Park (B)",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 85465,
+      "s_title": "Jurassic Park (A)",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 46393,
+      "s_title": "Jurassic Park - Rampage Edition",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

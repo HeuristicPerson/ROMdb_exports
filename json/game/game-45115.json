@@ -1,0 +1,17 @@
+{
+  "s_type": "game",
+  "i_nid": 45115,
+  "s_title": "Radikal Bikers",
+  "s_synopsis": "Radikal Bikers is a game set in a Mediterranean environment in which players show off their motorbike skills while delivering pizzas.",
+  "s_years": "1998",
+  "as_genres": [
+    "racing"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    14100,
+    22586,
+    32266,
+    32267
+  ]
+}

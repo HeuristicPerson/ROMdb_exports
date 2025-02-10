@@ -1,0 +1,19 @@
+{
+  "s_type": "saga",
+  "i_nid": 71360,
+  "s_title": "Laura Bow",
+  "s_synopsis": "Graphical adventure games in the mystery idiom, featuring the sleuthing of plucky lady protagonist Laura Bow. ",
+  "s_years": "1993",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 71361,
+      "s_title": "The Dagger of Amon Ra",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

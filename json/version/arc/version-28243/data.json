@@ -1,0 +1,33 @@
+{
+  "s_type": "version",
+  "i_nid": 28243,
+  "s_dat_name": "arc_mame",
+  "s_dat_version": "MAME | Simplified with Dat Simplifier - v1.0.2021-11-30 | &quot;0.271 (unknown)&quot;",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "ESP Ra.De. (World, 1998 4/22 International Ver.)",
+  "s_romset_alias": "esprade",
+  "i_romset_size": 42991744,
+  "s_romset_crc32": "160aea9d",
+  "s_romset_platform": "arc",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "75",
+  "s_mdata_media_type": "",
+  "i_mdata_media_number": 0,
+  "s_mdata_date": "1998-04-22",
+  "as_mdata_views": [
+    "top"
+  ],
+  "s_mdata_overscan": "0, 0, 0, 0",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[wld] ESP Ra.De. - A.D. 2018 Tokyo"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    45706
+  ]
+}

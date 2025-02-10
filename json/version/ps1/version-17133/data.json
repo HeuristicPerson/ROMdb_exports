@@ -1,0 +1,34 @@
+{
+  "s_type": "version",
+  "i_nid": 17133,
+  "s_dat_name": "ps1_redump",
+  "s_dat_version": "Sony - PlayStation | Simplified with Dat Simplifier - v1.0.2021-11-30 | &quot;2024-12-24 18-15-06&quot;",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Final Fantasy Origins (USA) (Rev 1)",
+  "s_romset_alias": "Final Fantasy Origins (USA) (Rev 1)",
+  "i_romset_size": 589557024,
+  "s_romset_crc32": "7daa9f2f",
+  "s_romset_platform": "ps1",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "60",
+  "s_mdata_media_type": "CD",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "2003-??-??",
+  "as_mdata_views": [
+    "top"
+  ],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [
+    "1"
+  ],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    39245,
+    39244
+  ]
+}

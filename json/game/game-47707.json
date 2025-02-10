@@ -1,0 +1,23 @@
+{
+  "s_type": "game",
+  "i_nid": 47707,
+  "s_title": "Mouryou Senki Madara 2",
+  "s_synopsis": "The game puts you in the role of a teenager named Kamishiro, who lives in modern-day Japan. One day he and his girlfriend Subaru venture into a mysterious shrine on the outskirts of their home town, and Kamishiro met the princess Sakuya, who explained to him that he must travel to a different world and to help Madara to get rid of Miroku. During his travels Kamishiro meets many characters from the original manga story, including Madara&#039;s brother and rival, Kage-Ou, and discovers the secret connection between the two worlds.",
+  "s_years": "1993",
+  "as_genres": [
+    "role play"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 47707,
+      "s_title": "Mouryou Senki Madara",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    3410
+  ]
+}

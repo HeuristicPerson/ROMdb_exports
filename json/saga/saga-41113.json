@@ -1,0 +1,49 @@
+{
+  "s_type": "saga",
+  "i_nid": 41113,
+  "s_title": "Mana",
+  "s_synopsis": "The Seiken Densetsu Series of Games originally began in 1987, but after Square was almost in financial ruin, they cancelled the project and encouraged people that placed advanced orders for the game to buy Final Fantasy. Once Square had a better reputation as a game developer, they restarted the project. Koichi Ishii has been the lead game designer and/or producer of every game in the Seiken Densetsu series. He has also supervised the new games that have the Seiken Densetsu trademark.",
+  "s_years": "1991\u20132019",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 85604,
+      "s_title": "Sword of Mana",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 47715,
+      "s_title": "Final Fantasy Adventure",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 47714,
+      "s_title": "Trials of Mana",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 39270,
+      "s_title": "Secret of Mana",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

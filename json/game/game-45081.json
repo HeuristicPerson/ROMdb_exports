@@ -1,0 +1,26 @@
+{
+  "s_type": "game",
+  "i_nid": 45081,
+  "s_title": "Langrisser V",
+  "s_synopsis": "",
+  "s_years": "????",
+  "as_genres": [
+    "role play",
+    "strategy"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 45081,
+      "s_title": "Langrisser",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    24748,
+    88685,
+    88701
+  ]
+}

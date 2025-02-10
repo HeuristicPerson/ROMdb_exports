@@ -1,0 +1,28 @@
+{
+  "s_type": "game",
+  "i_nid": 39246,
+  "s_title": "Mystic Quest Legend",
+  "s_synopsis": "Focus Tower is the center of the world and balances the forces of the world. However 4 monsters have taken the 4 elemental crystals (Earth, Water, Fire, Wind) for their own use, and also taken the 4 keys that for doors inside of Focus Tower. With the balance disrupted, disasters befall the world. A young boy by the name of Benjamin finds his home village destroyed. Meeting a mysterious old man while trying to escape from earthquakes, he soon learns that he is the prophesized hero and the only one who can save the world. Benjamin must recover the 4 crystals, unlock Focus Tower and defeat the ultimate monster before the 5th crystal, the Crystal of Life is corrupted.",
+  "s_years": "1992\u20131993",
+  "as_genres": [
+    "role play"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 39246,
+      "s_title": "Final Fantasy",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    2506,
+    2507,
+    3434,
+    3435,
+    2516,
+    3433
+  ]
+}

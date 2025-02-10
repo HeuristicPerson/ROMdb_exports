@@ -1,0 +1,27 @@
+{
+  "s_type": "game",
+  "i_nid": 85878,
+  "s_title": "Wizardry V - Heart of the Maelstrom",
+  "s_synopsis": "The Legacy Continues... Despite the greatest magic of the ancient High Sages, great floods, earthquakes, and famine again pervade the great land of Llylgamyn. The great orb of L&#039;Kbreth, an artifact of remarkable power that has protected the city for generations, is powerless to halt the scourge. But now, the Sages have discovered that the hidden reason is deeper and more frightening than the worst of these disasters. To save the very world as we know it, you, and your intrepid party must march headlong into the... Heart of the Maelstrom!",
+  "s_years": "????",
+  "as_genres": [
+    "role play"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 85878,
+      "s_title": "Wizardry",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    5024,
+    49562,
+    5025,
+    25546,
+    47281
+  ]
+}

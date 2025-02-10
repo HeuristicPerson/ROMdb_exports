@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 102454,
+  "s_title": "Mappy",
+  "s_synopsis": "",
+  "s_years": "1983\u20131991",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 102453,
+      "s_title": "Mappy",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 97764,
+      "s_title": "Mappy-Land",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

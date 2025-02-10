@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 97803,
+  "s_title": "Cyber Knight",
+  "s_synopsis": "",
+  "s_years": "????",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 97804,
+      "s_title": "Cyber Knight II",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 97802,
+      "s_title": "Cyber Knight",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

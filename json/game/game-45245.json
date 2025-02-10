@@ -1,0 +1,27 @@
+{
+  "s_type": "game",
+  "i_nid": 45245,
+  "s_title": "Athena",
+  "s_synopsis": "In this game, players take the role of Athena, the Goddess of Wisdom, who has grown tired of her life within the castle and ventures into the Fantasy World beyond the castle walls. Strange and fearsome creatures will attack at every turn, but weapons can be found along the way: a ball and chain, a bow and arrow, and a mighty sword. Put on wings and take to the sky, or become a mermaid to explore the ocean depths.\r\n",
+  "s_years": "1986\u20131987",
+  "as_genres": [
+    "action",
+    "platforms"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 45245,
+      "s_title": "Athena",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    26618,
+    26617,
+    6975,
+    6976
+  ]
+}

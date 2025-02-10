@@ -1,0 +1,23 @@
+{
+  "s_type": "game",
+  "i_nid": 97829,
+  "s_title": "Light Fantasy II",
+  "s_synopsis": "",
+  "s_years": "1995",
+  "as_genres": [
+    "role play"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 97829,
+      "s_title": "Light Fantasy",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    3176
+  ]
+}

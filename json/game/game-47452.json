@@ -1,0 +1,27 @@
+{
+  "s_type": "game",
+  "i_nid": 47452,
+  "s_title": "Alex Kidd in the Enchanted Castle",
+  "s_synopsis": "",
+  "s_years": "1988\u20131989",
+  "as_genres": [
+    "platforms"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 47452,
+      "s_title": "Alex Kidd",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    5415,
+    5211,
+    5210,
+    5213,
+    5214
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "s_type": "game",
+  "i_nid": 44941,
+  "s_title": "Curse of The Azure Bonds",
+  "s_synopsis": "Outside of the town of Tilverton, the party of heroes has been ambushed, captured and cursed with five azure markings called &quot;bonds&quot;. These bonds have dangerous magical powers that can take control of the heroes at the most inopportune times. They must now search for the source of the bonds, and free themselves from the curse.",
+  "s_years": "????",
+  "as_genres": [
+    "role play"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 44941,
+      "s_title": "Advanced Dungeons & Dragons - Pool of Radiance",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    35816,
+    43313
+  ]
+}

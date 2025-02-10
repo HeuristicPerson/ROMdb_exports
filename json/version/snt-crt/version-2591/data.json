@@ -1,0 +1,29 @@
+{
+  "s_type": "version",
+  "i_nid": 2591,
+  "s_dat_name": "snt-crt_no-intro",
+  "s_dat_version": "Nintendo - Super Nintendo Entertainment System | https://www.no-intro.org | 20240709-133937",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Full Throttle - All-American Racing (USA) (Beta)",
+  "s_romset_alias": "Full Throttle - All-American Racing (USA) (Beta)",
+  "i_romset_size": 2097152,
+  "s_romset_crc32": "e96e463c",
+  "s_romset_platform": "snt-crt",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 0,
+  "f_mdata_rating_value": 0,
+  "s_mdata_media_type": "cartridge",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "",
+  "as_mdata_views": [
+    "back"
+  ],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [],
+  "s_mdata_differences": "",
+  "ai_parent_games": []
+}

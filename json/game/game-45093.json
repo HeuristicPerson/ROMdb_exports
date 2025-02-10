@@ -1,0 +1,16 @@
+{
+  "s_type": "game",
+  "i_nid": 45093,
+  "s_title": "WEC Le Mans 24",
+  "s_synopsis": "Recreating the famous Le Mans 24 race, although fortunately not in real-time. Although you&#039;re racing against the other cars, you must make each checkpoint in the required amount of time in order to complete the game. The lap is split into three sections, so the fourth section is identical to the first, the fifth to the second, and so on. ",
+  "s_years": "1986\u20131988",
+  "as_genres": [
+    "racing"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    35290,
+    35291,
+    35292
+  ]
+}

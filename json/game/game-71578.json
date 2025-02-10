@@ -1,0 +1,27 @@
+{
+  "s_type": "game",
+  "i_nid": 71578,
+  "s_title": "F-Zero - Maximum Velocity",
+  "s_synopsis": "Fly around 20 detailed futuristic tracks with many vehicles to choose from.",
+  "s_years": "2001\u20132007",
+  "as_genres": [
+    "racing"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 71578,
+      "s_title": "F-Zero",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    71611,
+    10959,
+    47796,
+    10958,
+    11420
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "s_type": "game",
+  "i_nid": 97769,
+  "s_title": "Tiny Toon Adventures",
+  "s_synopsis": "After (once again) losing an animation festival at Acme Looniversity to Buster Bunny, Montana Max has taken his revenge by kidnapping Babs Bunny and locking her up in his mansion. Now, a single player controlling Buster or any one of his three friends Plucky Duck, Dizzy Devil, and Furball must embark on a rescue mission to save her. There are six side-scrolling platform levels, comprised of three stages each (except for Wackyland which has only one stage). Before each level begins, Shirley the Loon will ask the player which of Buster&#039;s three partners should join them on that level. Once the player makes a selection, it cannot be changed. Each of the four available characters have different abilities, so it&#039;s important to choose the right partner.",
+  "s_years": "1991",
+  "as_genres": [
+    "action"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 97769,
+      "s_title": "Tiny Toons",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    6634,
+    9313,
+    87258,
+    9312,
+    9311,
+    84498
+  ]
+}

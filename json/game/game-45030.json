@@ -1,0 +1,22 @@
+{
+  "s_type": "game",
+  "i_nid": 45030,
+  "s_title": "Utopia",
+  "s_synopsis": "Utopia takes the Sim City gameplay concept and adds a military element to it. The game is set in the distant future, where your job is nothing less than Colony Administrator for a new settlement on some far-flung planet. Your aim is to provide the highest Quality of Life rating for the colonists.\r\n",
+  "s_years": "1993",
+  "as_genres": [
+    "strategy"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    80812,
+    38686,
+    4935,
+    38687,
+    38688,
+    4931,
+    4934,
+    4932,
+    4933
+  ]
+}

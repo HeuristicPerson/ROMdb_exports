@@ -1,0 +1,23 @@
+{
+  "s_type": "game",
+  "i_nid": 48963,
+  "s_title": "Spectral Tower",
+  "s_synopsis": "Sinners are being drawn to a nameless town somewhere in Neverland, as if they were being attracted like iron to a magnet. Some had been gathering people for war, while others had been hurting others for their own gain. It was as if they all had their own cross to bear. In the middle of the continent, rose the Spectral Tower, which reflected in their eyes. It is said that a new world will open up for those who can make it to the top of that tower...",
+  "s_years": "????",
+  "as_genres": [
+    "role play"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 48963,
+      "s_title": "Spectral Tower",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    18326
+  ]
+}

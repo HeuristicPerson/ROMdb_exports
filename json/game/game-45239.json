@@ -1,0 +1,20 @@
+{
+  "s_type": "game",
+  "i_nid": 45239,
+  "s_title": "Magic Sword",
+  "s_synopsis": "As the hero, you must climb up a monster-ridden tower to defeat Drokkmar, master of the Blackorb. To do this, you must defeat his army that stands in your way with whatever weapon you are carrying. Health is decreased by coming into contact with various monsters, attacks, traps, and the passage of time. It is increased by finding food. Every certain amount of points, a &quot;Food Fairy&quot; appears and drops off food as well.",
+  "s_years": "1990\u20131992",
+  "as_genres": [
+    "action"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    30280,
+    30278,
+    30279,
+    30281,
+    3230,
+    3231,
+    3232
+  ]
+}

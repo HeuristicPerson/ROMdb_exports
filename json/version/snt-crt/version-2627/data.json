@@ -1,0 +1,33 @@
+{
+  "s_type": "version",
+  "i_nid": 2627,
+  "s_dat_name": "snt-crt_no-intro",
+  "s_dat_version": "Nintendo - Super Nintendo Entertainment System | https://www.no-intro.org | 20240709-133937",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Ganpuru - Gunman's Proof (Japan)",
+  "s_romset_alias": "Ganpuru - Gunman&#039;s Proof (Japan)",
+  "i_romset_size": 3145728,
+  "s_romset_crc32": "af415c24",
+  "s_romset_platform": "snt-crt",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 0,
+  "f_mdata_rating_value": 0,
+  "s_mdata_media_type": "cartridge",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "1997-??-??",
+  "as_mdata_views": [
+    "top"
+  ],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[jpn] It&#039;s Strange World - Ganpuru - Gunman&#039;s Proof / It&#039;s Strange World - \u30ac\u30f3\u30d7\u30eb - Gunman&#039;s Proof"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    48165
+  ]
+}

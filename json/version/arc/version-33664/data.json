@@ -1,0 +1,33 @@
+{
+  "s_type": "version",
+  "i_nid": 33664,
+  "s_dat_name": "arc_mame",
+  "s_dat_version": "MAME | Simplified with Dat Simplifier - v1.0.2021-11-30 | &quot;0.271 (unknown)&quot;",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Strider Hiryu (Japan)",
+  "s_romset_alias": "striderj",
+  "i_romset_size": 5572513,
+  "s_romset_crc32": "7a7d70e0",
+  "s_romset_platform": "arc",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "80",
+  "s_mdata_media_type": "PCB",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "",
+  "as_mdata_views": [
+    "side"
+  ],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[jpn] Strider Hiryuu / \u30b9\u30c8\u30e9\u30a4\u30c0\u30fc\u98db\u7adc"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    39225
+  ]
+}

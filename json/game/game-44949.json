@@ -1,0 +1,27 @@
+{
+  "s_type": "game",
+  "i_nid": 44949,
+  "s_title": "Barbarian II",
+  "s_synopsis": "The Wizard Drax is back after your previous defeat of him. But this time, you&#039;re not alone. The princess you saved back then has taken up a sword and joined your cause! Now, it&#039;s more than a death match. You have to explore the many tunnels in his dungeon, defeat the dangerous monsters that come between you and put cold steel to Drax&#039;s throat.",
+  "s_years": "1989",
+  "as_genres": [
+    "vs. fighting"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 44949,
+      "s_title": "Barbarian",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    35977,
+    43382,
+    36019,
+    36020,
+    36021
+  ]
+}

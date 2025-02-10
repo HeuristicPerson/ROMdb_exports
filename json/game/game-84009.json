@@ -1,0 +1,29 @@
+{
+  "s_type": "game",
+  "i_nid": 84009,
+  "s_title": "Archon - The Light And The Dark",
+  "s_synopsis": "There&#039;s a board. There are pieces with varying powers, squares to move into and an opponent to conquer. Once you decide where to attack, the board explodes into a battlefield. Your pieces, which include phoenixes, golems and wizards, fight the banshees, goblins and sorceresses. They cast spells and throw missiles in a fight to the finish. Only if you&#039;re smart, fast and dextrous will you win.",
+  "s_years": "1983",
+  "as_genres": [
+    "action",
+    "strategy"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 84009,
+      "s_title": "Archon",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    6955,
+    49277,
+    35926,
+    76953,
+    35927,
+    43357
+  ]
+}

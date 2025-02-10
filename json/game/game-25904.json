@@ -1,0 +1,25 @@
+{
+  "s_type": "game",
+  "i_nid": 25904,
+  "s_title": "Solar Assault",
+  "s_synopsis": "",
+  "s_years": "1997",
+  "as_genres": [
+    "shooter"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 25904,
+      "s_title": "Gradius",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    33113,
+    33114,
+    33115
+  ]
+}

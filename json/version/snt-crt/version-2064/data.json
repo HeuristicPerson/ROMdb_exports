@@ -1,0 +1,33 @@
+{
+  "s_type": "version",
+  "i_nid": 2064,
+  "s_dat_name": "snt-crt_no-intro",
+  "s_dat_version": "Nintendo - Super Nintendo Entertainment System | https://www.no-intro.org | 20240709-133937",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Breath of Fire - Ryuu no Senshi (Japan) (Rev 1)",
+  "s_romset_alias": "Breath of Fire - Ryuu no Senshi (Japan) (Rev 1)",
+  "i_romset_size": 1572864,
+  "s_romset_crc32": "e0b0bbec",
+  "s_romset_platform": "snt-crt",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "75",
+  "s_mdata_media_type": "cartridge",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "1993-??-??",
+  "as_mdata_views": [
+    "top"
+  ],
+  "s_mdata_overscan": "0, 0, 0, 0",
+  "ai_mdata_players": [
+    "1"
+  ],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    41122
+  ]
+}

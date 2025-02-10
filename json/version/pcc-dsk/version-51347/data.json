@@ -1,0 +1,39 @@
+{
+  "s_type": "version",
+  "i_nid": 51347,
+  "s_dat_name": "pcc-dsk_god",
+  "s_dat_version": "The Good Old Days | (SIMPLIFIED DAT) | &quot;2020-12-27 14:34:21&quot;",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Treasure Trap [2224]",
+  "s_romset_alias": "",
+  "i_romset_size": 1474560,
+  "s_romset_crc32": "60c5d0b4",
+  "s_romset_platform": "pcc-dsk",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [
+    "eng"
+  ],
+  "as_mdata_lang_voice": [
+    "non"
+  ],
+  "i_mdata_rating_votes": 0,
+  "f_mdata_rating_value": 0,
+  "s_mdata_media_type": "3.5\" disk",
+  "i_mdata_media_number": 2,
+  "s_mdata_date": "1989-??-??",
+  "as_mdata_views": [
+    "isometric"
+  ],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [
+    "1"
+  ],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[???] Treasure Trap"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    52635
+  ]
+}

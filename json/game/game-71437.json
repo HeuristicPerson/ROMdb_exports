@@ -1,0 +1,40 @@
+{
+  "s_type": "game",
+  "i_nid": 71437,
+  "s_title": "Hexen - Beyond Heretic",
+  "s_synopsis": "&quot;Hexen&quot; is the sequel to &quot;Heretic&quot;. While the Heretic was destroying D&#039;Sparil, the other two Serpent Riders have come to your dimension and slaughtered everyone. Or so they thought. Three humans have managed to escape with their lives and now seek vengeance against the Serpent Rider Korax who remains in their world.",
+  "s_years": "1995",
+  "as_genres": [
+    "shooter"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 71437,
+      "s_title": "Heretic",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    18386,
+    40452,
+    50165,
+    69683,
+    18700,
+    40453,
+    52765,
+    60044,
+    72989,
+    24641,
+    40454,
+    60039,
+    60043,
+    40451,
+    40455,
+    60040,
+    69682,
+    60041
+  ]
+}

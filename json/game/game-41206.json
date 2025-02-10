@@ -1,0 +1,26 @@
+{
+  "s_type": "game",
+  "i_nid": 41206,
+  "s_title": "Rick Dangerous 2",
+  "s_synopsis": "Your role as Rick Dangerous demands that you stop the Fat Guy and his evil plans to help an alien race take over control of our world. The journey takes in Hyde Park, Ice Caverns, Forest and Atomic Mines. He must solve positional puzzles and memorise the locations of laser bolts and booby traps, as well as avoiding enemies including robots, penguins and nomads. As in the first game, a fifth level is unlocked after you complete the four standard levels.",
+  "s_years": "????",
+  "as_genres": [
+    "platforms"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 41206,
+      "s_title": "Rick Dangerous",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    37966,
+    37967,
+    78463,
+    80960
+  ]
+}

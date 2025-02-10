@@ -1,0 +1,25 @@
+{
+  "s_type": "game",
+  "i_nid": 48169,
+  "s_title": "The Chaos Engine 2",
+  "s_synopsis": "At the end of The Chaos Engine you managed to put a stop to Baron Fortesque&#039;s out of control machine, only to free the Baron himself from its clutches. Unfortunately not everything went to plan after that. During the confusion the Baron snuck away back into his own contraption and into another time period. Our two heroes decide the only way to stop him is follow him, but unfortunately luck isn&#039;t on their side...",
+  "s_years": "????",
+  "as_genres": [
+    "shooter"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 48169,
+      "s_title": "The Chaos Engine",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    5395,
+    36302,
+    36303
+  ]
+}

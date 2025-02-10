@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 71399,
+  "s_title": "Clay Fighter",
+  "s_synopsis": "",
+  "s_years": "1993\u20131994",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 85831,
+      "s_title": "Clay Fighter 2 - Judgment Clay",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 71400,
+      "s_title": "Clay Fighter",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

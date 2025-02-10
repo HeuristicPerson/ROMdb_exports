@@ -1,0 +1,69 @@
+{
+  "s_type": "saga",
+  "i_nid": 40116,
+  "s_title": "Wonder Boy",
+  "s_synopsis": "Wonder Boy is a series of predominantly platform games developed by Westone. Most of the games in the series feature a recurrent protagonist, the titular boy with a caveman-like appearance known as Tom-Tom. The plots often involve his girlfriend Tanya being kidnapped, and rescuing her becomes the main goal of the game.",
+  "s_years": "1986\u20131994",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 76862,
+      "s_title": "Takahashi Meijin no Bouken-jima IV",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 48850,
+      "s_title": "Wonder Boy in Monster Land",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 46800,
+      "s_title": "Wonder Boy",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 46799,
+      "s_title": "Wonder Boy in Monster World",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 46798,
+      "s_title": "Monster World IV",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 40117,
+      "s_title": "Wonder Boy III - Monster Lair",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

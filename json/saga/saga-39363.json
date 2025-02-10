@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 39363,
+  "s_title": "Bomb Jack",
+  "s_synopsis": "",
+  "s_years": "1984\u20131992",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 39362,
+      "s_title": "Mighty Bomb Jack",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 39361,
+      "s_title": "Bomb Jack",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

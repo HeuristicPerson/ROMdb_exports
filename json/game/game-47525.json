@@ -1,0 +1,25 @@
+{
+  "s_type": "game",
+  "i_nid": 47525,
+  "s_title": "Advance Guardian Heroes",
+  "s_synopsis": "",
+  "s_years": "2004",
+  "as_genres": [
+    "brawler"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 47525,
+      "s_title": "Guardian Heroes",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    10240,
+    10241,
+    10242
+  ]
+}

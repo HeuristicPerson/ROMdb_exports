@@ -1,0 +1,14 @@
+{
+  "s_type": "game",
+  "i_nid": 48095,
+  "s_title": "Kick Master",
+  "s_synopsis": "The evil wizard Belzed and his forces have attacked the kingdom of Lowrel, killed its king and queen and kidnapped princess Silphee. Players take control of aspiring martial artist Thonolan who sets out to rescue Silphee and defeat Belzed.",
+  "s_years": "1991",
+  "as_genres": [
+    "action"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    8085
+  ]
+}

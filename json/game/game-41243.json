@@ -1,0 +1,24 @@
+{
+  "s_type": "game",
+  "i_nid": 41243,
+  "s_title": "Magical Night Dreams - Cotton 2",
+  "s_synopsis": "The true sequel to Cotton, Cotton 2 introduces Cotton&#039;s rival Appli for 2-player support for the first time and the story this time deals with the disappearance of the magic &quot;Bluewater Willow&quot; from the Kingdom&#039;s treasury. Cotton and Appli must now search the lands for the magic willow battling all the enemies they encounter in the way before its too late.",
+  "s_years": "1997",
+  "as_genres": [
+    "shooter"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 41243,
+      "s_title": "Cotton",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    86143,
+    86142
+  ]
+}

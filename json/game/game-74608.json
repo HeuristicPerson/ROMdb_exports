@@ -1,0 +1,17 @@
+{
+  "s_type": "game",
+  "i_nid": 74608,
+  "s_title": "Iron Commando",
+  "s_synopsis": "Take control of either Jake, a soldier, or Chang Li, a martial arts master, in your quest to stop G.H.O.S.T. from capturing a radioactive meteorite.",
+  "s_years": "????",
+  "as_genres": [
+    "brawler"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    2873,
+    46459,
+    80706,
+    101003
+  ]
+}

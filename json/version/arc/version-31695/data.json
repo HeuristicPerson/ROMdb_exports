@@ -1,0 +1,33 @@
+{
+  "s_type": "version",
+  "i_nid": 31695,
+  "s_dat_name": "arc_mame",
+  "s_dat_version": "MAME | Simplified with Dat Simplifier - v1.0.2021-11-30 | &quot;0.271 (unknown)&quot;",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Pink Sweets: Ibara Sorekara (2006/xx/xx MASTER VER.)",
+  "s_romset_alias": "pinkswtsx",
+  "i_romset_size": 148897792,
+  "s_romset_crc32": "56871319",
+  "s_romset_platform": "arc",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "50",
+  "s_mdata_media_type": "",
+  "i_mdata_media_number": 0,
+  "s_mdata_date": "2006-??-??",
+  "as_mdata_views": [
+    "top"
+  ],
+  "s_mdata_overscan": "0, 0, 0, 0",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[jpn] Pink Sweets - Pinku Suitsu - Ibara Sorekara / Pink Sweets - \u30d4\u30f3\u30af\u30b9\u30a5\u30a4\u30fc\u30c4 - \u92f3\u8594\u8587\u305d\u308c\u304b\u3089"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    44877
+  ]
+}

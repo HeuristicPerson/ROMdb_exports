@@ -1,0 +1,24 @@
+{
+  "s_type": "game",
+  "i_nid": 41137,
+  "s_title": "Final Fight Revenge",
+  "s_synopsis": "The Mad Gear gang is on the loose again! Take control of a total of 10 fighters (all from the original Final Fight) and foil them, making Metro City safe from crime once again.",
+  "s_years": "1999",
+  "as_genres": [
+    "brawler"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 41137,
+      "s_title": "Final Fight",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    86298,
+    86299
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "s_type": "game",
+  "i_nid": 47617,
+  "s_title": "Dragon View",
+  "s_synopsis": "Many years ago, four brave warriors have reclaimed the magical Drakkhen tears for humanity, liberating it from the yoke of powerful dragons. Alex, a descendant of one of those heroes, enjoys a peaceful life in the town of Rysis ans is about to marry his sweetheart Katarina. However, a mysterious wizard interferes and kidnaps the young woman. Alex embarks on a quest to locate and defeat him, unraveling an even more nefarious scheme in the process.",
+  "s_years": "????",
+  "as_genres": [
+    "action",
+    "role play"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 47617,
+      "s_title": "Drakkhen",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    2374,
+    4358,
+    74379
+  ]
+}

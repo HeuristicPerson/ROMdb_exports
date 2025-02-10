@@ -1,0 +1,31 @@
+{
+  "s_type": "game",
+  "i_nid": 71752,
+  "s_title": "Time Killers",
+  "s_synopsis": "",
+  "s_years": "????",
+  "as_genres": [
+    "vs. fighting"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 71752,
+      "s_title": "Time Killers",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    6629,
+    34595,
+    76615,
+    6630,
+    34596,
+    34593,
+    42920,
+    34594,
+    76614
+  ]
+}

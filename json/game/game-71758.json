@@ -1,0 +1,20 @@
+{
+  "s_type": "game",
+  "i_nid": 71758,
+  "s_title": "Troddlers",
+  "s_synopsis": "Take control of an animal-like wizard who can create and remove blocks; these blocks are useful for both jumping onto and redirecting the path of the little Troddlers that you have to direct towards the exit. The tricky bit is that the Troddlers can climb walls and ceilings, following the edge of the world and the exit is often in the middle of the screen or with an obstacle in the way.",
+  "s_years": "1992\u20131993",
+  "as_genres": [
+    "puzzle"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    51571,
+    38631,
+    80809,
+    4856,
+    80808,
+    4855,
+    4857
+  ]
+}

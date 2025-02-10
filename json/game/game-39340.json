@@ -1,0 +1,29 @@
+{
+  "s_type": "game",
+  "i_nid": 39340,
+  "s_title": "Mega Man 8",
+  "s_synopsis": "A gigantic space explosion sends two strange meteors crashing to Earth, the call goest out and Mega Man speeds to the site. There he sees his arch-rival, Dr. Wily, fleeing the scene, clutching one of the mysterious metallic meteors. Now Mega Man must uncover the secret of the second meteor in a race to stay one step ahead of Dr. Wily and his new deadly breed of super-powered robots. With the whole cast assembled for Mega Man&#039;s 32-bit debut and an exclusive onscreen Mega Man 8 Japanese art collection, the 10th anniversary edition is the ultimate mega package, the Blue Bomber&#039;s back!",
+  "s_years": "1997",
+  "as_genres": [
+    "action",
+    "platforms"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 39340,
+      "s_title": "Mega Man",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    87621,
+    19290,
+    88400,
+    22622,
+    84469,
+    18151
+  ]
+}

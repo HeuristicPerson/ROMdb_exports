@@ -1,0 +1,22 @@
+{
+  "s_type": "game",
+  "i_nid": 45187,
+  "s_title": "Ecco Jr.",
+  "s_synopsis": "Ecco Jr. is a prequel to &quot;Ecco the Dolphin&quot;, set during his childhood. Together with his friends Tara the Whale and Kitney the Dolphin, Ecco goes looking for the legendary blue whale. Released after the two main Ecco games, this title is geared towards younger children with simplified gameplay, lacking the difficulty of the other Ecco games. The game also contains a number of educational facts about dolphins.",
+  "s_years": "1995",
+  "as_genres": [],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 45187,
+      "s_title": "Ecco the Dolphin",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    5560,
+    5561
+  ]
+}

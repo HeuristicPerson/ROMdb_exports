@@ -1,0 +1,39 @@
+{
+  "s_type": "version",
+  "i_nid": 61571,
+  "s_dat_name": "pcc-opt_redump",
+  "s_dat_version": "IBM - PC compatible | (SIMPLIFIED DAT) | &quot;2021-02-13 16-48-59&quot;",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Lands of Lore II - Guardians of Destiny (Europe) (Disc 1)",
+  "s_romset_alias": "",
+  "i_romset_size": 671244336,
+  "s_romset_crc32": "211c5e72",
+  "s_romset_platform": "pcc-opt",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [
+    "eng"
+  ],
+  "as_mdata_lang_voice": [
+    "eng"
+  ],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "25",
+  "s_mdata_media_type": "CD",
+  "i_mdata_media_number": 4,
+  "s_mdata_date": "1997-??-??",
+  "as_mdata_views": [
+    "1st person"
+  ],
+  "s_mdata_overscan": "0, 0, 0, 0",
+  "ai_mdata_players": [
+    "1"
+  ],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[eur] Lands of Lore - Guardians of Destiny"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    71358
+  ]
+}

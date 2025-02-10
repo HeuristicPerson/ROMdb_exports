@@ -1,0 +1,32 @@
+{
+  "s_type": "game",
+  "i_nid": 71449,
+  "s_title": "Syphon Filter 3",
+  "s_synopsis": "Gabe and Lian are back, however this time, &quot;The Agency&quot; has put Lian and Gabe on trial for crimes they did not commit while they secretly plot to distribute Syphon Filter, a deadly virus, throughout the population. And with Gabe and Lian on trial, there would be no one to stop them...",
+  "s_years": "????",
+  "as_genres": [
+    "action"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 71449,
+      "s_title": "Syphon Filter",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    17751,
+    23044,
+    68862,
+    18520,
+    23075,
+    85380,
+    19096,
+    41775,
+    22905,
+    41999
+  ]
+}

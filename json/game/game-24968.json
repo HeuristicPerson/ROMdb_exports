@@ -1,0 +1,28 @@
+{
+  "s_type": "game",
+  "i_nid": 24968,
+  "s_title": "Puzznic",
+  "s_synopsis": "The challenge in each level of Puzznic is to manoeuvre a selection of blocks into place so as to clear them all, by making them make contact with blocks of the same design. You control a cross-hair, which can move a block left or right, which can cause it to fall if there is no block under the space it would occupy.",
+  "s_years": "1989\u20132001",
+  "as_genres": [
+    "puzzle"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    9923,
+    41340,
+    78272,
+    21622,
+    78297,
+    32107,
+    32105,
+    1291,
+    32104,
+    8714,
+    25394,
+    37891,
+    8712,
+    8713,
+    21552
+  ]
+}

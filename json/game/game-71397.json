@@ -1,0 +1,25 @@
+{
+  "s_type": "game",
+  "i_nid": 71397,
+  "s_title": "Crazy Cars",
+  "s_synopsis": "Crazy Cars encompasses the American Cross Country Prestige Cars Race. This takes in several parts of the USA, in several powerful cars. Initially you have a Porsche 911 Turbo in your hands, but this can later be upgraded to a Lamborghini and then a Ferrari. There are other cars on the road, which you must avoid contact with. Bumps and divots in the road throws the car off course, as does contact with any of the roadside barriers. Each race must be completed within the time limit.",
+  "s_years": "1988",
+  "as_genres": [
+    "racing"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 71397,
+      "s_title": "Crazy Cars",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    36409,
+    36410,
+    14804
+  ]
+}

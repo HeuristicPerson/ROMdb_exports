@@ -1,0 +1,16 @@
+{
+  "s_type": "game",
+  "i_nid": 85777,
+  "s_title": "Bio-Ship Paladin",
+  "s_synopsis": "Atlantal, a peaceful planet, has been attacked by an invading alien fleet known only as The Aggressors, leaving the capital city Delila in ruins. In order to stop The Aggressors, the people of Atlantal send the most powerful fighter ship on the planet, the bio-ship Gomorrah.",
+  "s_years": "1990",
+  "as_genres": [
+    "shooter"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    6685,
+    26850,
+    33186
+  ]
+}

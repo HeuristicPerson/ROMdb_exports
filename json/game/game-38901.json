@@ -1,0 +1,33 @@
+{
+  "s_type": "game",
+  "i_nid": 38901,
+  "s_title": "Xenon",
+  "s_synopsis": "In this game the player assumes the role of a space pilot named Darrian. One day, he receives a report from a nebula space station, from which he learns that nearby human colonies have been attacked by mysterious aliens known as Xenites. Darrian wastes no time, and sets off to protect the humans and stop the aliens.",
+  "s_years": "1988",
+  "as_genres": [
+    "shooter"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 38901,
+      "s_title": "Xenon",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    26033,
+    49591,
+    79056,
+    38854,
+    50882,
+    79058,
+    51193,
+    79060,
+    39214,
+    38853,
+    51194
+  ]
+}

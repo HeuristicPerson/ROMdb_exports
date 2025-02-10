@@ -1,0 +1,24 @@
+{
+  "s_type": "game",
+  "i_nid": 45183,
+  "s_title": "Tapper",
+  "s_synopsis": "Tapper is an action game where you&#039;re a beer tapper (barman) and have to serve beer to demanding customers. There are four customers, each has its own lane lengthier than the previous one, whom you have to keep at bay. If they reach the end of the lane without receiving their beer, you&#039;re a goner; if you miss one and accidentally spill beer needlessly you lose a life and should one of them throw you back the mug and you fail to catch it, you lose a life as well.",
+  "s_years": "1983\u20131984",
+  "as_genres": [
+    "music-rythm"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    40012,
+    44617,
+    44618,
+    78918,
+    43236,
+    42843,
+    34124,
+    34125,
+    42842,
+    34126,
+    34127
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "s_type": "game",
+  "i_nid": 45692,
+  "s_title": "Silent Hill 2",
+  "s_synopsis": "In the sequel to &quot;Silent Hill&quot;, &quot;Silent Hill 2&quot; follows James Sunderland, whose life is shattered when his young wife Mary suffers a tragic death. Three years later, a mysterious letter arrives from Mary, beckoning him to return to their sanctuary of memories, the dark realm of Silent Hill. You must guide James through all-new environments and creepy new areas closed off in the original game. Real-time weather effects, fog, morphing, and shadows set the stage for heart-stopping frights. Be brave as you journey to uncover the truth. ",
+  "s_years": "????",
+  "as_genres": [
+    "action",
+    "adventure"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 45692,
+      "s_title": "Silent Hill",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    67259,
+    67260
+  ]
+}

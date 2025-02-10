@@ -1,0 +1,45 @@
+{
+  "s_type": "game",
+  "i_nid": 44892,
+  "s_title": "Dino Crisis",
+  "s_synopsis": "Three years ago a brilliant scientist disappeared while researching a new form of energy. The government that funded his research wrote the whole affair off as a loss, which made it all the more upsetting when reports of Dr. Kirk&#039;s good health and nearly finished research came in. A special forces team is sent to the doctor&#039;s private island laboratory to extract him and his research, but they are totally unprepared for some of the side effects of his developments. Side effects that come from 100 million years in the past.",
+  "s_years": "1999",
+  "as_genres": [
+    "action",
+    "adventure"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 44892,
+      "s_title": "Dino Crisis",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    17301,
+    18365,
+    23107,
+    56888,
+    81228,
+    81232,
+    17308,
+    19715,
+    41460,
+    56889,
+    81229,
+    81233,
+    17450,
+    22465,
+    56886,
+    70001,
+    81230,
+    17998,
+    56887,
+    81227,
+    81231,
+    23017
+  ]
+}

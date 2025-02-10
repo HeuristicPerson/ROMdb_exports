@@ -1,0 +1,33 @@
+{
+  "s_type": "version",
+  "i_nid": 37107,
+  "s_dat_name": "amg-a5c_no-intro",
+  "s_dat_version": "Commodore - Amiga | https://www.no-intro.org | 20240604-172503",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Indiana Jones and the Fate of Atlantis - A Graphic Adventure (Europe) (v1.06 10-12-92)",
+  "s_romset_alias": "Indiana Jones and the Fate of Atlantis - A Graphic Adventure (Europe) (v1.06 10-12-92)",
+  "i_romset_size": 11545732,
+  "s_romset_crc32": "cd26b514",
+  "s_romset_platform": "amg-a5c",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 0,
+  "f_mdata_rating_value": 0,
+  "s_mdata_media_type": "3.5\" disk",
+  "i_mdata_media_number": 11,
+  "s_mdata_date": "1992-12-10",
+  "as_mdata_views": [
+    "side"
+  ],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [
+    "1"
+  ],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    45242
+  ]
+}

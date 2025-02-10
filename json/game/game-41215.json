@@ -1,0 +1,25 @@
+{
+  "s_type": "game",
+  "i_nid": 41215,
+  "s_title": "Crime Fighters",
+  "s_synopsis": "At least fifteen women have been kidnapped by a mobster&#039;s criminal syndicate. Players are tasked with rescuing the captured women and on the way clean up the streets from the mob boss&#039;s henchmen.",
+  "s_years": "1989",
+  "as_genres": [
+    "brawler"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 41215,
+      "s_title": "Crime Fighters",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    27568,
+    27569,
+    27570
+  ]
+}

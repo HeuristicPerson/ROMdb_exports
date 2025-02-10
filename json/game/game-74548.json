@@ -1,0 +1,26 @@
+{
+  "s_type": "game",
+  "i_nid": 74548,
+  "s_title": "Solstice - The Quest for the Staff of Demnos",
+  "s_synopsis": "The Princess Eleanor has been captured by the evil mage Morbius and is somewhere in the fortress of Kastlerock. You play the part of Shadax, who must now rescue the Princess by searching the fortress for the six pieces of the magical Staff of Demnos and use it to defeat Morbius.\r\n",
+  "s_years": "????",
+  "as_genres": [
+    "adventure"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 74548,
+      "s_title": "Solstice",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    9020,
+    9021,
+    9022,
+    9023
+  ]
+}

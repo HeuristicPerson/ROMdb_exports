@@ -1,0 +1,17 @@
+{
+  "s_type": "game",
+  "i_nid": 48028,
+  "s_title": "Xexex",
+  "s_synopsis": "The player pilots a ship called the Flintlock and must save a blue haired princess named Irene. He flies to the right shooting at enemies in his way. The ship can grab an enemy and use it as a weapon. There is also a detachable orb called Flint available.",
+  "s_years": "1991",
+  "as_genres": [
+    "shooter"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    31409,
+    35612,
+    35613,
+    35614
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "s_type": "saga",
+  "i_nid": 72045,
+  "s_title": "Dizzy",
+  "s_synopsis": "",
+  "s_years": "1989",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 162432,
+      "s_title": "Fantasy World Dizzy",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 162431,
+      "s_title": "Treasure Island Dizzy",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 162430,
+      "s_title": "Dizzy - The Ultimate Cartoon Adventure",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 162429,
+      "s_title": "Fantastic Dizzy",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "s_type": "game",
+  "i_nid": 89910,
+  "s_title": "Putty Squad",
+  "s_synopsis": "The stretchy blue blob is all set to go digital in high resolution by way of the critically acclaimed Putty Squad videogame. Cited by many gaming publications as one of the best games of its time, Putty Squad follows the story of unlikely hero Putty in an old-skool platform-adventuring quest for his kidnapped friends.",
+  "s_years": "????",
+  "as_genres": [
+    "platforms"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 89910,
+      "s_title": "Putty",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    3812,
+    6238,
+    48127,
+    80744
+  ]
+}

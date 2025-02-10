@@ -1,0 +1,35 @@
+{
+  "s_type": "game",
+  "i_nid": 71453,
+  "s_title": "Kung-Fu Master",
+  "s_synopsis": "Loosely based on the movie &quot;The Game of Death&quot;, Kung-Fu Master is a side scrolling action game for one or two players, who alternate turns.\r\n\r\nMr. X has captured the pickpocket Sylvia and it is up to Thomas, a kung-fu master who owns a restaurant, to get her back. She is located on the top floor of Mr. X&#039;s castle and Thomas will need to fight his way to the top. Of course, this won&#039;t be easy as each floor has many opponents to get past and a floor boss at the end of each level. ",
+  "s_years": "1984\u20131989",
+  "as_genres": [
+    "action"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 71453,
+      "s_title": "Kung-Fu Master",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    80010,
+    43124,
+    44009,
+    39440,
+    78053,
+    29974,
+    29975,
+    29976,
+    33325,
+    8142,
+    9035,
+    29977,
+    39441
+  ]
+}

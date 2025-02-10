@@ -1,0 +1,29 @@
+{
+  "s_type": "game",
+  "i_nid": 72021,
+  "s_title": "Ready 2 Rumble Boxing",
+  "s_synopsis": "&quot;Ready 2 Rumble Boxing&quot; is a cartoon style boxing beat &#039;em up with plenty of strange looking characters to choose from and beat the hell out of them. You can train your character up to the best of his/her ability and then fight the best in the world for the championship belt.",
+  "s_years": "1999",
+  "as_genres": [
+    "sports",
+    "vs. fighting"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 72021,
+      "s_title": "Ready to Rumble",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    14118,
+    40815,
+    14119,
+    40816,
+    17966,
+    19556
+  ]
+}

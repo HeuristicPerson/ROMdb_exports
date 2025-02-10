@@ -1,0 +1,69 @@
+{
+  "s_type": "saga",
+  "i_nid": 47452,
+  "s_title": "Alex Kidd",
+  "s_synopsis": "",
+  "s_years": "1986\u20131990",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 47514,
+      "s_title": "Alex Kidd BMX Trial",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 47513,
+      "s_title": "Alex Kidd in the Enchanted Castle",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 47512,
+      "s_title": "Alex Kidd in Shinobi World",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 47511,
+      "s_title": "Alex Kidd - High-Tech World",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 47510,
+      "s_title": "Alex Kidd - The Lost Stars",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 47451,
+      "s_title": "Alex Kidd in Miracle World",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

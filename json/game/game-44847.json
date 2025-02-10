@@ -1,0 +1,24 @@
+{
+  "s_type": "game",
+  "i_nid": 44847,
+  "s_title": "Crazy Climber",
+  "s_synopsis": "As Crazy Climber, climb your way to the top of a series of buildings, where a helicopter is waiting to pick you up and take you to the next building. As Climber scales a building, he is able to climb up and sideways but he cannot climb down. While climbing a building, windows will open and close simultaneously. If any window closes on either of his hands he will lose his grip. However, if a window closes on both of his hands, he will fall to his death, resulting in the loss of a life.",
+  "s_years": "1980\u20131986",
+  "as_genres": [
+    "action"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    23572,
+    39602,
+    27538,
+    27532,
+    27536,
+    27537,
+    27534,
+    27535,
+    27539,
+    27533,
+    7320
+  ]
+}

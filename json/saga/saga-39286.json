@@ -1,0 +1,49 @@
+{
+  "s_type": "saga",
+  "i_nid": 39286,
+  "s_title": "Aero Fighters",
+  "s_synopsis": "",
+  "s_years": "1993\u20132002",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 85452,
+      "s_title": "Sonic Wings Special",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 39330,
+      "s_title": "Aero Fighters 3",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 39288,
+      "s_title": "Aero Fighters 2",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 39287,
+      "s_title": "Aero Fighters",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

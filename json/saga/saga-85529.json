@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 85529,
+  "s_title": "Eternal Champions",
+  "s_synopsis": "",
+  "s_years": "1993",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 85530,
+      "s_title": "Eternal Champions - Challenge from the Dark Side",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45189,
+      "s_title": "Eternal Champions",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "s_type": "game",
+  "i_nid": 45704,
+  "s_title": "Ray Tracers",
+  "s_synopsis": "&quot;Ray Tracers&quot; is an arcade racing game where you have crash into others cars to destroy them. It is a spiritual successor to &quot;Chase H.Q.&quot; with some differences like a nitro boost system, four cars to choose from and more variety in end bosses.",
+  "s_years": "????",
+  "as_genres": [
+    "racing"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    19191,
+    21083,
+    24007
+  ]
+}

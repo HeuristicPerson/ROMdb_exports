@@ -1,0 +1,39 @@
+{
+  "s_type": "version",
+  "i_nid": 8007,
+  "s_dat_name": "nes-crt_no-intro",
+  "s_dat_version": "Nintendo - Nintendo Entertainment System (Headerless) | https://www.no-intro.org | 20240213-094548",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Jesus - Kyoufu no Bio Monster (Japan)",
+  "s_romset_alias": "Jesus - Kyoufu no Bio Monster (Japan)",
+  "i_romset_size": 262144,
+  "s_romset_crc32": "0dc53188",
+  "s_romset_platform": "nes-crt",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [
+    "jpn"
+  ],
+  "as_mdata_lang_voice": [
+    "non"
+  ],
+  "i_mdata_rating_votes": 0,
+  "f_mdata_rating_value": 0,
+  "s_mdata_media_type": "cartridge",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "1989-??-??",
+  "as_mdata_views": [
+    "1st person"
+  ],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [
+    "1"
+  ],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[jpn] Jesus - Kyoufu no Bio Monster / Jesus - \u30b8\u30fc\u30b6\u30b9 \u6050\u6016\u306e\u30d0\u30a4\u30aa\u30fb\u30e2\u30f3\u30b9\u30bf\u30fc"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    85856
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 45039,
+  "s_title": "Aero the Acro-Bat",
+  "s_synopsis": "",
+  "s_years": "1994\u20132002",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 45040,
+      "s_title": "Aero the Acrobat 2",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45038,
+      "s_title": "Aero the Acro-Bat",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

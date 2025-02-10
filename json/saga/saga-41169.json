@@ -1,0 +1,49 @@
+{
+  "s_type": "saga",
+  "i_nid": 41169,
+  "s_title": "Pac-Man",
+  "s_synopsis": "",
+  "s_years": "1980\u20132001",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 85593,
+      "s_title": "Pac-Man 2 - The New Adventures",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 41168,
+      "s_title": "Pac-Man",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 41167,
+      "s_title": "Ms. Pac-Man",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 39312,
+      "s_title": "Pac-Mania",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

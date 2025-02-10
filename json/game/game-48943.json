@@ -1,0 +1,27 @@
+{
+  "s_type": "game",
+  "i_nid": 48943,
+  "s_title": "Strider 2",
+  "s_synopsis": "In a future ruled by tyranny and evil, a lone Strider named Hiryu must use his sharply honed skills to fight for justice and peace, and defeat the Grandmaster, an evil dictator who has taken over the world.",
+  "s_years": "????",
+  "as_genres": [
+    "action"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 48943,
+      "s_title": "Strider",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    17786,
+    85365,
+    18650,
+    19996,
+    48716
+  ]
+}

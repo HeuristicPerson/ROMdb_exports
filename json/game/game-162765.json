@@ -1,0 +1,28 @@
+{
+  "s_type": "game",
+  "i_nid": 162765,
+  "s_title": "Shin Megami Tensei II",
+  "s_synopsis": "Fifty years have passed since the hero of &quot;Shin Megami Tensei&quot; followed the neutral path, defeated the leaders of Law and Chaos, and founded a state where followers of both ideologies could live freely. But his reign of freedom doesn&#039;t last long. The Messian faith gains power, expanding the Cathedral into a new enclosed environment named Tokyo Millennium. The Gaians rise up, but their rebellion is repressed by the Messians&#039; elite warrior class, the Temple Knights. People flock into the encapsulated city, submitting themselves to the strict hierarchy imposed by the Messian Center, where only the privileged living in the Center district are safe from demonic assaults.\r\n\r\nA few years later, a retired arena fighter Okamoto rescues a man named Hawk, who was fighting for his life against a demon. He trains him to fight in the arena of the Valhalla district, hoping that he would win the tournament, which will grant them both citizenship in the Center district. When Hawk succeeds, he is brought before a Messian bishop, and learns the shocking truth about his own origins and the role he is supposed to play in the grand scheme of events. A new battle for a better future begins.",
+  "s_years": "1994\u20132003",
+  "as_genres": [
+    "role play"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 162765,
+      "s_title": "Shin Megami Tensei",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    4026,
+    85334,
+    4028,
+    4027,
+    19776,
+    12419
+  ]
+}

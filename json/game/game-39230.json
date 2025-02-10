@@ -1,0 +1,43 @@
+{
+  "s_type": "game",
+  "i_nid": 39230,
+  "s_title": "Ghouls'n Ghosts",
+  "s_synopsis": "Three years have passed since Arthur defeated the Demon King Astaroth and rescued his beloved Princess Prin-Prin. A new villain, the Great Demon King Lucifer (Loki in some versions) has become the new leader of Ghoul Realm. While returning from a journey, Arthur sees the Princess&#039; castle and her village under attack by Lucifer&#039;s forces. While rushing towards her beloved knight, the Princess is struck by one of Lucifer&#039;s laser beams. Now, Arthur must venture back to the Lucifer&#039;s palace and destroy the demon in order to rescue the Princess&#039; soul and bring her back to life! And it won&#039;t matter whether he fights in his shining armor or in his underwear alone...",
+  "s_years": "1988\u20131998",
+  "as_genres": [
+    "action"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 39230,
+      "s_title": "Ghosts'n Goblins",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    39025,
+    46772,
+    160625,
+    25946,
+    36903,
+    42308,
+    77781,
+    27716,
+    36904,
+    45736,
+    86358,
+    36905,
+    45858,
+    160624,
+    28959,
+    28958,
+    5469,
+    5698,
+    5699,
+    9759,
+    17487
+  ]
+}

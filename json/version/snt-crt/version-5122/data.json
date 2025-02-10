@@ -1,0 +1,35 @@
+{
+  "s_type": "version",
+  "i_nid": 5122,
+  "s_dat_name": "snt-crt_no-intro",
+  "s_dat_version": "Nintendo - Super Nintendo Entertainment System | https://www.no-intro.org | 20240709-133937",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Ys V - Ushinawareta Suna no Miyako Kefin (Japan)",
+  "s_romset_alias": "Ys V - Ushinawareta Suna no Miyako Kefin (Japan)",
+  "i_romset_size": 3145728,
+  "s_romset_crc32": "5e08c48c",
+  "s_romset_platform": "snt-crt",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "50",
+  "s_mdata_media_type": "cartridge",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "1995-??-??",
+  "as_mdata_views": [
+    "top"
+  ],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [
+    "1"
+  ],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[jpn] Ys V - Ushinawareta Suna no Miyako Kefin / Ys V - \u5931\u308f\u308c\u305f\u7802\u306e\u90fd\u30b1\u30d5\u30a3\u30f3"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    44864
+  ]
+}

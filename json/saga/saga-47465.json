@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 47465,
+  "s_title": "Ashguine",
+  "s_synopsis": "",
+  "s_years": "1987",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 85474,
+      "s_title": "AshGuine Story II",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 71364,
+      "s_title": "AshGuine - Densetsu no Seisenshi",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

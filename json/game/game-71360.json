@@ -1,0 +1,28 @@
+{
+  "s_type": "game",
+  "i_nid": 71360,
+  "s_title": "The Dagger of Amon Ra",
+  "s_synopsis": "One year after the events described in The Colonel&#039;s Bequest, Laura Bow, fresh out of college, is hired by a New York newspaper to write a story about the newest exhibit acquired by the local Leyendecker Museum, an ancient Egyptian dagger. However, during a party to celebrate the opening of the museum&#039;s new section, someone is murdered, the dagger is stolen, and Laura, after asking to be allowed to investigate, is locked in with the rest of the guests. This sets the stage for a series of murders, and it is up to Laura to find the person responsible for them.\r\n",
+  "s_years": "1993",
+  "as_genres": [
+    "graphic adventure"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 71360,
+      "s_title": "Laura Bow",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    49417,
+    50174,
+    66211,
+    50554,
+    51740,
+    61627
+  ]
+}

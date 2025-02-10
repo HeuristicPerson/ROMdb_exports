@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 44887,
+  "s_title": "Battle Garegga",
+  "s_synopsis": "",
+  "s_years": "1996\u20131999",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 44888,
+      "s_title": "Battle Bakraid",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 44885,
+      "s_title": "Battle Garegga",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

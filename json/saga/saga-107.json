@@ -1,0 +1,159 @@
+{
+  "s_type": "saga",
+  "i_nid": 107,
+  "s_title": "Castlevania",
+  "s_synopsis": "Castlevania is a series of action games by Konami. The series&#039; setting and plot elements are loosely based on Bram Stoker&#039;s novel Dracula, focusing on the titular fictional character. Most of the protagonists in the series belong to the Belmont family and are vampire hunters who venture into Dracula&#039;s castle with the goal of defeating the powerful vampire following one of his resurrections. The games usually take place in a dark castle and its surroundings, which are populated by horror-themed enemies. ",
+  "s_years": "1986\u20132003",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 132042,
+      "s_title": "Castlevania - Lords of Shadow",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 84212,
+      "s_title": "Castlevania II - Belmont's Revenge",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 48077,
+      "s_title": "Castlevania - The Adventure",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 44935,
+      "s_title": "Castlevania - Vampire's Kiss",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 41226,
+      "s_title": "Castlevania - The New Generations",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 39271,
+      "s_title": "Haunted Castle",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 157,
+      "s_title": "Castlevania - Rondo of Blood",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 152,
+      "s_title": "Castlevania III - Dracula's Curse",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 151,
+      "s_title": "Castlevania - Circle of the Moon",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 150,
+      "s_title": "Castlevania II - Simon's Quest",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 149,
+      "s_title": "Castlevania",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 148,
+      "s_title": "Castlevania - Harmony of Dissonance",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 146,
+      "s_title": "Castlevania - Aria of Sorrow",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 145,
+      "s_title": "Super Castlevania IV",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 106,
+      "s_title": "Castlevania - Symphony of the Night",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

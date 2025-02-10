@@ -1,0 +1,69 @@
+{
+  "s_type": "saga",
+  "i_nid": 41125,
+  "s_title": "WipEout",
+  "s_synopsis": "A series of futuristic racing games where the player controls hi-tech hovercraft. ",
+  "s_years": "1995\u20132007",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 100936,
+      "s_title": "WipEout Pulse",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 100935,
+      "s_title": "WipEout Pure",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 48994,
+      "s_title": "WipEout XL",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 47730,
+      "s_title": "Wipeout 3",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 41126,
+      "s_title": "WipEout 64",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 35761,
+      "s_title": "WipEout",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

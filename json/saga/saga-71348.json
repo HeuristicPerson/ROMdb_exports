@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 71348,
+  "s_title": "Les Manley",
+  "s_synopsis": "",
+  "s_years": "1990\u20131991",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 71349,
+      "s_title": "Les Manly in - Lost in L.A.",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 71347,
+      "s_title": "Les Manley in - Search for the King",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 85453,
+  "s_title": "Suikoden",
+  "s_synopsis": "",
+  "s_years": "1999",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 85454,
+      "s_title": "Suikoden II",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45067,
+      "s_title": "Suikoden",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

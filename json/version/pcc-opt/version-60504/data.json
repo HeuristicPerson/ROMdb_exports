@@ -1,0 +1,39 @@
+{
+  "s_type": "version",
+  "i_nid": 60504,
+  "s_dat_name": "pcc-opt_redump",
+  "s_dat_version": "IBM - PC compatible | (SIMPLIFIED DAT) | &quot;2021-02-13 16-48-59&quot;",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Indiana Jones and the Fate of Atlantis (USA) (Rerelease)",
+  "s_romset_alias": "",
+  "i_romset_size": 189949872,
+  "s_romset_crc32": "98d31c1e",
+  "s_romset_platform": "pcc-opt",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [
+    "eng"
+  ],
+  "as_mdata_lang_voice": [
+    "eng"
+  ],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "100",
+  "s_mdata_media_type": "CD",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "1995-06-13",
+  "as_mdata_views": [
+    "side"
+  ],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[usa] Indiana Jones and the Fate of Atlantis"
+  ],
+  "s_mdata_differences": "+ Includes demo of &quot;Indiana Jones and the Fate of Atlantis&quot;.<br/>+ Includes demo of &quot;Day of the Tentacle&quot;.<br/>+ Includes demo of &quot;Sam &amp; Max - Hit the Road&quot;.",
+  "ai_parent_games": [
+    45242,
+    52636,
+    71276
+  ]
+}

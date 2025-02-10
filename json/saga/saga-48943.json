@@ -1,0 +1,39 @@
+{
+  "s_type": "saga",
+  "i_nid": 48943,
+  "s_title": "Strider",
+  "s_synopsis": "",
+  "s_years": "1989\u20131990",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 48960,
+      "s_title": "Strider 2",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 48942,
+      "s_title": "Journey from Darkness - Strider Returns",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 39225,
+      "s_title": "Strider",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

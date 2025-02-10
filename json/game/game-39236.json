@@ -1,0 +1,44 @@
+{
+  "s_type": "game",
+  "i_nid": 39236,
+  "s_title": "Tomb Raider - The Last Revelation",
+  "s_synopsis": "According to Egyptian legend, Horus outwitted the evil god Set and imprisoned him in a secret tomb... Five thousand years later, Lara Croft discovers the lost tomb and unwittingly unleashes the Set, fulfilling the ancient prophecy of his return to plunge mankind into darkness! In a race against time, Lara must use all of her wit and skill to reimprison Set and save the world from Armageddon. Pursued at every turn by her arch-rival, the unscrupulous archaeologist Werner Von Croy, Lara embarks on a journey of discovery across Egypt, where she must overcome the most ingenious puzzles and infernal traps ever devised, and face terrifying evil from beyond the grave...",
+  "s_years": "1999",
+  "as_genres": [
+    "action",
+    "adventure"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 39236,
+      "s_title": "Tomb Raider",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    18897,
+    41763,
+    69421,
+    69425,
+    69497,
+    17193,
+    21266,
+    41808,
+    69422,
+    69426,
+    17281,
+    22719,
+    69419,
+    69423,
+    69495,
+    17278,
+    23166,
+    69420,
+    69424,
+    69496,
+    17200
+  ]
+}

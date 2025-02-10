@@ -1,0 +1,29 @@
+{
+  "s_type": "game",
+  "i_nid": 45665,
+  "s_title": "Flying Shark",
+  "s_synopsis": "Piloting a biplane, the player takes out enemy land, air, and naval craft across various environments.",
+  "s_years": "1987\u20131988",
+  "as_genres": [
+    "shooter"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 45665,
+      "s_title": "Flying Shark",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    44462,
+    77650,
+    86305,
+    43724,
+    28629,
+    29439,
+    8991
+  ]
+}

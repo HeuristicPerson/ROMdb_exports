@@ -1,0 +1,20 @@
+{
+  "s_type": "game",
+  "i_nid": 45265,
+  "s_title": "Tower of Druaga",
+  "s_synopsis": "You control a heroic knight, who is actually prince Gilgamesh, who must attempt to rescue the maiden from the demon Druaga. You are armed with a sword and shield to attack and defend. You move from floor to floor, which are constructed as mazes, searching for the key; this key will unlock the stage exit. Items can be found by killing (all) enemies.",
+  "s_years": "1984\u20131992",
+  "as_genres": [
+    "action"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    514,
+    34514,
+    7508,
+    34515,
+    34516,
+    14852,
+    25203
+  ]
+}

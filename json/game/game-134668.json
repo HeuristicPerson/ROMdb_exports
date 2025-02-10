@@ -1,0 +1,42 @@
+{
+  "s_type": "game",
+  "i_nid": 134668,
+  "s_title": "Marvel vs. Capcom - Clash of Super Heroes",
+  "s_synopsis": "Marvel vs. Capcom: Clash of Super Heroes is a 2D fighting game that combines characters from Capcom&#039;s videogames with characters from the Marvel comic universe, similar to Marvel Super Heroes Vs. Street Fighter. The game takes place in a Marvel universe where Professor Charles Xavier asks the heroes to help him before he merges with the consciousness of Magneto to form the being known as Onslaught, the final boss.",
+  "s_years": "1997\u20131998",
+  "as_genres": [
+    "vs. fighting"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 134668,
+      "s_title": "Marvel vs. Capcom",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    17790,
+    81661,
+    18644,
+    81662,
+    24407,
+    81663,
+    48546,
+    81664,
+    30597,
+    30594,
+    30591,
+    30588,
+    30589,
+    30593,
+    30590,
+    30598,
+    30595,
+    30599,
+    30592,
+    30596
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "s_type": "saga",
+  "i_nid": 45081,
+  "s_title": "Langrisser",
+  "s_synopsis": "",
+  "s_years": "1991\u20131994",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 89748,
+      "s_title": "Langrisser V",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45083,
+      "s_title": "Langrisser III",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45082,
+      "s_title": "Langrisser IV",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45080,
+      "s_title": "Langrisser II",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 41151,
+      "s_title": "Langrisser",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

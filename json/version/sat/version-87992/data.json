@@ -1,0 +1,29 @@
+{
+  "s_type": "version",
+  "i_nid": 87992,
+  "s_dat_name": "sat_redump",
+  "s_dat_version": "Sega - Saturn | http://redump.org/ | 2023-09-22 02-11-41",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Virtua Fighter 2 (USA) (RE)",
+  "s_romset_alias": "Virtua Fighter 2 (USA) (RE)",
+  "i_romset_size": 657710928,
+  "s_romset_crc32": "6b5a8584",
+  "s_romset_platform": "sat",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 0,
+  "f_mdata_rating_value": 0,
+  "s_mdata_media_type": "",
+  "i_mdata_media_number": 0,
+  "s_mdata_date": "",
+  "as_mdata_views": [],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    46648
+  ]
+}

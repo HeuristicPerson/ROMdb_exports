@@ -1,0 +1,28 @@
+{
+  "s_type": "game",
+  "i_nid": 85780,
+  "s_title": "Taz-Mania (racer)",
+  "s_synopsis": "",
+  "s_years": "????",
+  "as_genres": [
+    "action",
+    "racing"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 85780,
+      "s_title": "Taz-Mania",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    4706,
+    80807,
+    4707,
+    4708,
+    4709
+  ]
+}

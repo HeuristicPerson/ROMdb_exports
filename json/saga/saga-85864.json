@@ -1,0 +1,19 @@
+{
+  "s_type": "saga",
+  "i_nid": 85864,
+  "s_title": "Robotron",
+  "s_synopsis": "",
+  "s_years": "1982\u20132012",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 85863,
+      "s_title": "Robotron 2084",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

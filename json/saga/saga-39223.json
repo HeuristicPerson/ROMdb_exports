@@ -1,0 +1,79 @@
+{
+  "s_type": "saga",
+  "i_nid": 39223,
+  "s_title": "Metal Slug",
+  "s_synopsis": "A long running series of side-scrolling run and gun shooters. The majority of the games feature Marco Rossi of the Peregrine Falcon Special Forces Squad. The games usually deal with battling against General Morden&#039;s army, although some games deal with protecting Earth from an extraterrestrial menace.",
+  "s_years": "1996\u20132005",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 47648,
+      "s_title": "Metal Slug 6",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 47647,
+      "s_title": "Metal Slug 5",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 47646,
+      "s_title": "Metal Slug 4",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 47645,
+      "s_title": "Metal Slug 3",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 40112,
+      "s_title": "Metal Slug X",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 40111,
+      "s_title": "Metal Slug 2 - Super Vehicle - 001/II",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 39224,
+      "s_title": "Metal Slug - Super Vehicle-001",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

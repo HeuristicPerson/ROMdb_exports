@@ -1,0 +1,39 @@
+{
+  "s_type": "game",
+  "i_nid": 45118,
+  "s_title": "Legacy of Kain - Soul Reaver 2",
+  "s_synopsis": "In this sequel to the Legacy of Kain: Soul Reaver, reassume the role of Raziel, and travel back through the currents of time into various eras of Nosgoth&#039;s past in your relentless pursuit of Kain. With new Soul Rever weapon enhancements, physical abilities, and relics, you&#039;ll battle vampire hunters, Sarafan warrior-priests, and spectral spirits, and then devour their souls. Unearth the mysteries of Nosgoth&#039;s ancient races, and expose the schemes behind the corruption of the Pillars and the vampire genocide.",
+  "s_years": "2001",
+  "as_genres": [
+    "action",
+    "adventure"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 45118,
+      "s_title": "Legacy of Kain",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    61669,
+    61667,
+    61665,
+    111924,
+    61666,
+    61671,
+    107612,
+    111925,
+    61670,
+    61664,
+    107611,
+    111926,
+    61663,
+    61668,
+    111927,
+    107613
+  ]
+}

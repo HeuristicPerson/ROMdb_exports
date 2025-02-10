@@ -1,0 +1,26 @@
+{
+  "s_type": "game",
+  "i_nid": 107,
+  "s_title": "Castlevania II - Belmont's Revenge",
+  "s_synopsis": "Fifteen years after vanquishing the emperor of evil, Count Dracula, Christopher Belmont now faces a vampire swearing vengeance. Drac&#039;s back. And he&#039;s turned your son, Soleiyu Belmont, into a deadly demon to do his dirty deeds. Now not only do you have to rescue your kid from the Count&#039;s clutches, you have to first track him down in four creep packed Castles. Fortunately, you posses weapons like armor piercing Battle Axes, beast burning Holy Water, and the Legendary Mystic Whip. And you can increase your arsenal with power up items like Crystal Balls, Hearts, and Candles. Strap on your shield and step into the shadows. That is, if you&#039;re prepared for the dwellers of darkness.",
+  "s_years": "1991",
+  "as_genres": [
+    "action"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 107,
+      "s_title": "Castlevania",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    71547,
+    71550,
+    378,
+    502
+  ]
+}

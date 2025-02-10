@@ -1,0 +1,39 @@
+{
+  "s_type": "saga",
+  "i_nid": 71430,
+  "s_title": "Elite",
+  "s_synopsis": "",
+  "s_years": "1991\u20131993",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 71431,
+      "s_title": "Frontier - First Encounters",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 71429,
+      "s_title": "Frontier - Elite 2",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 52638,
+      "s_title": "Elite",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

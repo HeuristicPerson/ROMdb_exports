@@ -1,0 +1,39 @@
+{
+  "s_type": "saga",
+  "i_nid": 45172,
+  "s_title": "Front Mission",
+  "s_synopsis": "Front Mission series revolves around warfare in a near to distant future. The setting is a fictionalized Earth, typically divided into several supranational unions that wage war on each other. Political conflicts intertwined with the characters&#039; personal ambitions constitute the main plot-related content in these games.",
+  "s_years": "1995\u20131996",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 45174,
+      "s_title": "Front Mission Alternative",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45173,
+      "s_title": "Front Mission - Gun Hazard",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45171,
+      "s_title": "Front Mission",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

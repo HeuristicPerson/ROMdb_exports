@@ -1,0 +1,35 @@
+{
+  "s_type": "version",
+  "i_nid": 36556,
+  "s_dat_name": "amg-a5c_no-intro",
+  "s_dat_version": "Commodore - Amiga | https://www.no-intro.org | 20240604-172503",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Double Dragon (Europe)",
+  "s_romset_alias": "Double Dragon (Europe)",
+  "i_romset_size": 1049214,
+  "s_romset_crc32": "9689e008",
+  "s_romset_platform": "amg-a5c",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 2,
+  "f_mdata_rating_value": "25",
+  "s_mdata_media_type": "3.5\" disk",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "",
+  "as_mdata_views": [
+    "side"
+  ],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [
+    "2"
+  ],
+  "as_mdata_multiplayer": [
+    "cooperative"
+  ],
+  "as_mdata_screen_titles": [],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    1774
+  ]
+}

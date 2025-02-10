@@ -1,0 +1,34 @@
+{
+  "s_type": "version",
+  "i_nid": 5838,
+  "s_dat_name": "mdr-crt_no-intro",
+  "s_dat_version": "Sega - Mega Drive - Genesis | https://www.no-intro.org | 20231204-141612",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Jungle Strike (USA, Europe)",
+  "s_romset_alias": "Jungle Strike (USA, Europe)",
+  "i_romset_size": 2097152,
+  "s_romset_crc32": "a5d29735",
+  "s_romset_platform": "mdr-crt",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "50",
+  "s_mdata_media_type": "cartridge",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "",
+  "as_mdata_views": [
+    "isometric"
+  ],
+  "s_mdata_overscan": "0, 0, 0, 0",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[eur] Jungle Strike",
+    "[usa] Jungle Strike"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    41211
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "s_type": "saga",
+  "i_nid": 45665,
+  "s_title": "Flying Shark",
+  "s_synopsis": "",
+  "s_years": "1987\u20131990",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 45666,
+      "s_title": "Flying Shark",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45664,
+      "s_title": "Fighting Hawk",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 40149,
+      "s_title": "Fire Shark",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

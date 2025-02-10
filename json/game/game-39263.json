@@ -1,0 +1,36 @@
+{
+  "s_type": "game",
+  "i_nid": 39263,
+  "s_title": "Dungeons & Dragons - Shadow over Mystara",
+  "s_synopsis": "Shadow over Mystara is a sequel to Dungeons &amp; Dragons: Tower of Doom. Two years have passed since the heroes defeated Arch Lich Deimos, but now a new threat has arisen - a powerful sorceress Synn who is plotting to conquer the Republic of Darokin.\r\n",
+  "s_years": "1996",
+  "as_genres": [
+    "brawler"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 39263,
+      "s_title": "Dungeons & Dragons - Chronicles of Mystara",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    28167,
+    28162,
+    28170,
+    28164,
+    28168,
+    28161,
+    28166,
+    28171,
+    28172,
+    28165,
+    28169,
+    28159,
+    28163,
+    28160
+  ]
+}

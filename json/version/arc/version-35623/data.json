@@ -1,0 +1,37 @@
+{
+  "s_type": "version",
+  "i_nid": 35623,
+  "s_dat_name": "arc_mame",
+  "s_dat_version": "MAME | Simplified with Dat Simplifier - v1.0.2021-11-30 | &quot;0.271 (unknown)&quot;",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Xybots (rev 2)",
+  "s_romset_alias": "xybots",
+  "i_romset_size": 892928,
+  "s_romset_crc32": "0d0ac0fb",
+  "s_romset_platform": "arc",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [
+    "eng"
+  ],
+  "as_mdata_lang_voice": [
+    "non"
+  ],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "50",
+  "s_mdata_media_type": "",
+  "i_mdata_media_number": 0,
+  "s_mdata_date": "1987-??-??",
+  "as_mdata_views": [
+    "back"
+  ],
+  "s_mdata_overscan": "0, 0, 0, 0",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[???] Xybots"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    39326
+  ]
+}

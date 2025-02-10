@@ -1,0 +1,42 @@
+{
+  "s_type": "game",
+  "i_nid": 39307,
+  "s_title": "Rastan",
+  "s_synopsis": "Rastan features five levels of hacking and slashing gameplay with a boss at the end of each level. Numerous enemies assault you on your journey such as flying demons, chimeras, valkyries, piranhas, skeleton undead and more. Fight through to the end and save the land of Lograth from certain doom.",
+  "s_years": "1987\u20131991",
+  "as_genres": [
+    "action"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 39307,
+      "s_title": "Rastan",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    9936,
+    44318,
+    51457,
+    51454,
+    74781,
+    51455,
+    78405,
+    51456,
+    80241,
+    32354,
+    32358,
+    32355,
+    32359,
+    32356,
+    32360,
+    32353,
+    32357,
+    32361,
+    15620,
+    16128
+  ]
+}

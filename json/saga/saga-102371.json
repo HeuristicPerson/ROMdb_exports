@@ -1,0 +1,19 @@
+{
+  "s_type": "saga",
+  "i_nid": 102371,
+  "s_title": "Impossible Mission",
+  "s_synopsis": "",
+  "s_years": "????",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 102372,
+      "s_title": "Impossible Mission",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

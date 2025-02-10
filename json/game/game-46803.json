@@ -1,0 +1,37 @@
+{
+  "s_type": "game",
+  "i_nid": 46803,
+  "s_title": "Disney's Bonkers - Wax Up!",
+  "s_synopsis": "Madame Who-Said has been coating famous Toons in wax to make statues for her Wax Museum, and the next victim will be Bonkers! Now he needs to stop her, free his pal Lucky and find the Toon Toaster to un-wax the Toons.",
+  "s_years": "1994",
+  "as_genres": [
+    "platforms"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 46803,
+      "s_title": "Bonkers",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    9642,
+    15831,
+    83734,
+    83735,
+    83736,
+    83738,
+    83740,
+    83739,
+    83737,
+    83741,
+    83742,
+    83745,
+    83743,
+    83744,
+    83746
+  ]
+}

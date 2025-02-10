@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 45002,
+  "s_title": "World Rally",
+  "s_synopsis": "",
+  "s_years": "1995",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 45003,
+      "s_title": "World Rally",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45001,
+      "s_title": "World Rally 2",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

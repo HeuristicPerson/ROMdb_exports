@@ -1,0 +1,33 @@
+{
+  "s_type": "game",
+  "i_nid": 102454,
+  "s_title": "Mappy",
+  "s_synopsis": "Play as Mappy the police mouse to collect items that were stolen by Goro and his gang. Collect all of the stolen goods in the mansion to advance to the next round. If you come into contact with an enemy or fall into a pit, you&#039;ll lose a life. Once you lose all of your lives, the game is over. Extra lives will be awarded upon reaching certain point intervals.",
+  "s_years": "1983\u20131991",
+  "as_genres": [
+    "action",
+    "platforms"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 102454,
+      "s_title": "Mappy",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    84082,
+    96762,
+    58807,
+    30522,
+    30523,
+    8292,
+    15134,
+    15132,
+    15133,
+    16027
+  ]
+}

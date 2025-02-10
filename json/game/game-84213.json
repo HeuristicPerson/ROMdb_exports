@@ -1,0 +1,36 @@
+{
+  "s_type": "game",
+  "i_nid": 84213,
+  "s_title": "Phoenix",
+  "s_synopsis": "You are the commander of the Phoenix, and your mission is to reach an alien spaceship which has been draining your planets resources. The ship is guarded by four levels of bird like creatures. After clearing all four stages, the fifth level will be against a large, heavily shielded mothership. If the mothership is destroyed, the game will then repeat, but with increased speed and difficulty. To defeat the numerous enemies, the Phoenix is equipped with a laser cannon and a force field.",
+  "s_years": "1980\u20131981",
+  "as_genres": [
+    "shooter"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    31645,
+    31648,
+    39836,
+    26645,
+    31649,
+    35061,
+    75999,
+    26646,
+    31650,
+    31653,
+    35062,
+    80171,
+    31646,
+    35063,
+    31655,
+    31640,
+    31641,
+    31643,
+    31644,
+    31654,
+    31652,
+    26647,
+    26714
+  ]
+}

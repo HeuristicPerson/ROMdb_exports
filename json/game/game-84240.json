@@ -1,0 +1,29 @@
+{
+  "s_type": "game",
+  "i_nid": 84240,
+  "s_title": "King of the Monsters 2 - The Next Thing",
+  "s_synopsis": "In 1996, the country of Japan was devastated by the monster invasion. Six monsters did battle in the most destructive and terrifying catastrophe of all time. The war lasted 3 years and is known in history books as the &quot;King of the Monsters&quot; massacre. Three monsters survived and have become more advanced and dangerous than ever before. But now, a new nemesis is on the scene. The alien invasion will be the biggest challenge for Earth&#039;s monstrosity. An unimaginable rumble that will rock the world and this new war will certainly be coined by witnesses as the... King of the Monsters 2 colossal confrontation!",
+  "s_years": "1992\u20131994",
+  "as_genres": [
+    "vs. fighting"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 84240,
+      "s_title": "King of the Monsters",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    3078,
+    74412,
+    86476,
+    86477,
+    86478,
+    3079,
+    5862
+  ]
+}

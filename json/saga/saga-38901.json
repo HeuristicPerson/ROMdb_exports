@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 38901,
+  "s_title": "Xenon",
+  "s_synopsis": "",
+  "s_years": "1988",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 38902,
+      "s_title": "Xenon",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 1773,
+      "s_title": "Xenon 2 - Megablast",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

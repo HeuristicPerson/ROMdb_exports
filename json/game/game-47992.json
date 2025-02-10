@@ -1,0 +1,26 @@
+{
+  "s_type": "game",
+  "i_nid": 47992,
+  "s_title": "Ghoul Patrol",
+  "s_synopsis": "n the sequel to Zombie Ate My Neighbors players control the kids Zeke and/or Julie, who travel to different worlds and fight skeletons, ghouls, ghosts, and other demonic creatures in order to save their town from a horror exhibit that came to life.",
+  "s_years": "????",
+  "as_genres": [
+    "action"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 47992,
+      "s_title": "Zombies Ate My Neighbors",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    2657,
+    2658,
+    2659,
+    46452
+  ]
+}

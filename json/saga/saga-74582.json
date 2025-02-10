@@ -1,0 +1,39 @@
+{
+  "s_type": "saga",
+  "i_nid": 74582,
+  "s_title": "Strikers 1945",
+  "s_synopsis": "",
+  "s_years": "1995\u20132001",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 74583,
+      "s_title": "Strikers 1945 III",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 74581,
+      "s_title": "Strikers 1945 II",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 42153,
+      "s_title": "Strikers 1945",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

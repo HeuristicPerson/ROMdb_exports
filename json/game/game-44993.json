@@ -1,0 +1,26 @@
+{
+  "s_type": "game",
+  "i_nid": 44993,
+  "s_title": "Thunder Cross",
+  "s_synopsis": "Taking place in the future of space colonization, the planet Haniamu IV is under attack from a relentless, unknown military force known only as Black Impulse. The strongest Earth ships capable of stopping the total conquering of the planet are the Blue Thunder M-45 and its earlier make the Red Thunder M-24. ",
+  "s_years": "1988",
+  "as_genres": [
+    "shooter"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 44993,
+      "s_title": "Thunder Cross",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    34542,
+    34543,
+    34544,
+    34545
+  ]
+}

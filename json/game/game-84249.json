@@ -1,0 +1,28 @@
+{
+  "s_type": "game",
+  "i_nid": 84249,
+  "s_title": "Rohga - Armor Force",
+  "s_synopsis": "In 2001, two years after the events from &quot;Vapor Trail&quot;, the technology allows for the building of mechs rather than jets. The DAGGER organization returns and targets the mech factories in Australia and New Zealand.",
+  "s_years": "1991",
+  "as_genres": [
+    "shooter"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 84249,
+      "s_title": "Vapor Trail",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    32560,
+    32564,
+    32561,
+    35441,
+    32562,
+    32563
+  ]
+}

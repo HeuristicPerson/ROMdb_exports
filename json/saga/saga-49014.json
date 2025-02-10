@@ -1,0 +1,89 @@
+{
+  "s_type": "saga",
+  "i_nid": 49014,
+  "s_title": "Teenage Mutant Ninja Turtles",
+  "s_synopsis": "",
+  "s_years": "1989\u20132007",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 84937,
+      "s_title": "Teenage Mutant Ninja Turtles - Tournament Fighters",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 49018,
+      "s_title": "Teenage Mutant Hero Turtles",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 49017,
+      "s_title": "Teenage Mutant Ninja Turtles III - The Manhattan Project",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 49016,
+      "s_title": "Teenage Mutant Ninja Turtles - The Hyperstone Heist",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 49015,
+      "s_title": "TMNT",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 49013,
+      "s_title": "Teenage Mutant Ninja Turtles 2 - Battle Nexus",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 40153,
+      "s_title": "Teenage Mutant Ninja Turtles - Turtles in Time",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 40152,
+      "s_title": "Teenage Mutant Ninja Turtles",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

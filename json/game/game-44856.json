@@ -1,0 +1,24 @@
+{
+  "s_type": "game",
+  "i_nid": 44856,
+  "s_title": "Darius Alpha",
+  "s_synopsis": "",
+  "s_years": "1990",
+  "as_genres": [
+    "shooter"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 44856,
+      "s_title": "Darius",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    84294,
+    25174
+  ]
+}

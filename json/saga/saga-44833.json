@@ -1,0 +1,59 @@
+{
+  "s_type": "saga",
+  "i_nid": 44833,
+  "s_title": "194x",
+  "s_synopsis": "The 194x series consists of World War II shoot &#039;em ups by Capcom. They originally appeared as coin-op games and were ported to various console and home computer systems. Later they saw several re-releases within the Capcom Generation and Capcom Classics Collection series.",
+  "s_years": "1984\u20132000",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 44840,
+      "s_title": "1944 - The Loop Master",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 44834,
+      "s_title": "1941 - Counter Attack",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 44832,
+      "s_title": "1943 - The Battle of Midway",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 42150,
+      "s_title": "1942",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 42149,
+      "s_title": "19XX - The War Against Destiny",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

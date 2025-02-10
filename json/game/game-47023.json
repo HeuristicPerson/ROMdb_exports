@@ -1,0 +1,28 @@
+{
+  "s_type": "game",
+  "i_nid": 47023,
+  "s_title": "Tecmo Super Bowl",
+  "s_synopsis": "It&#039;s Fun! It&#039;s Competitive! It&#039;s Real Football! Tecmo Super Bowl is unquestionably the best football game you&#039;ll ever play. Use your favorite NFL team, the real NFL players and your football skills to experience the ultimate football. Use your knowledge of football and game playing skills to take your favorite NFL team of real NFL players through the football season and win the Super Bowl.",
+  "s_years": "1993",
+  "as_genres": [
+    "sports"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 47023,
+      "s_title": "Tecmo Bowl",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    71506,
+    4715,
+    6594,
+    4716,
+    4717,
+    6592
+  ]
+}

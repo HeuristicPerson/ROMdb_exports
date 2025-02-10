@@ -1,0 +1,39 @@
+{
+  "s_type": "game",
+  "i_nid": 102498,
+  "s_title": "MDK",
+  "s_synopsis": "In this 3D shoot&#039;em up, you play Kurt, and your job is to save the world. Aliens have sent 8 giant fortresses to destroy earth. You run and jump through 6 missions of strange 3D worlds and kill the &quot;Stream Riders&quot; with your machine gun arm. Precise platform jumps are part of the challenge.",
+  "s_years": "1997\u20132001",
+  "as_genres": [
+    "action"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 102498,
+      "s_title": "MDK",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    41749,
+    62001,
+    62009,
+    20313,
+    42070,
+    62006,
+    22793,
+    61999,
+    62003,
+    62007,
+    24325,
+    62000,
+    62008,
+    62002,
+    17749,
+    62004,
+    62005
+  ]
+}

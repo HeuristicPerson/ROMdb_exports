@@ -1,0 +1,19 @@
+{
+  "s_type": "game",
+  "i_nid": 45262,
+  "s_title": "Antarctic Adventure",
+  "s_synopsis": "As a penguin, you must travel around Antarctica, making your way between bases before time runs out. This sounds easy, right? Wrong. Hindering your progress will be ice crevices and leopard seals. You can jump over the crevices, but jumping over the leopard seals may be difficult. You can speed up or slow down the penguin to avoid both of these hazards. The bases include Australia, France, New Zealand, USA, Argentina, UK, and Japan. You can collect flags and eat fish for points. Collecting a flashing flag will allow you to wear a propeller that enable you to fly over those hazards.",
+  "s_years": "1984\u20131997",
+  "as_genres": [
+    "platforms"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    8080,
+    14634,
+    14632,
+    14633,
+    8079,
+    21363
+  ]
+}

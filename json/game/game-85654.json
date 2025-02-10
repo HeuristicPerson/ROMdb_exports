@@ -1,0 +1,26 @@
+{
+  "s_type": "game",
+  "i_nid": 85654,
+  "s_title": "The Pirates of Dark Water (brawler)",
+  "s_synopsis": "The watery world of Mer is threatened by the deadly Dark Water. Prince Ren and his companions must find the Treasures of Rule to control the Dark Water and return Mer to its former glory. Always hot on their heels is the evil pirate-lord Bloth who wants to find the treasures to rule over Mer.",
+  "s_years": "1994",
+  "as_genres": [
+    "brawler"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 85654,
+      "s_title": "Dark Water",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    46514,
+    3713,
+    3714,
+    3715
+  ]
+}

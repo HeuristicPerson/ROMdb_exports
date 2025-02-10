@@ -1,0 +1,36 @@
+{
+  "s_type": "version",
+  "i_nid": 6283,
+  "s_dat_name": "mdr-crt_no-intro",
+  "s_dat_version": "Sega - Mega Drive - Genesis | https://www.no-intro.org | 20231204-141612",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Rings of Power (USA, Europe)",
+  "s_romset_alias": "Rings of Power (USA, Europe)",
+  "i_romset_size": 1048576,
+  "s_romset_crc32": "41fcc497",
+  "s_romset_platform": "mdr-crt",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "25",
+  "s_mdata_media_type": "cartridge",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "1991-??-??",
+  "as_mdata_views": [
+    "isometric"
+  ],
+  "s_mdata_overscan": "0, 0, 0, 0",
+  "ai_mdata_players": [
+    "1"
+  ],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[eur] Rings of Power",
+    "[usa] Rings of Power"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    45253
+  ]
+}

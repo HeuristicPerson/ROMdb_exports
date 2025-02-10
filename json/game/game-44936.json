@@ -1,0 +1,27 @@
+{
+  "s_type": "game",
+  "i_nid": 44936,
+  "s_title": "Bubsy II",
+  "s_synopsis": "Bubsy is back! After defeating the evil Woolies in the first game, Bubsy, the brave bob-cat, has to participate in an even more dangerous adventure: to explore a mysterious hyperdimensional mansion, inside of which there are portals that lead to different area in different locations and times. ",
+  "s_years": "1994",
+  "as_genres": [
+    "platforms"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 44936,
+      "s_title": "Bubsy",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    347,
+    348,
+    5357,
+    2079,
+    2080
+  ]
+}

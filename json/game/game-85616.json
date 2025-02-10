@@ -1,0 +1,27 @@
+{
+  "s_type": "game",
+  "i_nid": 85616,
+  "s_title": "Stormlord",
+  "s_synopsis": "Free the imprisoned fairy folk before they are obliterated by an evil Queen. She stoops to conquer the land Stormlord inhabits, destroying the peaceful euphoria with each annihilation. Stormlord&#039;s mission - free the captured and defend the peace and tranquility of his realm. Unfortunately, he must repel the wicked monarch, but should he fail, the evil Queen and her dark sovereignty will reign forever...",
+  "s_years": "1990",
+  "as_genres": [
+    "action",
+    "platforms"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 85616,
+      "s_title": "Stormlord",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    38363,
+    78733,
+    6489,
+    6490
+  ]
+}

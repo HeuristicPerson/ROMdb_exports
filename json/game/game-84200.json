@@ -1,0 +1,15 @@
+{
+  "s_type": "game",
+  "i_nid": 84200,
+  "s_title": "Mad Mix Game",
+  "s_synopsis": "&quot;Mad Mix Game&quot; is a &quot;Pac-Man&quot; variant, with a typical bird&#039;s eye view for each level and pellets you must eat in order to get to the next stages. Navigate the maze you&#039;re trapped in and gobble up food while trying to avoid the ghosts that are chasing you. Some levels offer transformative powers. These include being turned into a hippopotamus - which allows you to step on ghosts - and a vacuum cleaner - to clean up pellets corrupted by a wandering enemy. On some levels, you can also briefly turn the protagonist into a spaceship or a tank, where you can shoot ghosts from a fixed vantage point.",
+  "s_years": "????",
+  "as_genres": [
+    "action"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    79390,
+    79447
+  ]
+}

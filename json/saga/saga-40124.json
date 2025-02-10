@@ -1,0 +1,129 @@
+{
+  "s_type": "saga",
+  "i_nid": 40124,
+  "s_title": "Phantasy Star",
+  "s_synopsis": "All Phantasy Star games take place in the same fictional universe, which is somewhat similar to that of Star Wars, incorporating space travel, alien races, elements of medieval fantasy, and the overarching &quot;good vs. evil&quot; plot that involves the ultimate antagonist, the Dark Force. The original tetralogy is set on the Algol Solar System, which consists of four planets: the technologically advanced Palma, the originally desert-covered Motavia, the icy Dezolis, and the mysterious Rykros, which is visible only once every thousand years. The four games also feature common chronology and recurrent characters. The online games took the action to other solar systems within the same universe. ",
+  "s_years": "1987\u20132002",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 85614,
+      "s_title": "Phantasy Star II - Yushis's Adventure",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 85613,
+      "s_title": "Phantasy Star II - Shilka's Adventure",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 85612,
+      "s_title": "Phantasy Star II - Rudger's Adventure",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 85611,
+      "s_title": "Phantasy Star II - Nei's Adventure",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 85610,
+      "s_title": "Phantasy Star II - Huey's Adventure",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 85609,
+      "s_title": "Phantasy Star II - Anne's Adventure",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 84910,
+      "s_title": "Phantasy Star III - Generations of Doom",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 48015,
+      "s_title": "Phantasy Star II - Amia's Adventure",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 48014,
+      "s_title": "Phantasy Star II",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 48013,
+      "s_title": "Phantasy Star II - Kinds's Adventure",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 46624,
+      "s_title": "Phantasy Star IV",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 40125,
+      "s_title": "Phantasy Star",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "s_type": "game",
+  "i_nid": 43023,
+  "s_title": "Battle Chess",
+  "s_synopsis": "Battle Chess is a quite typical chess game, but it comes with a twist: all pieces are represented by small, realistic figures that walk around on the chessboard, and when one piece takes another, they both take part in an animated battle. There is a different animation for each permutation, depending on which pieces are capturing or being captured.",
+  "s_years": "1993",
+  "as_genres": [
+    "strategy"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    7062,
+    49725,
+    51014,
+    36039,
+    49998,
+    51015,
+    36038,
+    50428,
+    51767,
+    38937,
+    50429,
+    51791,
+    60564
+  ]
+}

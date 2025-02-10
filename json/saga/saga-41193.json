@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 41193,
+  "s_title": "The Last Ninja",
+  "s_synopsis": "",
+  "s_years": "????",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 41195,
+      "s_title": "Last Ninja 2 - Back with a Vengenace",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 41194,
+      "s_title": "The Last Ninja",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

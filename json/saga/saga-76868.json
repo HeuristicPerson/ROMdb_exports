@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 76868,
+  "s_title": "X-Men - Mutant Academy",
+  "s_synopsis": "",
+  "s_years": "2000",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 76869,
+      "s_title": "X-Men - Mutant Academy",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 76867,
+      "s_title": "X-Men - Mutant Academy 2",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "s_type": "saga",
+  "i_nid": 85683,
+  "s_title": "Dragon Slayer",
+  "s_synopsis": "",
+  "s_years": "1987\u20131994",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 97825,
+      "s_title": "Dragon Slayer - The Legend of Heroes",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 85889,
+      "s_title": "Dragon Slayer - The Legend of Heroes II",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 85888,
+      "s_title": "Dragon Slayer Gaiden - Nemuri no Oukan",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 85887,
+      "s_title": "Dragon Slayer IV - Drasle Family",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 85685,
+      "s_title": "Lord Monarch",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 85684,
+      "s_title": "Dragon Slayer",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 85682,
+      "s_title": "Sorcerian",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

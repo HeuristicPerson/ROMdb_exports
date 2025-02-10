@@ -1,0 +1,34 @@
+{
+  "s_type": "version",
+  "i_nid": 14524,
+  "s_dat_name": "lnx_no-intro",
+  "s_dat_version": "Atari - Lynx | https://www.no-intro.org | 20230801-211528",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Double Dragon (USA, Europe)",
+  "s_romset_alias": "",
+  "i_romset_size": 262144,
+  "s_romset_crc32": "fbfc0f05",
+  "s_romset_platform": "lnx",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "40",
+  "s_mdata_media_type": "cartridge",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "1993-??-??",
+  "as_mdata_views": [
+    "side"
+  ],
+  "s_mdata_overscan": "0, 0, 0, 0",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[eur] Double Dragon",
+    "[usa] Double Dragon"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    1774
+  ]
+}

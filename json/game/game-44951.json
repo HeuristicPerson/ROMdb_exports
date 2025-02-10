@@ -1,0 +1,22 @@
+{
+  "s_type": "game",
+  "i_nid": 44951,
+  "s_title": "Blasteroids",
+  "s_synopsis": "As the name suggests, this game updates the basic Asteroids gameplay. That means to say that the main gameplay consists of flying through single-screen wrap-around levels shooting at rocks, which split into smaller rocks when hit, eventually becoming small enough to disappear.\r\n",
+  "s_years": "1987",
+  "as_genres": [
+    "shooter"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    43445,
+    36118,
+    38944,
+    43444,
+    26892,
+    26896,
+    26893,
+    26894,
+    26895
+  ]
+}

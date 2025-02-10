@@ -1,0 +1,27 @@
+{
+  "s_type": "game",
+  "i_nid": 85569,
+  "s_title": "Project-X",
+  "s_synopsis": "",
+  "s_years": "????",
+  "as_genres": [
+    "shooter"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 85569,
+      "s_title": "Project-X",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    37871,
+    65371,
+    37872,
+    37873,
+    65372
+  ]
+}

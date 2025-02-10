@@ -1,0 +1,22 @@
+{
+  "s_type": "game",
+  "i_nid": 39216,
+  "s_title": "P-47 Thunderbolt",
+  "s_synopsis": "The P-47 was one of the toughest planes in use in World War 2, and this side-scrolling shoot &#039;em up puts you in control of one as you take on hordes of Nazis. 16-bit versions have a simultaneous 2-player mode, as well as the ability to wrap-around the game with increased difficulty up to 4 times.",
+  "s_years": "1988\u20131989",
+  "as_genres": [
+    "shooter"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    163511,
+    25975,
+    37717,
+    37718,
+    78236,
+    31455,
+    31453,
+    31454,
+    25355
+  ]
+}

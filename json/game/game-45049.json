@@ -1,0 +1,31 @@
+{
+  "s_type": "game",
+  "i_nid": 45049,
+  "s_title": "Paperboy 2",
+  "s_synopsis": "You&#039;re a paper boy. Get on your bicycle. Avoid obstacles on the road, such as dogs, cars, and basically everything you can imagine. Hell, some people shoot cannon balls at you! And you&#039;d better be very sure to only throw papers at the right houses! ...and at people, that&#039;s fun!",
+  "s_years": "1991\u20131992",
+  "as_genres": [
+    "action"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 45049,
+      "s_title": "Paperboy",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    8609,
+    37728,
+    3641,
+    8610,
+    3642,
+    16088,
+    1175,
+    16087,
+    6149
+  ]
+}

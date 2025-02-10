@@ -1,0 +1,25 @@
+{
+  "s_type": "game",
+  "i_nid": 39316,
+  "s_title": "Defender of the Crown",
+  "s_synopsis": "Defender of the Crown puts the player in the role of one of four Saxon knights in medieval England, in a time where the land is in turmoil as the King is dead and his crown was stolen. The Saxons and the Normans blame each other and fight for control of England.",
+  "s_years": "????",
+  "as_genres": [
+    "strategy"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    7379,
+    10724,
+    50040,
+    7380,
+    36501,
+    51109,
+    7381,
+    36502,
+    56596,
+    10723,
+    49867,
+    79210
+  ]
+}

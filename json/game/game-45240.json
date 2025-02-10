@@ -1,0 +1,19 @@
+{
+  "s_type": "game",
+  "i_nid": 45240,
+  "s_title": "Batman",
+  "s_synopsis": "Based on the 1989-Batman movie. The game consists of five different parts, each resembling well known game types. Part one, the chemical plant: Hunt down Jack Napier who has raided the plant (typical platform action, climb ladders or use &quot;Bat&quot;-rope and shoot at some enemies...). Part two, &quot;Batmobile&quot; (...the car): Joker is chasing you and have to escape to &quot;Bat&quot;-cave. Avoid obstacles like police blocking the road and others. Part three, &quot;Bat&quot;-cave: A puzzle game where you have to find a certain item (belonging to Joker) amongst other items. Part four, &quot;Batjet&quot;: Cut the ropes of the balloons which are filled with poisonous gas. Part five, the cathedral: Hunt down Joker. This part plays like the first one. Finally you will confront Joker in a fight that decides the fate of Gotham city.",
+  "s_years": "1989",
+  "as_genres": [
+    "action",
+    "platforms",
+    "racing"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    36033,
+    77150,
+    36031,
+    36032
+  ]
+}

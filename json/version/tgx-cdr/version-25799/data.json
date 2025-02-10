@@ -1,0 +1,37 @@
+{
+  "s_type": "version",
+  "i_nid": 25799,
+  "s_dat_name": "tgx-cdr_redump",
+  "s_dat_version": "NEC - PC Engine CD &amp; TurboGrafx CD | http://redump.org/ | 2024-05-11 22-45-44",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Loom (Japan)",
+  "s_romset_alias": "Loom (Japan)",
+  "i_romset_size": 283674720,
+  "s_romset_crc32": "858a766a",
+  "s_romset_platform": "tgx-cdr",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [
+    "jpn"
+  ],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "12",
+  "s_mdata_media_type": "CD",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "",
+  "as_mdata_views": [
+    "side"
+  ],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [
+    "1"
+  ],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[jpn] Loom"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    44866
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 85579,
+  "s_title": "Bushido Blade",
+  "s_synopsis": "",
+  "s_years": "1997\u20131998",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 85629,
+      "s_title": "Bushido Blade 2",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 85578,
+      "s_title": "Bushido Blade",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

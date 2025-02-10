@@ -1,0 +1,26 @@
+{
+  "s_type": "game",
+  "i_nid": 44835,
+  "s_title": "Asura Buster - Eternal Warriors",
+  "s_synopsis": "The story is set three years after Asura Blade. The world&#039;s at peace after the death of S. Geist, the main villain of Asura Blade. But now comes a new threat in the form of a yet unknown king who wants to become supreme lord of the world, while the sudden sinking of a whole continent has put the world into a state of chaos. Rising against the king are some of the fighters from Asura Blade together with a bunch of new warriors.",
+  "s_years": "2000",
+  "as_genres": [
+    "vs. fighting"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 44835,
+      "s_title": "Asura",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    74976,
+    26602,
+    26601,
+    74977
+  ]
+}

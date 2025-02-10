@@ -1,0 +1,40 @@
+{
+  "s_type": "version",
+  "i_nid": 66558,
+  "s_dat_name": "pcc-opt_redump",
+  "s_dat_version": "IBM - PC compatible | (SIMPLIFIED DAT) | &quot;2021-02-13 16-48-59&quot;",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Sam & Max Hit the Road (USA) (Rerelease) (Alt)",
+  "s_romset_alias": "",
+  "i_romset_size": 374224368,
+  "s_romset_crc32": "6f7732a7",
+  "s_romset_platform": "pcc-opt",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [
+    "eng"
+  ],
+  "as_mdata_lang_voice": [
+    "eng"
+  ],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "100",
+  "s_mdata_media_type": "CD",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "1995-06-05",
+  "as_mdata_views": [
+    "side"
+  ],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [
+    "1"
+  ],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[usa] Sam &amp; Max - Hit the Road"
+  ],
+  "s_mdata_differences": "+ Includes demo of &quot;Star Wars - Rebel Assault&quot;.",
+  "ai_parent_games": [
+    71277,
+    71276
+  ]
+}

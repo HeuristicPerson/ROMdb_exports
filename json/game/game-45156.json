@@ -1,0 +1,32 @@
+{
+  "s_type": "game",
+  "i_nid": 45156,
+  "s_title": "Lunar - The Silver Star",
+  "s_synopsis": "Welcome to the world of Lunar, where dragons yet live and magic is valued above all else. Join Alex, the young adventurer as he begins a quest with his friends to save their land from the crushing advances of the Magic Emperor. Explore dungeons, fight terrifying monsters, and gather information from the locals as you advance toward the explosive confrontation with the Magic Emperor himself! Exciting, menu-driven combat will keep you challenged until the last. Get ready for the ride of your life...",
+  "s_years": "1999",
+  "as_genres": [
+    "role play"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 45156,
+      "s_title": "Lunar",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    61967,
+    16507,
+    19314,
+    24201,
+    73414,
+    16728,
+    24932,
+    46928,
+    18277,
+    18278
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "s_type": "game",
+  "i_nid": 45170,
+  "s_title": "SaGa Frontier II",
+  "s_synopsis": "The sequel to &quot;Saga Frontier&quot;, but also to the less known &quot;Romancing SaGa&quot; games, &quot;Saga Frontier 2&quot; allows you to play the stories of two main characters - a young prince Gustave XIII, who has been exiled from his homeland because he was unable to use the mysterious power of Anima and to become a worthy successor to the throne, and William Knights, a treasure hunter, who strives to find ancient artifacts containing great powers. Their stories are connected to each other, and each story occupies almost a lifetime: the characters grow up and die, new characters are born, etc. ",
+  "s_years": "2000",
+  "as_genres": [
+    "role play"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 45170,
+      "s_title": "SaGa Frontier",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    23143,
+    17960,
+    18004,
+    18262,
+    17209
+  ]
+}

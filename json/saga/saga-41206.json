@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 41206,
+  "s_title": "Rick Dangerous",
+  "s_synopsis": "",
+  "s_years": "1989\u20131990",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 39220,
+      "s_title": "Rick Dangerous 2",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 38899,
+      "s_title": "Rick Dangerous",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

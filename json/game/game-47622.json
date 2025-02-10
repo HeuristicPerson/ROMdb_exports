@@ -1,0 +1,35 @@
+{
+  "s_type": "game",
+  "i_nid": 47622,
+  "s_title": "Mike Tyson's Punch-Out!!",
+  "s_synopsis": "It&#039;s a right jab, a left hook, an uppercut - it&#039;s Mike Tyson&#039;s Punch-Out!! where you&#039;ll get the chance to compete against boxers from around the globe. Punch your way through 13 bouts in the minor, major and world circuits against tough contestants like Piston Honda, Glass Joe, Super Macho Man and many, many more! Defeat all your opponents and meet the ultimate challenge against the World Heavyweight Champion Mike Tyson in the greatest fight of all - The Dream Bout! Knockout Tyson and you can become WVBA (World Video Boxing Association) Champ!",
+  "s_years": "1987\u20131990",
+  "as_genres": [
+    "sports",
+    "vs. fighting"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 47622,
+      "s_title": "Punch-Out!!",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    8391,
+    71946,
+    83346,
+    71945,
+    96808,
+    8392,
+    8703,
+    8393,
+    86679,
+    8394,
+    8702,
+    8704
+  ]
+}

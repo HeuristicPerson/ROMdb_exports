@@ -1,0 +1,24 @@
+{
+  "s_type": "game",
+  "i_nid": 97793,
+  "s_title": "Dragon's Revenge",
+  "s_synopsis": "",
+  "s_years": "????",
+  "as_genres": [
+    "pinball"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 97793,
+      "s_title": "Devil's Crush",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    5533,
+    5532
+  ]
+}

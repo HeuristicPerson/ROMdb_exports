@@ -1,0 +1,23 @@
+{
+  "s_type": "game",
+  "i_nid": 39272,
+  "s_title": "Dragon Quest V",
+  "s_synopsis": "The hero of this game is the son of a brave warrior named Papas. It appears that his mother died just after giving birth to him, and his father took him on a long journey when he was a little baby, searching for something. Now the boy is six years old, and Papas brings him to his hometown. After some time, they learn that Henry, the prince of Reinhart, was kidnapped by bandits. Papas and his son attempt to rescue him, but this only leads to a tragic event and the boy&#039;s imprisonment. Only many years later will the hero discover who or what his father was searching for, and come to realize his own role in the events that dictate the fate of the world.",
+  "s_years": "????",
+  "as_genres": [
+    "role play"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 39272,
+      "s_title": "Dragon Quest",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    2369
+  ]
+}

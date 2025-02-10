@@ -1,0 +1,32 @@
+{
+  "s_type": "game",
+  "i_nid": 74868,
+  "s_title": "Spot Goes To Hollywood",
+  "s_synopsis": "Underwater or underground! Pirates or jungle beasts! Flying into the future or hovering in horror! SPOT is out to steal the spotlight and win the &quot;Best SPOT&quot; award. See SPOT fly a space craft, swim underwater and even ride a motorcycle through every level of unpredictable movie madness! From danger SPOT to hot SPOT... it&#039;s non-stop SPOT!",
+  "s_years": "1995",
+  "as_genres": [
+    "platforms"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 74868,
+      "s_title": "Spot",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    6469,
+    22142,
+    88579,
+    6470,
+    88775,
+    19925,
+    20906,
+    88338,
+    46557,
+    46558
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "s_type": "saga",
+  "i_nid": 97769,
+  "s_title": "Tiny Toons",
+  "s_synopsis": "",
+  "s_years": "1991",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 97768,
+      "s_title": "Tiny Toon Adventures",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 90226,
+      "s_title": "Tiny Toon Adventures - ACME All-Stars",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 84938,
+      "s_title": "Tiny Toon Adventures - Buster Busts Loose!",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

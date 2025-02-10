@@ -1,0 +1,69 @@
+{
+  "s_type": "saga",
+  "i_nid": 39336,
+  "s_title": "The Legend of Zelda",
+  "s_synopsis": "Legend of Zelda (often referred to as simply Zelda) is a series of games by Nintendo that traditionally combine action-based gameplay with puzzle-solving and light role-playing elements. The games are set in a magical, medieval fantasy-like land of Hyrule, and for the most part feature at least three recurrent characters: the protagonist, a young boy named Link; the titular princess Zelda, whose rescue is usually the goal of the game; and the antagonist, an evil magician known as Ganon or Ganondorf. ",
+  "s_years": "1986\u20132003",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 84520,
+      "s_title": "Legend of Zelda - Link's Awakening",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 71365,
+      "s_title": "The Legend of Zelda - Majora's Mask",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 48017,
+      "s_title": "Zelda II - The Adventure of Link",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 41236,
+      "s_title": "The Legend of Zelda",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 41111,
+      "s_title": "The Legend of Zelda - Ocarina of Time",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 39337,
+      "s_title": "The Legend of Zelda - A Link to the Past",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

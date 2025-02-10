@@ -1,0 +1,58 @@
+{
+  "s_type": "game",
+  "i_nid": 45024,
+  "s_title": "Myst",
+  "s_synopsis": "You have just stumbled upon a most intriguing book, a book titled Myst. You have no idea where it came from, who wrote it, or how old it is. Reading through its pages provides you with only a description of an island world. But it&#039;s just a book, isn&#039;t it? As you reach the end of the book, you lay your hand on a page. Suddenly your own world dissolves into blackness, replaced with the island world the pages described. Now you&#039;re here, wherever here is, with no option but to explore.",
+  "s_years": "1996",
+  "as_genres": [
+    "adventure",
+    "puzzle"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 45024,
+      "s_title": "Myst",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    89652,
+    23894,
+    63144,
+    63152,
+    63159,
+    63164,
+    72035,
+    88133,
+    99875,
+    17936,
+    63139,
+    63147,
+    63154,
+    63160,
+    63165,
+    72036,
+    88282,
+    88415,
+    100055,
+    18866,
+    63140,
+    63148,
+    63155,
+    63161,
+    63166,
+    72038,
+    88823,
+    20388,
+    63141,
+    63151,
+    63158,
+    63162,
+    63167,
+    87690,
+    17653
+  ]
+}

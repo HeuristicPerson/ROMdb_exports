@@ -1,0 +1,27 @@
+{
+  "s_type": "game",
+  "i_nid": 100911,
+  "s_title": "Body Blows",
+  "s_synopsis": "Have the fight of your life! The heat is on and so is the fight! Here you meet the tough guys head to head in this edge-of-the-seat, action-packed beat-em-up! In Arcade mode you will face a range of even meaner opponents and end up facing your worst nightmare.. or you could take up to seven other people in the thrilling tournament mode or even go one-on-one with a partner in the evenly matched two-player game.. but whatever option you choose, there is no doubting that you&#039;ll have the fight of your life!",
+  "s_years": "????",
+  "as_genres": [
+    "vs. fighting"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 100911,
+      "s_title": "Body Blows",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    36143,
+    65371,
+    36144,
+    49852,
+    51423
+  ]
+}

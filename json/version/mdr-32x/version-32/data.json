@@ -1,0 +1,35 @@
+{
+  "s_type": "version",
+  "i_nid": 32,
+  "s_dat_name": "mdr-32x_no-intro",
+  "s_dat_version": "Sega - 32X | https://www.no-intro.org | 20231229-101939",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Mortal Kombat II (Europe)",
+  "s_romset_alias": "Mortal Kombat II (Europe)",
+  "i_romset_size": 4194304,
+  "s_romset_crc32": "211085ce",
+  "s_romset_platform": "mdr-32x",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "75",
+  "s_mdata_media_type": "cartridge",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "1995-??-??",
+  "as_mdata_views": [
+    "side"
+  ],
+  "s_mdata_overscan": "0, 0, 0, 0",
+  "ai_mdata_players": [
+    "2"
+  ],
+  "as_mdata_multiplayer": [
+    "versus"
+  ],
+  "as_mdata_screen_titles": [],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    68
+  ]
+}

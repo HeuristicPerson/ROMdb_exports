@@ -1,0 +1,23 @@
+{
+  "s_type": "game",
+  "i_nid": 45680,
+  "s_title": "Super Bomber Man 4",
+  "s_synopsis": "",
+  "s_years": "1996",
+  "as_genres": [
+    "action"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 45680,
+      "s_title": "Bomber Man",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    4305
+  ]
+}

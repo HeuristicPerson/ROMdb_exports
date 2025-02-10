@@ -1,0 +1,79 @@
+{
+  "s_type": "saga",
+  "i_nid": 41177,
+  "s_title": "Golden Axe",
+  "s_synopsis": "Games set in the medieval land of Yuria, with its legendary axe made of gold, sporadically menaced by the sinister Death Adder and other such nasty villains. Recurring characters include Death Adder and the three heroes of the original game: Ax Battler, Tyris Flare and Gilius Thunderhead.",
+  "s_years": "1989\u20131995",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 101887,
+      "s_title": "Ax Battler - A Legend of Golden Axe",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 89750,
+      "s_title": "Golden Axe - The Duel",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 84246,
+      "s_title": "Golden Axe - The Revenge of Death Adder",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 47505,
+      "s_title": "Golden Axe Warrior",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 47502,
+      "s_title": "Golden Axe III",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 47501,
+      "s_title": "Golden Axe II",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 39221,
+      "s_title": "Golden Axe",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

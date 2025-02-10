@@ -1,0 +1,119 @@
+{
+  "s_type": "saga",
+  "i_nid": 25904,
+  "s_title": "Gradius",
+  "s_synopsis": "Gradius is a series of futuristic scrolling shoot-&#039;em-ups which take place in outer space. One of the hallmarks of this series is the power meter. The power meter is typically a bar that highlights selectable options (weapons, shields, etc.) as power-ups are collected. The more power-ups collected, the more powers that are selectable. Players can hold off selecting a power until the one they want becomes available. If a power is selected again for a second or third time, it becomes even more effective. This meter allows the player to customize their spaceships powers to a degree.",
+  "s_years": "1985\u20132001",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 162419,
+      "s_title": "Gradius Rebirth",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 85548,
+      "s_title": "Gradius Galaxies",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 85547,
+      "s_title": "Solar Assault",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 85546,
+      "s_title": "Gradius Gaiden",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 84209,
+      "s_title": "Salamander 2",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45263,
+      "s_title": "Nemesis 2",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45198,
+      "s_title": "Gradius IV - Fukkatsu",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 45191,
+      "s_title": "Salamander",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 40139,
+      "s_title": "Gradius III",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 25903,
+      "s_title": "Gradius II",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 25902,
+      "s_title": "Gradius",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

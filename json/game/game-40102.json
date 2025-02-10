@@ -1,0 +1,27 @@
+{
+  "s_type": "game",
+  "i_nid": 40102,
+  "s_title": "Galaga 3",
+  "s_synopsis": "The ultimate space battle is about to begin as you face off against the Gaplus forces! Fly around in eight directions and fire missiles to destroy enemies. Defeat all the enemies to advance to the next parsec. If you come into contact with an enemy or enemy missile, you&#039;ll lose a fighter. Once you lose all of your fighters, the game is over. Obtain Blaster Head power-ups by destroying the enemies that carry them. Collect parts for your fighter by destroying the enemies that carry them. Complete a full set to earn an extra fighter. During Challenging Stages, enemies will spin and bounce when hit. Keep juggling enemies within the bounds of the screen to earn bonus points.",
+  "s_years": "1984",
+  "as_genres": [
+    "shooter"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 40102,
+      "s_title": "Galaxian",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    28762,
+    28766,
+    28763,
+    28764,
+    28765
+  ]
+}

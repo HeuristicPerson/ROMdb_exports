@@ -1,0 +1,27 @@
+{
+  "s_type": "game",
+  "i_nid": 45117,
+  "s_title": "S.T.U.N. Runner",
+  "s_synopsis": "It&#039;s 2492 and you must pilot your Sub-Terranean Underground Network (S.T.U.N.) craft at speeds over 900 miles per hour through a series of courses to retain your title as S.T.U.N. Runner, completing each course before time runs out.",
+  "s_years": "1989\u20131991",
+  "as_genres": [
+    "racing"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    36002,
+    38051,
+    32633,
+    32637,
+    32630,
+    32634,
+    32638,
+    32631,
+    32635,
+    32639,
+    32632,
+    32636,
+    32640,
+    14569
+  ]
+}

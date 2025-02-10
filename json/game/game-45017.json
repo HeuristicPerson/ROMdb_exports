@@ -1,0 +1,29 @@
+{
+  "s_type": "game",
+  "i_nid": 45017,
+  "s_title": "Super Mario Land",
+  "s_synopsis": "Journey with Mario to a land of giant crabs, Koopa Troopas, flying stone heads and hungry sharks! Travel over land, in the air, and underwater. Mario makes his way through four treacherous worlds on his way to save the Princess!",
+  "s_years": "1989",
+  "as_genres": [
+    "platforms"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 45017,
+      "s_title": "Super Mario Bros.",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    80732,
+    80733,
+    74835,
+    101044,
+    80731,
+    1528,
+    1527
+  ]
+}

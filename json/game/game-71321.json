@@ -1,0 +1,40 @@
+{
+  "s_type": "game",
+  "i_nid": 71321,
+  "s_title": "Oddworld - Abe's Exoddus",
+  "s_synopsis": "In &quot;Oddworld -  Abe&#039;s Oddysee&quot;, Abe shut down RuptureFarms and saved his buddies from becoming snacks. But Rupture farms was just the beginning; the Glukkons are digging up bones at the ancient Mudokon burial grounds. They use the bones to make Soul Storm Brew. Abe must travel to the Soul Storm Brewery, stop those corporate villains and save the enslaved Mudokon workers.",
+  "s_years": "1998",
+  "as_genres": [
+    "platforms"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 71321,
+      "s_title": "Oddworld",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    17444,
+    20168,
+    63693,
+    63698,
+    63702,
+    17690,
+    21684,
+    63695,
+    63699,
+    63703,
+    41387,
+    63696,
+    63700,
+    19795,
+    41695,
+    63697,
+    63701,
+    18106
+  ]
+}

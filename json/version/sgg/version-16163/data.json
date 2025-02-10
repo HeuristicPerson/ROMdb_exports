@@ -1,0 +1,31 @@
+{
+  "s_type": "version",
+  "i_nid": 16163,
+  "s_dat_name": "sgg_no-intro",
+  "s_dat_version": "Sega - Game Gear | https://www.no-intro.org | 20240723-204848",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Skweek (Japan)",
+  "s_romset_alias": "Skweek (Japan)",
+  "i_romset_size": 131072,
+  "s_romset_crc32": "3d9c92c7",
+  "s_romset_platform": "sgg",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 0,
+  "f_mdata_rating_value": 0,
+  "s_mdata_media_type": "cartridge",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "1991-??-??",
+  "as_mdata_views": [],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[jpn] Skweek"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    98015
+  ]
+}

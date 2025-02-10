@@ -1,0 +1,28 @@
+{
+  "s_type": "game",
+  "i_nid": 101888,
+  "s_title": "Nobunaga no Yabou - Haouden",
+  "s_synopsis": "",
+  "s_years": "????",
+  "as_genres": [
+    "strategy"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 101888,
+      "s_title": "Nobunaga's Ambition",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    3554,
+    20009,
+    3555,
+    45340,
+    6105,
+    16753
+  ]
+}

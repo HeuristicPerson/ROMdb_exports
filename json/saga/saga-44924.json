@@ -1,0 +1,59 @@
+{
+  "s_type": "saga",
+  "i_nid": 44924,
+  "s_title": "Parodius",
+  "s_synopsis": "Konami series of self-parodying side scrolling Gradius-style shooters.",
+  "s_years": "1988\u20131996",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 44926,
+      "s_title": "Jikkyo Oshaberi Parodius",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 44925,
+      "s_title": "Fantastic Journey",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 44923,
+      "s_title": "Parodius Da!",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 44922,
+      "s_title": "Parodius",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 44921,
+      "s_title": "Sexy Parodius",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

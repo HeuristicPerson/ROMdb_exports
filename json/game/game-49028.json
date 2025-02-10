@@ -1,0 +1,29 @@
+{
+  "s_type": "game",
+  "i_nid": 49028,
+  "s_title": "Might and Magic III - Isles of Terra",
+  "s_synopsis": "A party of brave heroes managed to defeat the corrupted guardian Sheltem as he attempted to destroy the world of CRON. However, the great battle between the guardians Corak and Sheltem continued in another place - the world of Terra, where Sheltem was originally appointed as a guardian. Revolting against the powerful race of the Ancients, Sheltem takes possession of their space-traveling nacelles, hurling them at the suns of other planets. It is now up to a group of local adventurers to help Corak and vanquish Sheltem once and for all.\r\n",
+  "s_years": "????",
+  "as_genres": [
+    "role play"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 49028,
+      "s_title": "Might and Magic",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    3362,
+    25777,
+    3363,
+    37524,
+    6014,
+    97914,
+    16738
+  ]
+}

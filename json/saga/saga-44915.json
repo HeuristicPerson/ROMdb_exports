@@ -1,0 +1,59 @@
+{
+  "s_type": "saga",
+  "i_nid": 44915,
+  "s_title": "DonPachi",
+  "s_synopsis": "",
+  "s_years": "1995\u20132012",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 47346,
+      "s_title": "DoDonPachi",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 44916,
+      "s_title": "DonPachi",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 44914,
+      "s_title": "DoDonPachi Dai-Fukkatsu",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 44913,
+      "s_title": "DoDonPachi Dai-Ou-Jou",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 44912,
+      "s_title": "DoDonPachi II - Bee Storm",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

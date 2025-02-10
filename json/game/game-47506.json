@@ -1,0 +1,23 @@
+{
+  "s_type": "game",
+  "i_nid": 47506,
+  "s_title": "James Pond 3",
+  "s_synopsis": "",
+  "s_years": "????",
+  "as_genres": [],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 47506,
+      "s_title": "James Pond",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    5798,
+    15976,
+    37185
+  ]
+}

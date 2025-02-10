@@ -1,0 +1,29 @@
+{
+  "s_type": "version",
+  "i_nid": 101251,
+  "s_dat_name": "mdr-32x_no-intro",
+  "s_dat_version": "Sega - 32X | https://www.no-intro.org | 20231229-101939",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-03)",
+  "s_romset_alias": "Zaxxon&#039;s Motherbase (Japan, USA) (En) (Beta) (1995-03-03)",
+  "i_romset_size": 2097152,
+  "s_romset_crc32": "5856082d",
+  "s_romset_platform": "mdr-32x",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 0,
+  "f_mdata_rating_value": 0,
+  "s_mdata_media_type": "",
+  "i_mdata_media_number": 0,
+  "s_mdata_date": "1995-03-03",
+  "as_mdata_views": [],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    86
+  ]
+}

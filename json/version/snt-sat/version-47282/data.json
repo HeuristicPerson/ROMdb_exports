@@ -1,0 +1,29 @@
+{
+  "s_type": "version",
+  "i_nid": 47282,
+  "s_dat_name": "snt-sat_no-intro",
+  "s_dat_version": "Nintendo - Satellaview | https://www.no-intro.org | 20241203-141445",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Yoshi no Panepon - BS Ban (Japan) (En, Ja) (1-2)",
+  "s_romset_alias": "Yoshi no Panepon - BS Ban (Japan) (En,Ja) (1-2)",
+  "i_romset_size": 1048576,
+  "s_romset_crc32": "6775b6ca",
+  "s_romset_platform": "snt-sat",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 0,
+  "f_mdata_rating_value": 0,
+  "s_mdata_media_type": "digital content",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "",
+  "as_mdata_views": [],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    48184
+  ]
+}

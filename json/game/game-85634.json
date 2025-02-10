@@ -1,0 +1,25 @@
+{
+  "s_type": "game",
+  "i_nid": 85634,
+  "s_title": "Volfied",
+  "s_synopsis": "The space ship Monotros has returned after receiving an SOS call to save his home world (Volfied) from alien invaders and has to defeat a different boss and his minions in each level. Volfied is very similar to Qix - the player takes control of a ship/object whose purpose is to roam the screen, forming shapes and removing them from the playfield. By way of reward, a picture is gradually revealed in the removed areas of the screen. The borders of the area not yet cleared by the player become the borders of the area the player&#039;s pointer can move along. When not cutting, the ship is protected by a shield that decreases over time. When it hits zero, the enemies can also killl you when not cutting.",
+  "s_years": "1989\u20131991",
+  "as_genres": [
+    "puzzle"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    42964,
+    42968,
+    42965,
+    42969,
+    42966,
+    64807,
+    38716,
+    42967,
+    64808,
+    25493,
+    6688,
+    6721
+  ]
+}

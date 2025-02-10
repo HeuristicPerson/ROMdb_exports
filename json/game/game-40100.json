@@ -1,0 +1,15 @@
+{
+  "s_type": "game",
+  "i_nid": 40100,
+  "s_title": "Atomix",
+  "s_synopsis": "Atomix is a puzzle game. On each level, you are given a couple of atoms, and your task is to arrange them into a specific molecule. You see all the atoms available for you to move in a top-down view. Down below on the left side is a small preview of what you must get. That picture represents a molecular structure that you must recreate by moving atoms horizontally and/or vertically. Once you move an atom, it won&#039;t stop unless it hits an obstacle, like a wall, or another atom, therefore you must use walls and other atoms creatively.",
+  "s_years": "????",
+  "as_genres": [
+    "puzzle"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    35967,
+    38932
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "s_type": "game",
+  "i_nid": 85567,
+  "s_title": "Simple Character 2000 Series Vol. 08 - Kagaku Ninja-tai Gatchaman - The Shooting",
+  "s_synopsis": "",
+  "s_years": "2002",
+  "as_genres": [
+    "shooter"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 85567,
+      "s_title": "Simple Character 2000 Series",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    18509
+  ]
+}

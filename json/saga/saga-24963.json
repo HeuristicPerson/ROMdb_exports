@@ -1,0 +1,59 @@
+{
+  "s_type": "saga",
+  "i_nid": 24963,
+  "s_title": "Raiden",
+  "s_synopsis": "",
+  "s_years": "1990\u20132002",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 84221,
+      "s_title": "Raiden Fighters 2 - Operation Hell Dive",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 41114,
+      "s_title": "Raiden DX",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 40155,
+      "s_title": "Raiden Fighters Jet",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 24962,
+      "s_title": "Raiden II",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 24961,
+      "s_title": "Raiden",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

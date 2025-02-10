@@ -1,0 +1,28 @@
+{
+  "s_type": "game",
+  "i_nid": 45251,
+  "s_title": "Alundra 2 - A New Legend Begins",
+  "s_synopsis": "The hero of this game is the red-haired Flint, whose parents were killed by pirates. Flint engages himself on a journey to avenge his parents, but soon discovers that there is a bigger conspiracy - the evil Mephisto wants to turn all people into robots by putting magic keys into them. In contrast to the predecessor, this game&#039;s storyline and characters are humorous.",
+  "s_years": "2000",
+  "as_genres": [
+    "role play"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 45251,
+      "s_title": "Alundra",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    20881,
+    18389,
+    21428,
+    19355,
+    20532,
+    17686
+  ]
+}

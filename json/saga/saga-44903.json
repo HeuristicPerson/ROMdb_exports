@@ -1,0 +1,29 @@
+{
+  "s_type": "saga",
+  "i_nid": 44903,
+  "s_title": "Operation Wolf",
+  "s_synopsis": "",
+  "s_years": "1987\u20131992",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 44902,
+      "s_title": "Operation Thunderbolt",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 70,
+      "s_title": "Operation Wolf",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

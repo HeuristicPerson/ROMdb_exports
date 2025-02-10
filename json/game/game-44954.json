@@ -1,0 +1,25 @@
+{
+  "s_type": "game",
+  "i_nid": 44954,
+  "s_title": "Bubble Memories - The Story of Bubble Bobble III",
+  "s_synopsis": "",
+  "s_years": "1996",
+  "as_genres": [
+    "platforms"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 44954,
+      "s_title": "Bubble Bobble",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    27048,
+    27049,
+    42245
+  ]
+}

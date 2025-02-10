@@ -1,0 +1,56 @@
+{
+  "s_type": "game",
+  "i_nid": 71454,
+  "s_title": "Centipede",
+  "s_synopsis": "In Centipede, the player is trapped in the Enchanted Forest. Armed with only a magic wand to ward off the forest&#039;s insect denizens, all of which apparently are attacking in the player in continuous waves. The player must use the magic wand to shoot sparks at approaching insects to score points by pressing the controller button. Holding down the controller button will set the wand to rapid fire shots. If the player is bitten by an insect, the player will be temporarily paralyzed and lose one of the three starting magic wands. ",
+  "s_years": "1980\u20131995",
+  "as_genres": [
+    "shooter"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 71454,
+      "s_title": "Centipede",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    225,
+    10218,
+    23554,
+    27248,
+    39395,
+    82642,
+    10219,
+    27238,
+    27249,
+    49303,
+    154797,
+    13267,
+    19190,
+    27246,
+    30284,
+    39572,
+    75100,
+    9612,
+    20523,
+    27251,
+    30799,
+    42275,
+    75101,
+    27252,
+    27250,
+    27247,
+    30283,
+    15703,
+    43063,
+    39396,
+    14516,
+    383,
+    382,
+    13268
+  ]
+}

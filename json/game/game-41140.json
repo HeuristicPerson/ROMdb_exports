@@ -1,0 +1,26 @@
+{
+  "s_type": "game",
+  "i_nid": 41140,
+  "s_title": "Cabal",
+  "s_synopsis": "Cabal is a shooter where the protagonist runs back and forth along the bottom of the screen, ducking and dodging bullets and grenades from the enemy. The roll maneuver from the arcade was not implemented in the PC version. The player returns fire by moving a target around the screen which also moves the player character and may expose him to enemy fire. \r\n",
+  "s_years": "1988\u20131989",
+  "as_genres": [
+    "shooter"
+  ],
+  "ao_sagas": [],
+  "ai_versions": [
+    7177,
+    36221,
+    50998,
+    50999,
+    77343,
+    27125,
+    75079,
+    27126,
+    75080,
+    27122,
+    75081,
+    27123,
+    75078
+  ]
+}

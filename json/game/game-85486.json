@@ -1,0 +1,24 @@
+{
+  "s_type": "game",
+  "i_nid": 85486,
+  "s_title": "Saban's Power Rangers Zeo - Battle Racers",
+  "s_synopsis": "Fasten Your Seat Belts And Strap On Your Crash Helmets! Power Rangers Zeo Battle Racers is revved up and ready to burn runner. Test your driving skills on 16 challenging courses whiles racing, smashing and even blasting the competition off the track! You can choose from jet cycles, hover crafts, dune buggies and quadrafighters, as you race against the computer or a friend. You can even race King Mondo&#039;s awesome 3-wheel chopper. Just remember one thing: there are no rules, only winners and losers.",
+  "s_years": "1996",
+  "as_genres": [
+    "racing"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 85486,
+      "s_title": "Power Rangers",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    3764,
+    3765
+  ]
+}

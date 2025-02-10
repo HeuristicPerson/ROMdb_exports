@@ -1,0 +1,39 @@
+{
+  "s_type": "saga",
+  "i_nid": 44881,
+  "s_title": "Sengoku",
+  "s_synopsis": "",
+  "s_years": "1991\u20132001",
+  "ao_games": [
+    {
+      "s_type": "game",
+      "i_nid": 44883,
+      "s_title": "Sengoku 3",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 44882,
+      "s_title": "Sengoku 2",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    },
+    {
+      "s_type": "game",
+      "i_nid": 44880,
+      "s_title": "Sengoku",
+      "s_synopsis": null,
+      "s_years": null,
+      "as_genres": null,
+      "ao_versions": [],
+      "ao_sagas": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "s_type": "game",
+  "i_nid": 38906,
+  "s_title": "Streets of Rage 2",
+  "s_synopsis": "fter Axel Stone, Blaze Fielding and Adam Hunter destroyed the evil Syndicate leader, Mr. X, the city became a peaceful place to live, and each one of them followed their own paths. One year later, after their reunion, Adam&#039;s brother Sammy returned from school to find their apartment in a mess, and Adam nowhere to be seen, and after calling his two friends, one of them notices a photo of Adam chained to a wall, next to someone they knew very well - Mr. X, who returned to turn the peaceful city once again into a war zone. Now, Axel, Blaze, Sammy, and Axel&#039;s good friend Max, a pro wrestler, must head out to stop Mr. X once again...hopefully for good...",
+  "s_years": "1992\u20131993",
+  "as_genres": [
+    "brawler"
+  ],
+  "ao_sagas": [
+    {
+      "s_type": "saga",
+      "i_nid": 38906,
+      "s_title": "Streets of Rage",
+      "s_synopsis": null,
+      "s_years": null,
+      "ao_games": null
+    }
+  ],
+  "ai_versions": [
+    83947,
+    74727,
+    155750,
+    74995,
+    161934,
+    74994,
+    161935,
+    5278,
+    5279,
+    6502,
+    15817,
+    10008
+  ]
+}
