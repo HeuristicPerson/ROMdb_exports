@@ -3,16 +3,9 @@
   "i_nid": 139,
   "s_title": "Star Trek Starfleet Academy - Starship Bridge Simulator",
   "s_synopsis": "Command the Starfleet&#039;s finest vessels and pilot your way through dozens of stunning scenarios. Sneak through a Klingon gauntlet to rescue thousands of colonists... or lose your whole crew in a warp core breach. Can you master the legendary Kobayashi Maru scenario?",
-  "s_years": "????",
   "as_genres": [
     "management",
     "simulation"
   ],
-  "ao_sagas": [],
-  "ai_versions": [
-    46,
-    4201,
-    4202,
-    4203
-  ]
+  "ai_sagas": []
 }

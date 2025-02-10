@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 86,
+  "s_title": "Zaxxon's Motherbase 2000",
+  "s_synopsis": "you\u2019re a pilot belonging to a group of rebels who have set out to destroy an evil faction called the Ginglii who are out to take over the universe and only you can stop them. ",
+  "as_genres": [
+    "shooter"
+  ],
+  "ai_sagas": [
+    85
+  ]
+}

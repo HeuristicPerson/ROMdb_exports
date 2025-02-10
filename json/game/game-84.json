@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 84,
+  "s_title": "Virtua Racing",
+  "s_synopsis": "Virtua Racing is Sega&#039;s first ever 3D, polygon-based racing game. The game consists of racing Formula-1-looking cars around a beginner, intermediate, or expert track, competing against a second player or computer drivers. Despite having Formula-1 cars, the game controls are very &quot;arcadey&quot; and players can see the leap they made from here to Daytona.",
+  "as_genres": [
+    "racing"
+  ],
+  "ai_sagas": [
+    83
+  ]
+}

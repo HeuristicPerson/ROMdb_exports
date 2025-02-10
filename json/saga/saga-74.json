@@ -2,48 +2,5 @@
   "s_type": "saga",
   "i_nid": 74,
   "s_title": "Romance of the Three Kingdoms",
-  "s_synopsis": "",
-  "s_years": "1993\u20131995",
-  "ao_games": [
-    {
-      "s_type": "game",
-      "i_nid": 84927,
-      "s_title": "Romance of the Three Kingdoms",
-      "s_synopsis": null,
-      "s_years": null,
-      "as_genres": null,
-      "ao_versions": [],
-      "ao_sagas": []
-    },
-    {
-      "s_type": "game",
-      "i_nid": 84281,
-      "s_title": "Romance of the Three Kingdoms III - Dragon of Destiny",
-      "s_synopsis": null,
-      "s_years": null,
-      "as_genres": null,
-      "ao_versions": [],
-      "ao_sagas": []
-    },
-    {
-      "s_type": "game",
-      "i_nid": 45255,
-      "s_title": "Romance of the Three Kingdoms II",
-      "s_synopsis": null,
-      "s_years": null,
-      "as_genres": null,
-      "ao_versions": [],
-      "ao_sagas": []
-    },
-    {
-      "s_type": "game",
-      "i_nid": 75,
-      "s_title": "Romance of the Three Kingdoms IV - Wall of Fire",
-      "s_synopsis": null,
-      "s_years": null,
-      "as_genres": null,
-      "ao_versions": [],
-      "ao_sagas": []
-    }
-  ]
+  "s_synopsis": ""
 }

@@ -2,58 +2,5 @@
   "s_type": "saga",
   "i_nid": 1,
   "s_title": "Tekken",
-  "s_synopsis": "",
-  "s_years": "1994\u20132002",
-  "ao_games": [
-    {
-      "s_type": "game",
-      "i_nid": 163952,
-      "s_title": "Tekken Tag Tournament",
-      "s_synopsis": null,
-      "s_years": null,
-      "as_genres": null,
-      "ao_versions": [],
-      "ao_sagas": []
-    },
-    {
-      "s_type": "game",
-      "i_nid": 71538,
-      "s_title": "Tekken 4",
-      "s_synopsis": null,
-      "s_years": null,
-      "as_genres": null,
-      "ao_versions": [],
-      "ao_sagas": []
-    },
-    {
-      "s_type": "game",
-      "i_nid": 160,
-      "s_title": "Tekken 2",
-      "s_synopsis": null,
-      "s_years": null,
-      "as_genres": null,
-      "ao_versions": [],
-      "ao_sagas": []
-    },
-    {
-      "s_type": "game",
-      "i_nid": 159,
-      "s_title": "Tekken",
-      "s_synopsis": null,
-      "s_years": null,
-      "as_genres": null,
-      "ao_versions": [],
-      "ao_sagas": []
-    },
-    {
-      "s_type": "game",
-      "i_nid": 158,
-      "s_title": "Tekken 3",
-      "s_synopsis": null,
-      "s_years": null,
-      "as_genres": null,
-      "ao_versions": [],
-      "ao_sagas": []
-    }
-  ]
+  "s_synopsis": "Tekken (\u9244\u62f3, &quot;Iron Fist&quot;) is a series of versus fighting games where the story focuses on the powerful and corrupt Mishima Zaibatsu, a corporation run by the fighter Heihachi Mishima. Much of the plot is dedicated to the rivalry between Heihachi, his son Kazuya, and his grandson Jin, who are infused with the Devil gene and try to overthrow each other."
 }

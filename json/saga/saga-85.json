@@ -2,38 +2,5 @@
   "s_type": "saga",
   "i_nid": 85,
   "s_title": "Zaxxon",
-  "s_synopsis": "",
-  "s_years": "1982\u20131995",
-  "ao_games": [
-    {
-      "s_type": "game",
-      "i_nid": 44851,
-      "s_title": "Super Zaxxon",
-      "s_synopsis": null,
-      "s_years": null,
-      "as_genres": null,
-      "ao_versions": [],
-      "ao_sagas": []
-    },
-    {
-      "s_type": "game",
-      "i_nid": 44850,
-      "s_title": "Zaxxon",
-      "s_synopsis": null,
-      "s_years": null,
-      "as_genres": null,
-      "ao_versions": [],
-      "ao_sagas": []
-    },
-    {
-      "s_type": "game",
-      "i_nid": 86,
-      "s_title": "Zaxxon's Motherbase 2000",
-      "s_synopsis": null,
-      "s_years": null,
-      "as_genres": null,
-      "ao_versions": [],
-      "ao_sagas": []
-    }
-  ]
+  "s_synopsis": ""
 }

@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 82,
+  "s_title": "Virtua Fighter",
+  "s_synopsis": "Virtua Fighter is considered one of the progenitors of one-on-one fighting games with fully 3D environments and characters. The fighters and arenas are rendered in flat-shaded polygons. Unlike many fighting games, Virtua Fighter focuses on gameplay based on actual fighting styles, rather than outrageous special moves and storylines.",
+  "as_genres": [
+    "vs. fighting"
+  ],
+  "ai_sagas": [
+    81
+  ]
+}

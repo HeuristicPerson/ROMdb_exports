@@ -3,32 +3,8 @@
   "i_nid": 73,
   "s_title": "Star Wars Arcade",
   "s_synopsis": "Take control of either an X-Wing or Y-Wing, and are put right in the middle of the space combat. In some levels, you have to shoot down a specific number of TIE fighters before time runs out. In other levels, your goal is to simply to make it to the end without getting blasted out of the sky.",
-  "s_years": "1994",
   "as_genres": [
     "shooter"
   ],
-  "ao_sagas": [],
-  "ai_versions": [
-    101211,
-    101212,
-    101213,
-    101214,
-    101215,
-    101216,
-    101217,
-    101218,
-    101219,
-    101220,
-    101221,
-    101204,
-    101205,
-    101208,
-    101209,
-    101210,
-    101206,
-    101207,
-    47,
-    49,
-    48
-  ]
+  "ai_sagas": []
 }

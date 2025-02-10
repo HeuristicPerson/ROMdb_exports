@@ -1,0 +1,13 @@
+{
+  "s_type": "game",
+  "i_nid": 150,
+  "s_title": "Castlevania II - Simon's Quest",
+  "s_synopsis": "After the vampire killer Simon Belmont destroyed Count Dracula in the previous game, an evil curse possessed him. The only way Simon can break the count&#039;s curse is to find five of Dracula&#039;s body parts (which are mysteriously strewn throughout Transylvania) and burn them. ",
+  "as_genres": [
+    "action",
+    "adventure"
+  ],
+  "ai_sagas": [
+    107
+  ]
+}

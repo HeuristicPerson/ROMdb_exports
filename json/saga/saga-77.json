@@ -2,18 +2,5 @@
   "s_type": "saga",
   "i_nid": 77,
   "s_title": "Primal Rage",
-  "s_synopsis": "",
-  "s_years": "1994\u20131995",
-  "ao_games": [
-    {
-      "s_type": "game",
-      "i_nid": 76,
-      "s_title": "Primal Rage",
-      "s_synopsis": null,
-      "s_years": null,
-      "as_genres": null,
-      "ao_versions": [],
-      "ao_sagas": []
-    }
-  ]
+  "s_synopsis": ""
 }
