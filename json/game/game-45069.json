@@ -1,0 +1,10 @@
+{
+  "s_type": "game",
+  "i_nid": 45069,
+  "s_title": "Cameltry",
+  "s_synopsis": "The player must guide a ball through a number of mazes, rotating the maze through 360 degrees to get the ball to move in the desired direction. Each maze must be completed within a tight time limit and a number of traps and obstacles litter the mazes to slow players down.\r\n",
+  "as_genres": [
+    "puzzle"
+  ],
+  "ai_sagas": []
+}

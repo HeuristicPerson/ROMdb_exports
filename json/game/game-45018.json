@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 45018,
+  "s_title": "Super Mario Bros.",
+  "s_synopsis": "The Princess has been kidnapped by the evil Bowser, and it is up to Mario and brother Luigi to save the day.",
+  "as_genres": [
+    "platforms"
+  ],
+  "ai_sagas": [
+    45017
+  ]
+}

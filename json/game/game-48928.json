@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 48928,
+  "s_title": "Ogre Battle",
+  "s_synopsis": "Twenty-five years ago Empress Endora conquered the entire continent of Zetegenia. Her reign proved to be tyrannical, and people of different social classes and positions began to long for a better future. Eventually, a resistance movement called the Liberation Army was formed. The protagonist (whose name and background are chosen by the player) takes command of the new army, and leads his allies towards a revolution.",
+  "as_genres": [
+    "strategy"
+  ],
+  "ai_sagas": [
+    48927
+  ]
+}

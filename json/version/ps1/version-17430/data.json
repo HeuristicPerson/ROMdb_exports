@@ -1,0 +1,39 @@
+{
+  "s_type": "version",
+  "i_nid": 17430,
+  "s_dat_name": "ps1_redump",
+  "s_dat_version": "Sony - PlayStation | Simplified with Dat Simplifier - v1.0.2021-11-30 | &quot;2024-12-24 18-15-06&quot;",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Arc the Lad Collection - Arc the Lad (USA)",
+  "s_romset_alias": "Arc the Lad Collection - Arc the Lad (USA)",
+  "i_romset_size": 627784080,
+  "s_romset_crc32": "cd0ad73b",
+  "s_romset_platform": "ps1",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [
+    "eng"
+  ],
+  "as_mdata_lang_voice": [
+    "non"
+  ],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "50",
+  "s_mdata_media_type": "CD",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "2001-??-??",
+  "as_mdata_views": [
+    "top"
+  ],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [
+    "1"
+  ],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[usa] Arc the Lad"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    47639
+  ]
+}

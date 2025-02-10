@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 45092,
+  "s_title": "Medal of Honor - Underground",
+  "s_synopsis": "You play as Manon Batiste, who briefed the missions for you in the original Medal of Honor. She is a new member of a small band of French rebels who fight against the tyranny of the Germans.",
+  "as_genres": [
+    "shooter"
+  ],
+  "ai_sagas": [
+    45091
+  ]
+}

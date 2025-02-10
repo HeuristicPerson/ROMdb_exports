@@ -1,0 +1,13 @@
+{
+  "s_type": "game",
+  "i_nid": 45025,
+  "s_title": "Myst",
+  "s_synopsis": "You have just stumbled upon a most intriguing book, a book titled Myst. You have no idea where it came from, who wrote it, or how old it is. Reading through its pages provides you with only a description of an island world. But it&#039;s just a book, isn&#039;t it? As you reach the end of the book, you lay your hand on a page. Suddenly your own world dissolves into blackness, replaced with the island world the pages described. Now you&#039;re here, wherever here is, with no option but to explore.",
+  "as_genres": [
+    "adventure",
+    "puzzle"
+  ],
+  "ai_sagas": [
+    45024
+  ]
+}

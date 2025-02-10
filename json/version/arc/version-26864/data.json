@@ -1,0 +1,33 @@
+{
+  "s_type": "version",
+  "i_nid": 26864,
+  "s_dat_name": "arc_mame",
+  "s_dat_version": "MAME | Simplified with Dat Simplifier - v1.0.2021-11-30 | &quot;0.271 (unknown)&quot;",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Black Dragon (Japan)",
+  "s_romset_alias": "blkdrgon",
+  "i_romset_size": 889856,
+  "s_romset_crc32": "6e42e084",
+  "s_romset_platform": "arc",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 0,
+  "f_mdata_rating_value": 0,
+  "s_mdata_media_type": "",
+  "i_mdata_media_number": 0,
+  "s_mdata_date": "1987-??-??",
+  "as_mdata_views": [
+    "side"
+  ],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[jpn] Black Dragon - Burakku Doragon / Black Dragon - \u30d6\u30e9\u30c3\u30af\u30c9\u30e9\u30b4\u30f3"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    39219
+  ]
+}

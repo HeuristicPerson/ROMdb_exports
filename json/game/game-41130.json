@@ -1,0 +1,13 @@
+{
+  "s_type": "game",
+  "i_nid": 41130,
+  "s_title": "Puzzle Bobble 3",
+  "s_synopsis": "One day, Dunk, the magic magician of Bubble World, releases a spell that transports eight characters from their home worlds to Bubble World. Now it is the player&#039;s turn to bring them back home!\r\n",
+  "as_genres": [
+    "action",
+    "puzzle"
+  ],
+  "ai_sagas": [
+    41129
+  ]
+}

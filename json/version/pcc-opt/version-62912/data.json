@@ -1,0 +1,39 @@
+{
+  "s_type": "version",
+  "i_nid": 62912,
+  "s_dat_name": "pcc-opt_redump",
+  "s_dat_version": "IBM - PC compatible | (SIMPLIFIED DAT) | &quot;2021-02-13 16-48-59&quot;",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Monkey Island Madness (USA)",
+  "s_romset_alias": "",
+  "i_romset_size": 633054912,
+  "s_romset_crc32": "6695a15c",
+  "s_romset_platform": "pcc-opt",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [
+    "eng"
+  ],
+  "as_mdata_lang_voice": [
+    "non"
+  ],
+  "i_mdata_rating_votes": 0,
+  "f_mdata_rating_value": 0,
+  "s_mdata_media_type": "CD",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "1997-08-22",
+  "as_mdata_views": [
+    "side"
+  ],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [
+    "1"
+  ],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [],
+  "s_mdata_differences": "- Code wheel copy protections removed from both games.<br/>+ Included demo of &quot;The Curse of Monkey Island&quot;.",
+  "ai_parent_games": [
+    140,
+    41250,
+    71444
+  ]
+}

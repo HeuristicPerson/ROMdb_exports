@@ -1,0 +1,37 @@
+{
+  "s_type": "version",
+  "i_nid": 24768,
+  "s_dat_name": "ps1_redump",
+  "s_dat_version": "Sony - PlayStation | Simplified with Dat Simplifier - v1.0.2021-11-30 | &quot;2024-12-24 18-15-06&quot;",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Suzuki Bakuhatsu (Japan)",
+  "s_romset_alias": "Suzuki Bakuhatsu (Japan)",
+  "i_romset_size": 677865216,
+  "s_romset_crc32": "ec9f6b6a",
+  "s_romset_platform": "ps1",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [
+    "jpn"
+  ],
+  "as_mdata_lang_voice": [
+    "non"
+  ],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "50",
+  "s_mdata_media_type": "CD",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "2000-??-??",
+  "as_mdata_views": [
+    "1st person"
+  ],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[jpn] Suzuki Bakuhatsu / \u9234\u6728\u7206\u767a"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    45708
+  ]
+}

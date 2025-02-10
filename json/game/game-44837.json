@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 44837,
+  "s_title": "R-Type Leo",
+  "s_synopsis": "Rather than the fight against the Bydo Empire, the story background describes how a bio-computer malfunctions and took control of an artificial planet that was build by mankind. The player tries to stop it with his spaceship. Compared to earlier installments, some changes have been made regarding the weapon systems. The Force and the Wave Cannon are removed, instead, Bit Devices are introduced. Their firing direction depends on the movement of the ship itself. They can also be detached for direct collision damage to enemies.",
+  "as_genres": [
+    "shooter"
+  ],
+  "ai_sagas": [
+    44838
+  ]
+}

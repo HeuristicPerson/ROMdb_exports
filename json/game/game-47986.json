@@ -1,0 +1,10 @@
+{
+  "s_type": "game",
+  "i_nid": 47986,
+  "s_title": "Tetris Worlds",
+  "s_synopsis": "It&#039;s Tetris as we all remember it. Drop different shaped blocks into the container, and fit them together to form a horizontal line, and the line disappears. Your job is to keep going as long as possible by clearing the container of blocks.",
+  "as_genres": [
+    "puzzle"
+  ],
+  "ai_sagas": []
+}

@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 44851,
+  "s_title": "Super Zaxxon",
+  "s_synopsis": "Super Zaxxon is a three-quarter perspective, space shooter style game. You must first go over a base on an asteroid. Things located on this base include gun implacements, fuel tanks, radar stations, missiles, and fighters. After you successfully navigate this base, you will go through a tunnel to tangle with enemy fighters, mine layers, and mines. You then will have to navigate through a series of barriers on another asteroid in order to take on the Super Zaxxon&#039;s, the enemy robot dragons.",
+  "as_genres": [
+    "shooter"
+  ],
+  "ai_sagas": [
+    85
+  ]
+}

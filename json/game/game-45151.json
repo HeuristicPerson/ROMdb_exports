@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 45151,
+  "s_title": "Super R-Type",
+  "s_synopsis": "You are the R-9, Earth&#039;s most advanced form of defense against the evil BYDO Empire. There are seven stages you must go through, picking up power-up items to defeat the stage bosses which have returned from the arcade versions of R-Type and R-Type II. Your R-9 ship can also be united with FORCE, which are invincible units that surround your ship to protect you and can also power up and attack.",
+  "as_genres": [
+    "shooter"
+  ],
+  "ai_sagas": [
+    44838
+  ]
+}

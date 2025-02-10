@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 45169,
+  "s_title": "SaGa Frontier",
+  "s_synopsis": "The events of SaGa Frontier take places in a fictional universe called &quot;The Regions&quot;, which incorporates different worlds with various degrees of technological development. The player can choose to follow one of the seven available scenarios, each dedicated to a different protagonist.",
+  "as_genres": [
+    "role play"
+  ],
+  "ai_sagas": [
+    45170
+  ]
+}

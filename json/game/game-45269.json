@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 45269,
+  "s_title": "SNK vs. Capcom - The Match of the Millennium",
+  "s_synopsis": "Choose the fighting style that suits you from the available Single, Tag and Team modes. The SC Olympic mode grants access to minigames from a music game featuring Felicia to a whack-a-mole style game with Jubei. The Olympic mode also allows players to compete for gold, silver and bronze medals in various fighting challenges.",
+  "as_genres": [
+    "vs. fighting"
+  ],
+  "ai_sagas": [
+    45266
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "s_type": "version",
+  "i_nid": 16111,
+  "s_dat_name": "sgg_no-intro",
+  "s_dat_version": "Sega - Game Gear | https://www.no-intro.org | 20240723-204848",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Prince of Persia (USA, Europe)",
+  "s_romset_alias": "Prince of Persia (USA, Europe)",
+  "i_romset_size": 262144,
+  "s_romset_crc32": "311d2863",
+  "s_romset_platform": "sgg",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "80",
+  "s_mdata_media_type": "cartridge",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "1992-??-??",
+  "as_mdata_views": [
+    "side"
+  ],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    1776
+  ]
+}

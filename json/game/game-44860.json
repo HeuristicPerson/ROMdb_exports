@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 44860,
+  "s_title": "Castle Master",
+  "s_synopsis": "As a Prince or Princess armed with a slingshot, you have to explore a medieval castle to free your beloved from the evil Magister. ",
+  "as_genres": [
+    "adventure"
+  ],
+  "ai_sagas": [
+    44861
+  ]
+}

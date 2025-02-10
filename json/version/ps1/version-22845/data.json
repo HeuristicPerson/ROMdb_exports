@@ -1,0 +1,33 @@
+{
+  "s_type": "version",
+  "i_nid": 22845,
+  "s_dat_name": "ps1_redump",
+  "s_dat_version": "Sony - PlayStation | Simplified with Dat Simplifier - v1.0.2021-11-30 | &quot;2024-12-24 18-15-06&quot;",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Jim Henson's The Hoobs (Spain)",
+  "s_romset_alias": "Jim Henson&#039;s The Hoobs (Spain)",
+  "i_romset_size": 390380256,
+  "s_romset_crc32": "bf94d162",
+  "s_romset_platform": "ps1",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [
+    "spa-esp"
+  ],
+  "as_mdata_lang_voice": [
+    "spa-esp"
+  ],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "12",
+  "s_mdata_media_type": "CD",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "",
+  "as_mdata_views": [],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[esp] Jim Henson&#039;s The Hoobs"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": []
+}

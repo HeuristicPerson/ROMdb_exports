@@ -1,0 +1,13 @@
+{
+  "s_type": "game",
+  "i_nid": 48081,
+  "s_title": "Hydlide",
+  "s_synopsis": "An evil demon named Varalys casts a curse upon the princess Ann, turning her into three fairies. You control Sir Jim and set out to find the fairies, and then slay Varalys. Only by vanquishing Varalys can the curse be lifted. Once the princess is restored the kingdom will be saved.",
+  "as_genres": [
+    "action",
+    "role play"
+  ],
+  "ai_sagas": [
+    48080
+  ]
+}

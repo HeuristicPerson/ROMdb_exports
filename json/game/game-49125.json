@@ -1,0 +1,13 @@
+{
+  "s_type": "game",
+  "i_nid": 49125,
+  "s_title": "Neutopia",
+  "s_synopsis": "The princess Aurora was kidnapped by the evil Dirth, and the king send a warrior named Jazeta on a mission to rescue her. It appears that once Dirth way sealed by eight wise men who used the power of eight sacred medallions. Princess Aurora is the only one who knows how to use those medallions, and that is why Dirth abducted her. The hero must explore the land, descend to the dangerous labyrinths, retrieve the eight medallions, rescue the princess, and defeat Dirth.",
+  "as_genres": [
+    "action",
+    "adventure"
+  ],
+  "ai_sagas": [
+    49124
+  ]
+}

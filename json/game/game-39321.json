@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 39321,
+  "s_title": "Alien Syndrome",
+  "s_synopsis": "Your job is to run around and rescue all the captives and make it to the escape hatch before the time bomb explodes. Then face the mother alien at the end of the level.",
+  "as_genres": [
+    "action"
+  ],
+  "ai_sagas": [
+    39320
+  ]
+}

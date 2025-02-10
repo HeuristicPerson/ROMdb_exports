@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 49011,
+  "s_title": "Terminator 3 - Rise of the Machines",
+  "s_synopsis": "Once again, an advanced Terminator is sent to the past to threaten John Connor&#039;s life. The player control&#039;s iconic cyborg as he battles robots and police through the future and the present to save him.",
+  "as_genres": [
+    "shooter"
+  ],
+  "ai_sagas": [
+    49012
+  ]
+}

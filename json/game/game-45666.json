@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 45666,
+  "s_title": "Flying Shark",
+  "s_synopsis": "Piloting a biplane, the player takes out enemy land, air, and naval craft across various environments.",
+  "as_genres": [
+    "shooter"
+  ],
+  "ai_sagas": [
+    45665
+  ]
+}

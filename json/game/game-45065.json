@@ -1,0 +1,10 @@
+{
+  "s_type": "game",
+  "i_nid": 45065,
+  "s_title": "Laser Squad",
+  "s_synopsis": "In Laser Squad you control a group of space marine-like soldiers. Before taking them into battle, you must buy them weapons and armour with a predetermined amount of credits, taking into account the individual abilities of your squad.",
+  "as_genres": [
+    "strategy"
+  ],
+  "ai_sagas": []
+}

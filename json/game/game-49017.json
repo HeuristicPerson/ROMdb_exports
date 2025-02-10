@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 49017,
+  "s_title": "Teenage Mutant Ninja Turtles III - The Manhattan Project",
+  "s_synopsis": "The player selects one of the turtle protagonists who must then fight his way through the stages, taking out as many Foot Soldiers as possible, confronting and defeating the bosses, and finally facing Shredder. As opposed to the previous game, the turtle protagonists have each their unique powers.",
+  "as_genres": [
+    "brawler"
+  ],
+  "ai_sagas": [
+    49014
+  ]
+}

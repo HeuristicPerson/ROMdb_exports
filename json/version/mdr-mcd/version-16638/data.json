@@ -1,0 +1,40 @@
+{
+  "s_type": "version",
+  "i_nid": 16638,
+  "s_dat_name": "mdr-mcd_redump",
+  "s_dat_version": "Sega - Mega CD &amp; Sega CD | http://redump.org/ | 2024-05-31 03-30-15",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Heart of the Alien - Out of This World Parts I and II (USA) (RE)",
+  "s_romset_alias": "Heart of the Alien - Out of This World Parts I and II (USA) (RE)",
+  "i_romset_size": 446329632,
+  "s_romset_crc32": "2ca09e3c",
+  "s_romset_platform": "mdr-mcd",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [
+    "eng"
+  ],
+  "as_mdata_lang_voice": [
+    "non"
+  ],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "50",
+  "s_mdata_media_type": "CD",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "1994-??-??",
+  "as_mdata_views": [
+    "side"
+  ],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [
+    "1"
+  ],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[usa] Heart of the Alien - Out of This World Part II"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    39215,
+    45657
+  ]
+}

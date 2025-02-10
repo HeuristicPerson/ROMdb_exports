@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 25902,
+  "s_title": "Gradius",
+  "s_synopsis": "The people of Gradius are in trouble. The ameoboid Bacterions have launched an all out attack against the planet, and it&#039;s up to you to fly into battle and save them. Along the way you&#039;ll be able to power up your ship with hyper speed, force fields, lasers, missiles, double beam cannons and more to help you battle. ",
+  "as_genres": [
+    "shooter"
+  ],
+  "ai_sagas": [
+    25904
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "s_type": "game",
+  "i_nid": 40087,
+  "s_title": "Amidar",
+  "s_synopsis": "As a paintbush, run over the borders of each rectangle to color them in in order to complete the level, while avoiding enemies. You can force them to jump to help you if they get in your way.",
+  "as_genres": [
+    "action"
+  ],
+  "ai_sagas": []
+}

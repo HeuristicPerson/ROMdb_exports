@@ -1,0 +1,36 @@
+{
+  "s_type": "version",
+  "i_nid": 33963,
+  "s_dat_name": "arc_mame",
+  "s_dat_version": "MAME | Simplified with Dat Simplifier - v1.0.2021-11-30 | &quot;0.271 (unknown)&quot;",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Super Street Fighter II: The Tournament Battle (World 931119)",
+  "s_romset_alias": "ssf2tb",
+  "i_romset_size": 19529748,
+  "s_romset_crc32": "014f5218",
+  "s_romset_platform": "arc",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "100",
+  "s_mdata_media_type": "",
+  "i_mdata_media_number": 0,
+  "s_mdata_date": "1993-11-19",
+  "as_mdata_views": [
+    "side"
+  ],
+  "s_mdata_overscan": "0, 0, 0, 0",
+  "ai_mdata_players": [
+    "1",
+    "2"
+  ],
+  "as_mdata_multiplayer": [
+    "versus"
+  ],
+  "as_mdata_screen_titles": [],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    41174
+  ]
+}

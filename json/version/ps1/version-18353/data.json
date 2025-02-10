@@ -1,0 +1,33 @@
+{
+  "s_type": "version",
+  "i_nid": 18353,
+  "s_dat_name": "ps1_redump",
+  "s_dat_version": "Sony - PlayStation | Simplified with Dat Simplifier - v1.0.2021-11-30 | &quot;2024-12-24 18-15-06&quot;",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Jojo no Kimyou na Bouken (Japan)",
+  "s_romset_alias": "Jojo no Kimyou na Bouken (Japan)",
+  "i_romset_size": 668113824,
+  "s_romset_crc32": "a3e647cd",
+  "s_romset_platform": "ps1",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "50",
+  "s_mdata_media_type": "CD",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "1999-??-??",
+  "as_mdata_views": [
+    "side"
+  ],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[jpn] Jojo no Kimyou na Bouken / \u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    47949
+  ]
+}

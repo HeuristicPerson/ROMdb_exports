@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 48161,
+  "s_title": "Minelvaton Saga",
+  "s_synopsis": "&quot;Minelvaton Saga&quot; takes place on the world Minelvaton, in the area known as Southern Ofelia. In the kingdom of Palmeccia both the King and Queen have been murdered by the hands of a servant of Ragon, son of the Zuhl. The player takes control of the Prince of Palmeccia in a quest for revenge and to kill the evil Ragon.",
+  "as_genres": [
+    "role play"
+  ],
+  "ai_sagas": [
+    48160
+  ]
+}

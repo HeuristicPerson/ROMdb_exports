@@ -1,0 +1,29 @@
+{
+  "s_type": "version",
+  "i_nid": 12410,
+  "s_dat_name": "gba-crt_no-intro",
+  "s_dat_version": "Nintendo - Game Boy Advance | https://www.no-intro.org | 20221230-185734",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Shin chan contra los Munecos de Shock Gahn (Spain)",
+  "s_romset_alias": "",
+  "i_romset_size": 16777216,
+  "s_romset_crc32": "fd47a2fe",
+  "s_romset_platform": "gba-crt",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "40",
+  "s_mdata_media_type": "cartridge",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "",
+  "as_mdata_views": [],
+  "s_mdata_overscan": "0, 0, 0, 0",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[esp] Shin chan contra los munecos de Shock Gahn / Shin chan contra los mu\u00f1ecos de Shock Gahn"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": []
+}

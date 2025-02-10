@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 47030,
+  "s_title": "RayCrisis",
+  "s_synopsis": "&quot;RayCrisis&quot; is the third part of a series of &quot;Ray&quot; shooting games. In the story it is considered a prequel to the first game&#039;s plot, RayForce. The players ship is a Waverider computer virus, which must get inside the Con-Human supercomputer&#039;s system. All enemies you encounter are antibodies, programmed to terminate any virus.",
+  "as_genres": [
+    "shooter"
+  ],
+  "ai_sagas": [
+    47031
+  ]
+}

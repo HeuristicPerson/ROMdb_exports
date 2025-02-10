@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 41220,
+  "s_title": "Hard Drivin'",
+  "s_synopsis": "You are in control of a high-performance sports car. Your objective is to race around the course as fast as possible and hit as many checkpoints as possible. If you hit a checkpoint you gain extra time to go farther. You will see traffic on the road both in your direction and coming down the opposite direction, so be careful when you pass... ",
+  "as_genres": [
+    "racing"
+  ],
+  "ai_sagas": [
+    48856
+  ]
+}

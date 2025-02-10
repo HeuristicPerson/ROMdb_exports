@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 45267,
+  "s_title": "SVC Chaos - SNK vs. Capcom",
+  "s_synopsis": "This is the latest installment of the Capcom/SNK crossover series; this time around not developed by Capcom, but by SNK - hence the change in title from &quot;Capcom vs SNK&quot; to &quot;SNK vs Capcom&quot;. It&#039;s again an oldschool-style 2D beat&#039;em&#039;up with a wide selection of characters from SNK&#039;s and Capcom&#039;s classic Beat&#039;em&#039;Up series.",
+  "as_genres": [
+    "vs. fighting"
+  ],
+  "ai_sagas": [
+    45266
+  ]
+}

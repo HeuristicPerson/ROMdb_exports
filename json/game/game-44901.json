@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 44901,
+  "s_title": "Gunbird 2",
+  "s_synopsis": "Take flight as one of seven crazy characters as you battle the Queen Pirates in search of the world&#039;s biggest treasure hoard!",
+  "as_genres": [
+    "shooter"
+  ],
+  "ai_sagas": [
+    44900
+  ]
+}

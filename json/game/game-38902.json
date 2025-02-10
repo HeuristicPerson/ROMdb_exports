@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 38902,
+  "s_title": "Xenon",
+  "s_synopsis": "In this game the player assumes the role of a space pilot named Darrian. One day, he receives a report from a nebula space station, from which he learns that nearby human colonies have been attacked by mysterious aliens known as Xenites. Darrian wastes no time, and sets off to protect the humans and stop the aliens.",
+  "as_genres": [
+    "shooter"
+  ],
+  "ai_sagas": [
+    38901
+  ]
+}

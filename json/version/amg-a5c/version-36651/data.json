@@ -1,0 +1,39 @@
+{
+  "s_type": "version",
+  "i_nid": 36651,
+  "s_dat_name": "amg-a5c_no-intro",
+  "s_dat_version": "Commodore - Amiga | https://www.no-intro.org | 20240604-172503",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Elvira - Mistress of the Dark (Europe)",
+  "s_romset_alias": "Elvira - Mistress of the Dark (Europe)",
+  "i_romset_size": 5245900,
+  "s_romset_crc32": "dac303f4",
+  "s_romset_platform": "amg-a5c",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [
+    "eng"
+  ],
+  "as_mdata_lang_voice": [
+    "eng"
+  ],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "50",
+  "s_mdata_media_type": "3.5\" disk",
+  "i_mdata_media_number": 5,
+  "s_mdata_date": "1990-??-??",
+  "as_mdata_views": [
+    "1st person"
+  ],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [
+    "1"
+  ],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[eur] Elvira - Mistress of the Dark"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    44992
+  ]
+}

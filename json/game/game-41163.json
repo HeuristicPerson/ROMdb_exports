@@ -1,0 +1,10 @@
+{
+  "s_type": "game",
+  "i_nid": 41163,
+  "s_title": "Accele Brid",
+  "s_synopsis": "This is a very basic, linear &quot;shoot&#039;em&#039;up&quot; game in which the robot of your choice, rigged with a variety of different weapons goes through a pipe and blasts at everything that comes in the way. The robot can fire weapons from both arms as well as jump, kick and punch. Power-ups and bonuses can be picked up along the way to upgrade weapons or armour.",
+  "as_genres": [
+    "shooter"
+  ],
+  "ai_sagas": []
+}

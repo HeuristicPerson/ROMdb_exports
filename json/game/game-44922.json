@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 44922,
+  "s_title": "Parodius",
+  "s_synopsis": "This is mostly the parody of Nemesis, with some flavor from other shoot-em-ups, like Twinbee.",
+  "as_genres": [
+    "shooter"
+  ],
+  "ai_sagas": [
+    44924
+  ]
+}

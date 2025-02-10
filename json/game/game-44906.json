@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 44906,
+  "s_title": "Mega Man - The Power Battle",
+  "s_synopsis": "The player chooses between three playable characters: Mega Man, Proto Man and Bass. The game consists of a series of duels with bosses from Megaman games - like Cut Man or Wood Man. After each battle the player gains a new weapon. ",
+  "as_genres": [
+    "vs. fighting"
+  ],
+  "ai_sagas": [
+    39340
+  ]
+}

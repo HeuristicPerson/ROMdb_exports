@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 47020,
+  "s_title": "Lomax",
+  "s_synopsis": "Cute, green-haired yet halfwitted creatures Lemmings this time appear in a platform game. As the only survivor Lemming that managed to rescue himself from the evil spell of Evil Ed, you (Lomax) must stop Evil Ed&#039;s distracting effect over the LemmingLand.",
+  "as_genres": [
+    "platforms"
+  ],
+  "ai_sagas": [
+    47021
+  ]
+}

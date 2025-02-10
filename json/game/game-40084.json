@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 40084,
+  "s_title": "Eye of the Beholder",
+  "s_synopsis": "Something evil is lurking below the city of Waterdeep. The Lords of Waterdeep summon a group of heroes to investigate, but someone or something has been watching the proceedings. After the heroes enter the sewers, the ceiling collapses behind them. The only way out is the way down, into a dungeon filled with monsters, traps and puzzles.",
+  "as_genres": [
+    "role play"
+  ],
+  "ai_sagas": [
+    40083
+  ]
+}

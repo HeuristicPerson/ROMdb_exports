@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 45124,
+  "s_title": "Choplifter!",
+  "s_synopsis": "&quot;Choplifter!&quot; is a side-scrolling action game that puts you in command of an attack chopper. Your mission: Go behind enemy lines and rescue up to 16 hostages per level. Be careful, though, because tanks and enemy aircraft will try to stop you - and they won&#039;t stop shooting while you are rescuing those hostages!",
+  "as_genres": [
+    "action"
+  ],
+  "ai_sagas": [
+    45125
+  ]
+}

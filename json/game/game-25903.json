@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 25903,
+  "s_title": "Gradius II",
+  "s_synopsis": "In the year 6664 Dr. Venom, the director of the Space Science Agency, was exiled to the planet Sard for his involvement in a failed rebellion and illegal scientific activities. One year later, he joined forces with the Bacterion invaders, escaped Sard, and took control of the space surrounding the planet Gradius. In 6666, the local government sends Colonel James Burton on the newest hyperspace fighter known as Metalion. The goal is clear: stop Dr. Venom and the Bacterion army before they conquer the planet.",
+  "as_genres": [
+    "shooter"
+  ],
+  "ai_sagas": [
+    25904
+  ]
+}

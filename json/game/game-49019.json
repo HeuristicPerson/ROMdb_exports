@@ -1,0 +1,13 @@
+{
+  "s_type": "game",
+  "i_nid": 49019,
+  "s_title": "Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame",
+  "s_synopsis": "Third title in the Ganbare Goemon series of platform/adventure games which cast you as the heroic Goemon as he attempts to save feudal Japan from all sorts of wacky evildoers. This time around, a time-travelling machine threatens all of Japan and thus Goemon and co. must jump into the future to stop the machine.",
+  "as_genres": [
+    "adventure",
+    "platforms"
+  ],
+  "ai_sagas": [
+    49020
+  ]
+}

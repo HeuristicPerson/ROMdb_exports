@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 45001,
+  "s_title": "World Rally 2",
+  "s_synopsis": "",
+  "as_genres": [
+    "racing"
+  ],
+  "ai_sagas": [
+    45002
+  ]
+}

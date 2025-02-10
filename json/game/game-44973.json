@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 44973,
+  "s_title": "Ultima - Runes of Virtue",
+  "s_synopsis": "Taking place in the Ultima universe, your task is to gather the eight virtue rune stones from the eight dungeons which oppose the virtues. The Black Knight has stolen the virtues from the castle of Lord British, and it is your job to recover them.",
+  "as_genres": [
+    "role play"
+  ],
+  "ai_sagas": [
+    44970
+  ]
+}

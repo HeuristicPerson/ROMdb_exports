@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 40096,
+  "s_title": "Galaga",
+  "s_synopsis": "Galaga is a vertical arcade shooter from Namco. You control a space fighter at the bottom of the screen, scrolling left and right in order to avoid oncoming bombs and kamikaze attacks from alien invaders and to fire your own missiles to fight back!",
+  "as_genres": [
+    "shooter"
+  ],
+  "ai_sagas": [
+    40102
+  ]
+}

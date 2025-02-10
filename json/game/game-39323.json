@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 39323,
+  "s_title": "Gauntlet",
+  "s_synopsis": "Gauntlet is an action game where players choose characters and fight their way through hordes of enemies that assault them on the way to the end of the level. One or two players must make their way through 100 levels of mayhem and magic. ",
+  "as_genres": [
+    "action"
+  ],
+  "ai_sagas": [
+    39322
+  ]
+}

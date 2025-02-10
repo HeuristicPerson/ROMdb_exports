@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 45099,
+  "s_title": "Super Contra",
+  "s_synopsis": "The alien Red Falcon is back, and planning on taking over the planet Earth. Now it&#039;s up to Scorpion and Mad Dog to battle through five levels and save the planet.",
+  "as_genres": [
+    "action"
+  ],
+  "ai_sagas": [
+    45098
+  ]
+}

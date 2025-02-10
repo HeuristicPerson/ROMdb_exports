@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 41151,
+  "s_title": "Langrisser",
+  "s_synopsis": "Set in a typical medieval fantasy setting and features traditional turn-based combat, the player controls several generals who can command up to eight different units ranging from ordinary soldiers and archers to more exotic creatures like mermen or lizards.The generals fight alongside their units, however they are much more powerful and are able to use more diverse commands than just moving and attacking, like recovering a small amount of HP or casting spells. Each unit has certain strengths and weaknesses; for example soldiers are good against archers but weak against cavalry etc.",
+  "as_genres": [
+    "strategy"
+  ],
+  "ai_sagas": [
+    45081
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 40085,
+  "s_title": "Eye of the Beholder II - The Legend of Darkmoon",
+  "s_synopsis": "The Archmage Khelben summons the Heroes of Waterdeep, slayers of the Beholder Xanathar, for another mission. Strange things are happening in the forests near Waterdeep, centered around the Temple Darkmoon. People have been disappearing and shallow graves containing human remains have been found. Khelben teleports the party to the forests near Darkmoon so they may find out what kind of evil is working in the towers of the temple.",
+  "as_genres": [
+    "role play"
+  ],
+  "ai_sagas": [
+    40083
+  ]
+}

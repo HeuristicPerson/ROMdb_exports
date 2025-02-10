@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 45671,
+  "s_title": "R4 - Ridge Racer Type 4",
+  "s_synopsis": "R4: Ridge Racer Type 4 is an arcade-style racing game with a strong emphasis on powersliding around corners. Vehicles use one of two styles of powersliding depending on the make of car they select: Drift and Grip. Drift cars require players to tap the brake once while turning to break into a smooth powerslide while Grip cars requires players to alternate between brakes and gas while turning to powerslide.[",
+  "as_genres": [
+    "racing"
+  ],
+  "ai_sagas": [
+    45672
+  ]
+}

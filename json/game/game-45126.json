@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 45126,
+  "s_title": "Choplifter II - Rescue Survive ",
+  "s_synopsis": "In this sequel to Choplifter!, it is once again your job to fly your helicopter through several shoot&#039;em-up levels and rescue a certain number of hostages. The levels scroll in all directions and hostages are spread out over the whole area. Your helicopter takes damage from enemies such as planes, birds or ordnance; but also from contact with buildings and hills. To finish a level, you have to rescue a given number of hostages; saving more hostages than required gains you extra points.",
+  "as_genres": [
+    "action"
+  ],
+  "ai_sagas": [
+    45125
+  ]
+}

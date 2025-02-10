@@ -1,0 +1,31 @@
+{
+  "s_type": "version",
+  "i_nid": 16760,
+  "s_dat_name": "mdr-mcd_redump",
+  "s_dat_version": "Sega - Mega CD &amp; Sega CD | http://redump.org/ | 2024-05-31 03-30-15",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Ninja Warriors, The (Japan)",
+  "s_romset_alias": "Ninja Warriors, The (Japan)",
+  "i_romset_size": 536077248,
+  "s_romset_crc32": "3a8e8f65",
+  "s_romset_platform": "mdr-mcd",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 0,
+  "f_mdata_rating_value": 0,
+  "s_mdata_media_type": "CD",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "",
+  "as_mdata_views": [
+    "side"
+  ],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    35763
+  ]
+}

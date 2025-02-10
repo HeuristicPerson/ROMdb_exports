@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 47670,
+  "s_title": "Super Space Invaders 91",
+  "s_synopsis": "Remember that arcade classic Invaders? Well this game takes it to the next level with harder aliens, bosses, power ups, and a variety of scenery! Invaders come in several configurations for you to try to blast, and power-ups help you with more weapons to choose from.",
+  "as_genres": [
+    "shooter"
+  ],
+  "ai_sagas": [
+    47669
+  ]
+}

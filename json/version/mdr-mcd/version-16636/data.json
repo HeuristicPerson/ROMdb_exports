@@ -1,0 +1,35 @@
+{
+  "s_type": "version",
+  "i_nid": 16636,
+  "s_dat_name": "mdr-mcd_redump",
+  "s_dat_version": "Sega - Mega CD &amp; Sega CD | http://redump.org/ | 2024-05-31 03-30-15",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Silpheed (USA)",
+  "s_romset_alias": "Silpheed (USA)",
+  "i_romset_size": 562953552,
+  "s_romset_crc32": "fa7a2c20",
+  "s_romset_platform": "mdr-mcd",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "75",
+  "s_mdata_media_type": "CD",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "1993-??-??",
+  "as_mdata_views": [
+    "back"
+  ],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [
+    "1"
+  ],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[usa] Silpheed"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    47965
+  ]
+}

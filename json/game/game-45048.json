@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 45048,
+  "s_title": "Paperboy",
+  "s_synopsis": "The object of Paperboy is to deliver papers to your customers while inflicting as much damage as possible to the houses of your non-customers. To make things more difficult, numerous obstacles get in your way including construction workers, rogue tires, skateboarders, dogs and cats, cars, and even the occasional tornado.",
+  "as_genres": [
+    "action"
+  ],
+  "ai_sagas": [
+    45049
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "s_type": "version",
+  "i_nid": 44403,
+  "s_dat_name": "c64-dsk_no-intro",
+  "s_dat_version": "Commodore - 64 (PP) | http://www.no-intro.org | 20131204-081826",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Savage (Europe)",
+  "s_romset_alias": "",
+  "i_romset_size": 672256,
+  "s_romset_crc32": "91231cde",
+  "s_romset_platform": "c64-dsk",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [
+    "eng"
+  ],
+  "as_mdata_lang_voice": [
+    "non"
+  ],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "25",
+  "s_mdata_media_type": "5.25\" disk",
+  "i_mdata_media_number": 2,
+  "s_mdata_date": "",
+  "as_mdata_views": [
+    "side"
+  ],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    44858
+  ]
+}

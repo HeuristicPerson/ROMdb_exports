@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 45103,
+  "s_title": "Shadowgate 64 - Trials of the Four Towers",
+  "s_synopsis": "The game takes place centuries after the first Shadowgate where Lord Jair defeated Warlock, and claimed his position to the throne. However, as the time passed the kingdom started rotting into a gathering for thieves, bandits and other evil beings. The player takes the role of the mostly unseen Del Cottonwood, a halfling who traveled in a caravan but was imprisoned by the bandits when crossing Shadowgate while his traveling partners were murdered. While in prison, Del finds a way to break free and embark on a quest that takes him through the Four Towers. Each one contains a different task Del must complete to proceed. ",
+  "as_genres": [
+    "adventure"
+  ],
+  "ai_sagas": [
+    45102
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 45109,
+  "s_title": "Columns",
+  "s_synopsis": "&quot;Columns&quot; is loosely derived from &quot;Tetris&quot;, as it involves arranging falling blocks in such a way as to clear them. However, in &quot;Columns&quot; they are groups of 3 same-size but varying color blocks, which must be arranged into sequences of 3 or more, either horizontally, vertically or diagonally. Sequences of 4 or 5 count for double or triple points, and diagonal sequences score the most. The real trick is to set up &quot;combos&quot; - where one line causes other blocks to drop so as to create other lines.",
+  "as_genres": [
+    "puzzle"
+  ],
+  "ai_sagas": [
+    41172
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "s_type": "version",
+  "i_nid": 14489,
+  "s_dat_name": "gbc_no-intro",
+  "s_dat_version": "Nintendo - Game Boy Color | https://www.no-intro.org | 20240714-114945",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Zelda no Densetsu - Fushigi no Kinomi - Jikuu no Shou (Japan)",
+  "s_romset_alias": "Zelda no Densetsu - Fushigi no Kinomi - Jikuu no Shou (Japan)",
+  "i_romset_size": 1048576,
+  "s_romset_crc32": "3272e6f9",
+  "s_romset_platform": "gbc",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 0,
+  "f_mdata_rating_value": 0,
+  "s_mdata_media_type": "cartridge",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "2001-??-??",
+  "as_mdata_views": [
+    "top"
+  ],
+  "s_mdata_overscan": "0, 0, 0, 0",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [],
+  "s_mdata_differences": "",
+  "ai_parent_games": []
+}

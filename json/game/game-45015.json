@@ -1,0 +1,13 @@
+{
+  "s_type": "game",
+  "i_nid": 45015,
+  "s_title": "Advanced Dungeons & Dragons - Death Knights of Krynn",
+  "s_synopsis": "This time the party faces an undead threat that turns former friends into fierce enemies and infests Krynn with hordes of decaying monsters. The party must find the origin of these nightmarish undead creatures and eliminate it in order to save Krynn from turning into a land of undead. ",
+  "as_genres": [
+    "role play"
+  ],
+  "ai_sagas": [
+    45014,
+    102495
+  ]
+}

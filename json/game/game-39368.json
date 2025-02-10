@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 39368,
+  "s_title": "E-SWAT - Cyber Police",
+  "s_synopsis": "Crime is getting out of control in Liberty City, and to combat the problem, the LCPD establishes a new unit, called ESWAT (Enhanced Special Weapons and Tactics). Police officers who are promoted to this unit wear a cyber-suit that contains state-of-the-art military equipment including two Turbo-Booster Thrusters, extra ammunition, and increased protection. In order to become an ESWAT member, all a dedicated police officer has to do is arrest enough criminal masterminds to progress through the ranks, which include Captain, Assistant Chief, and Chief.",
+  "as_genres": [
+    "action"
+  ],
+  "ai_sagas": [
+    39367
+  ]
+}

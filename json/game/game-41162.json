@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 41162,
+  "s_title": "Super Aleste",
+  "s_synopsis": "Taking the role of a lone starfighter pilot, you are tasked with destroying an evil alien armada in standard 2D shooter fashion. And while you may be alone, you certainly won&#039;t be underpowered, with eight different types of weapons, each having six power-up levels for a grand total of 48 firing modes (not counting bomb power-ups) Super Aleste boasts one of the largest arsenals in 2D shooter history.",
+  "as_genres": [
+    "shooter"
+  ],
+  "ai_sagas": [
+    41145
+  ]
+}

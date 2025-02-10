@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 49016,
+  "s_title": "Teenage Mutant Ninja Turtles - The Hyperstone Heist",
+  "s_synopsis": "The Turtles&#039; nemesis Shredder has acquired the Hyperstone from Dimension X, and is using its powers to shrink down the city buildings. He threatens to take over the world and challenges the Turtles to deny him, and so the turtles head out to beat the guy once more.",
+  "as_genres": [
+    "brawler"
+  ],
+  "ai_sagas": [
+    49014
+  ]
+}
