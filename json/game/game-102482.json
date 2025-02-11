@@ -1,0 +1,10 @@
+{
+  "s_type": "game",
+  "i_nid": 102482,
+  "s_title": "Gotris",
+  "s_synopsis": "Gotris is the impossible mix of the ancient game of GO and the mighty Tetris. Surround pieces from one colour with the ones of the other colour in order to clear them and earn points!",
+  "as_genres": [
+    "puzzle"
+  ],
+  "ai_sagas": []
+}

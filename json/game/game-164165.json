@@ -1,0 +1,13 @@
+{
+  "s_type": "game",
+  "i_nid": 164165,
+  "s_title": "Half-Life - Blue Shift",
+  "s_synopsis": "We return to the Black Mesa complex, this time as Barney Calhoun, a security officer working Blue Shift who is present at the facility at the same time as Gordon Freeman. His goal is to try to get out of Black Mesa alive in a storyline that occurs concurrently with that of the base game.",
+  "as_genres": [
+    "action",
+    "shooter"
+  ],
+  "ai_sagas": [
+    164164
+  ]
+}

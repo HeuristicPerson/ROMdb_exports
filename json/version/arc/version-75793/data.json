@@ -1,0 +1,31 @@
+{
+  "s_type": "version",
+  "i_nid": 75793,
+  "s_dat_name": "arc_mame",
+  "s_dat_version": "MAME | Simplified with Dat Simplifier - v1.0.2021-11-30 | &quot;0.271 (unknown)&quot;",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Mercs (World 900302)",
+  "s_romset_alias": "mercs",
+  "i_romset_size": 4524216,
+  "s_romset_crc32": "3092ab21",
+  "s_romset_platform": "arc",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 0,
+  "f_mdata_rating_value": 0,
+  "s_mdata_media_type": "",
+  "i_mdata_media_number": 0,
+  "s_mdata_date": "1990-03-02",
+  "as_mdata_views": [],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[wld] Mercs"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    41249
+  ]
+}

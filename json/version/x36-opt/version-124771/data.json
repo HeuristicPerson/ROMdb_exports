@@ -1,0 +1,34 @@
+{
+  "s_type": "version",
+  "i_nid": 124771,
+  "s_dat_name": "x36-opt_redump",
+  "s_dat_version": "Microsoft - Xbox 360 | &quot;2024-09-13 11-11-09&quot;",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Monkey Island - Special Edition Collection (Europe)",
+  "s_romset_alias": "Monkey Island - Special Edition Collection (Europe)",
+  "i_romset_size": 7838695424,
+  "s_romset_crc32": "5bdb5d89",
+  "s_romset_platform": "x36-opt",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 0,
+  "f_mdata_rating_value": 0,
+  "s_mdata_media_type": "DVD",
+  "i_mdata_media_number": 0,
+  "s_mdata_date": "",
+  "as_mdata_views": [
+    "side"
+  ],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [
+    "1"
+  ],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    140,
+    41250
+  ]
+}

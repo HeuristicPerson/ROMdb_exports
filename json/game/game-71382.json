@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 71382,
+  "s_title": "Need for Speed - V-Rally",
+  "s_synopsis": "Test your driving skills in this rally game. You can compete in three different game modes: Arcade, Championship and Time Trial. In the Championship mode you race against three other cars in various countries. Gain points in order to win the Championship. In the Arcade mode you still race against three other cars, but also against the clock. Finish each race before the time runs out, and come in first to win the Arcade mode. You can choose between Easy (4 races), Medium (6 races) and Difficult (8 races). If you just want to race by yourself you can try the Time Trial mode.",
+  "as_genres": [
+    "racing"
+  ],
+  "ai_sagas": [
+    71379
+  ]
+}

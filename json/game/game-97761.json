@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 97761,
+  "s_title": "Space Invaders",
+  "s_synopsis": "Attention all Earthlings! Relentless alien hordes have been identified near you. Prevent the dangerous Space Invaders from landing on your territory. Use your cannon to defend against waves of descending alien invaders. Don&#039;t let them hit the ground or it&#039;s all over for you and the Earth! Destroy them and score points!",
+  "as_genres": [
+    "shooter"
+  ],
+  "ai_sagas": [
+    47669
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "s_type": "game",
+  "i_nid": 71418,
+  "s_title": "Star Control",
+  "s_synopsis": "&quot;Star Control&quot; is a science-fiction wargame which pits the forces of the Alliance of Free Stars against those of the predatory Ur-Quan Hierarchy. The games are designed so that you can ease into play, familiarizing yourself with menus, options and player controls. The Alliance and Hierarchy each possess different types of warships. Each vessel has its own maneuvering and firing characteristics, plus a unique special power that you can employ when circumstances dictate.",
+  "as_genres": [
+    "action",
+    "strategy"
+  ],
+  "ai_sagas": [
+    71417
+  ]
+}

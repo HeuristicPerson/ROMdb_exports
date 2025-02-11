@@ -1,0 +1,13 @@
+{
+  "s_type": "game",
+  "i_nid": 85782,
+  "s_title": "Taz-Mania (racer)",
+  "s_synopsis": "",
+  "as_genres": [
+    "action",
+    "racing"
+  ],
+  "ai_sagas": [
+    85780
+  ]
+}

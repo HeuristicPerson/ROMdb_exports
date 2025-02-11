@@ -1,0 +1,13 @@
+{
+  "s_type": "game",
+  "i_nid": 71340,
+  "s_title": "Wing Commander II - Vengeance of the Kilrathi",
+  "s_synopsis": "Your carrier, the Tiger&#039;s Claw, is destroyed by Kilrathi stealth fighters. You are blamed for the loss of the ship. After being demoted you are transferred to a space station far off the front lines where you are supposed to spend the rest of your career. However, ten years later, you are able to save the Confederation flagship, the Concordia, from a Kilrathi attack. On the ship, you meet many old friends. Back in the cockpit, it&#039;s up to you to stop the Kilrathi and prove your innocence in the destruction of the Tiger&#039;s Claw.",
+  "as_genres": [
+    "action",
+    "simulation"
+  ],
+  "ai_sagas": [
+    71334
+  ]
+}

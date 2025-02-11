@@ -1,0 +1,39 @@
+{
+  "s_type": "version",
+  "i_nid": 76879,
+  "s_dat_name": "cpc-dsk_clean-cpc-db",
+  "s_dat_version": "Amstrad - CPC - clean-cpc-db | &quot;v1.1 - 2022.6.22&quot;",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Abadia del Crimen, La (Opera Soft) (Spain)",
+  "s_romset_alias": "",
+  "i_romset_size": 162025,
+  "s_romset_crc32": "aa05ed4a",
+  "s_romset_platform": "cpc-dsk",
+  "s_mdata_serial": "",
+  "as_mdata_lang_text": [
+    "spa"
+  ],
+  "as_mdata_lang_voice": [
+    "non"
+  ],
+  "i_mdata_rating_votes": 3,
+  "f_mdata_rating_value": "83.3333",
+  "s_mdata_media_type": "3\" disk",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "1988-??-??",
+  "as_mdata_views": [
+    "isometric"
+  ],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [
+    "1"
+  ],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[esp] La Abadia del Crimen | La Abad\u00eda del Crimen"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    52631
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 85578,
+  "s_title": "Bushido Blade",
+  "s_synopsis": "The Bushido code of honor governs the actions of the Samurai and sets a code of ethics for use in fighting. Sometime in the 20th century, a group of Narukagami ninja, each proficient in a different style, find themselves in a battle to regain their honor in the fighting ring.",
+  "as_genres": [
+    "vs. fighting"
+  ],
+  "ai_sagas": [
+    85579
+  ]
+}

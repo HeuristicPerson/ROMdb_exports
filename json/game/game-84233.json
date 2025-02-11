@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 84233,
+  "s_title": "Power Spikes",
+  "s_synopsis": "Power Spikes is a classic volleyball game where two teams compete to score the most points within three minutes. Each team consists of four. The game can be played with one player against the CPU or competitively between two players. There are nine worldwide volleyball teams to choose from. The joystick controls the teammates movement and button A does all the actions including jumping, hitting the ball and tossing it.",
+  "as_genres": [
+    "sports"
+  ],
+  "ai_sagas": [
+    84234
+  ]
+}

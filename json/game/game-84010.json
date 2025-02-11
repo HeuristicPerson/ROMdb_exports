@@ -1,0 +1,13 @@
+{
+  "s_type": "game",
+  "i_nid": 84010,
+  "s_title": "Archon II - Adept",
+  "s_synopsis": "The age of Archon&#039;s ending. Mighty wars of magic rage and monsters roam the elements, hungry for power and prey. This is a unique blend of strategy and arcade action, incorporating 4 different battlegrounds for Earth, Water, Fire and Air. Conjure up to 12 different monsters, and play against a friend or a computer player that gets tougher as you do.",
+  "as_genres": [
+    "action",
+    "strategy"
+  ],
+  "ai_sagas": [
+    84009
+  ]
+}

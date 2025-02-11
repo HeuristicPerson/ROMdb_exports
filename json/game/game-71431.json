@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 71431,
+  "s_title": "Frontier - First Encounters",
+  "s_synopsis": "&quot;Frontier - First Encounters&quot; is the third part of &quot;Elite&quot; series. You are a space pirate and you fly around through the universe in your space craft to fulfill different missions. You can also earn money by trading cargo with other races.",
+  "as_genres": [
+    "simulation"
+  ],
+  "ai_sagas": [
+    71430
+  ]
+}

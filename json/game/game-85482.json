@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 85482,
+  "s_title": "Where in the World is Carmen Sandiego?",
+  "s_synopsis": "Carmen Sandiego is a master thief who leads the criminal organization V.I.L.E. This organization specializes in stealing the world&#039;s treasures without a trace. Alarmed by this, the A.C.M.E. Detective Agency makes it their personal mission to foil Carmen Sandiego&#039;s plans.",
+  "as_genres": [
+    "graphic adventure"
+  ],
+  "ai_sagas": [
+    85481
+  ]
+}

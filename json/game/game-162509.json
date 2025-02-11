@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 162509,
+  "s_title": "Descent",
+  "s_synopsis": "The Post-Terran Minerals Corporation (PTMC) digs up minerals on all nine planets of the solar system, employing humans and robots to do its job. Unfortunately, the mining robots are now being controlled by a hacker, and have taken the human workers hostage. The PTMC has tried to get the robots back under their control, but communication with the mining stations has been lost. In desperation, the PTMC modifies a Pyro-GX ship for combat and hires a mercenary, codenamed &quot;Material Defender&quot;, to fly it. The mission is to destroy the infected mines and rescue human hostages, destroying any hostile robot that gets in the way.",
+  "as_genres": [
+    "action"
+  ],
+  "ai_sagas": [
+    162510
+  ]
+}

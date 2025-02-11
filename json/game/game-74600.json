@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 74600,
+  "s_title": "Warlords",
+  "s_synopsis": "Warlords is a huge, eight player strategy game of empires, castles, armies, heroes, monsters and dragons.\r\nIn the fabled land of Illuria, an unconvincing peace treaty has just expired. Now, eight mighty empires contend in a ruthless struggle for supreme power. Only one will prevail... ",
+  "as_genres": [
+    "strategy"
+  ],
+  "ai_sagas": [
+    74599
+  ]
+}

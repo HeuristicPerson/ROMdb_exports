@@ -1,0 +1,36 @@
+{
+  "s_type": "version",
+  "i_nid": 108859,
+  "s_dat_name": "ps2_redump",
+  "s_dat_version": "Sony - PlayStation 2 | &quot;2024-09-14 17-33-05&quot;",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Need for Speed - Underground (USA)",
+  "s_romset_alias": "Need for Speed - Underground (USA)",
+  "i_romset_size": 2726166528,
+  "s_romset_crc32": "8d1f7a13",
+  "s_romset_platform": "ps2",
+  "s_mdata_serial": "SLUS-20811",
+  "as_mdata_lang_text": [
+    "eng"
+  ],
+  "as_mdata_lang_voice": [],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "50",
+  "s_mdata_media_type": "DVD",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "2003-??-??",
+  "as_mdata_views": [
+    "1st person",
+    "back"
+  ],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[usa] Need for Speed - Underground"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    164178
+  ]
+}

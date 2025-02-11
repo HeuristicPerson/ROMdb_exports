@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 71372,
+  "s_title": "Star Wars - X-Wing",
+  "s_synopsis": "X-Wing is a space combat simulation, the first in the Star Wars universe. From the cockpits of X-Wing, Y-Wing and A-Wing starfighters, players fight for the Rebel Alliance in their struggle against the evil Galactic Empire.",
+  "as_genres": [
+    "simulation"
+  ],
+  "ai_sagas": [
+    71371
+  ]
+}

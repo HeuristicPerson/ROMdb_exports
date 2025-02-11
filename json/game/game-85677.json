@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 85677,
+  "s_title": "Dan Dare - Pilot of the Future (platformer)",
+  "s_synopsis": "The Mekon has launched a hollowed-out asteroid and targeted it at Earth: if his demands are not met, the planet will be destroyed. Dan Dare and his friend Digby fly towards the asteroid, looking to destroy it. While searching for an entrance, Digby is captured by the Treens. Now it falls to Dan alone to save the day, armed with only his laser gun.",
+  "as_genres": [
+    "platforms"
+  ],
+  "ai_sagas": [
+    85676
+  ]
+}

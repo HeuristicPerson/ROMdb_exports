@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 71537,
+  "s_title": "4D Sports Boxing",
+  "s_synopsis": "&quot;4D Sports Boxing&quot; leaves behind any pretences of being a pure arcade game based on boxing, and aims to recreate the sport in full detail. The graphics engine allows for multiple camera angles and viewpoints, and considerably detailed visuals. These required more advanced hardware than was common at the time, but a stick-figure mode was included as a compromise. The moves on offer include all the uppercuts and hooks of a real fight, and the players are designed to move realistically to implement them. ",
+  "as_genres": [
+    "vs. fighting"
+  ],
+  "ai_sagas": [
+    71519
+  ]
+}

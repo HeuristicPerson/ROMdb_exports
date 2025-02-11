@@ -1,0 +1,13 @@
+{
+  "s_type": "game",
+  "i_nid": 85819,
+  "s_title": "G-Police",
+  "s_synopsis": "Prowl the skylines in your weapons-loaded DASA-Kamov gunship as a member of the G-Police. Battle menacing rebel ships in the air and heavily armed vehicles on the ground. You&#039;ll wreak helicopter havoc as you take on the hardcore criminal element terrorizing the gritty cities of 21st century Callisto.",
+  "as_genres": [
+    "action",
+    "simulation"
+  ],
+  "ai_sagas": [
+    85820
+  ]
+}

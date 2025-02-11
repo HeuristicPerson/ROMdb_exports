@@ -1,0 +1,12 @@
+{
+  "s_type": "game",
+  "i_nid": 71370,
+  "s_title": "Epic",
+  "s_synopsis": "The sun is about to go supernova and humanity must find a new home. All the population is packed into a huge fleet of ships and they set off for a suitable planet. Unfortunately the route goes straight through the territory of a hostile alien race, the Rexxons.",
+  "as_genres": [
+    "shooter"
+  ],
+  "ai_sagas": [
+    71369
+  ]
+}

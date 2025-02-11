@@ -1,0 +1,13 @@
+{
+  "s_type": "game",
+  "i_nid": 71335,
+  "s_title": "Wing Commander",
+  "s_synopsis": "The Confederation have been at war with the Kilrathi for the past 20 years, and you&#039;re just now joining the Vega campaign. You&#039;re a 2nd Lieutenant just out of the Academy, with some good work under your belt. You&#039;re posted to Tiger&#039;s Claw, the flagship of the Confederation Fleet. Will you help the Confederation to victory, or go down in infamy?",
+  "as_genres": [
+    "action",
+    "simulation"
+  ],
+  "ai_sagas": [
+    71334
+  ]
+}

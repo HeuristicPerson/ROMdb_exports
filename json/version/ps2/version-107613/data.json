@@ -1,0 +1,39 @@
+{
+  "s_type": "version",
+  "i_nid": 107613,
+  "s_dat_name": "ps2_redump",
+  "s_dat_version": "Sony - PlayStation 2 | &quot;2024-09-14 17-33-05&quot;",
+  "s_dat_outdated": "Up-to-date",
+  "s_romset_title": "Legacy of Kain - Soul Reaver 2 (USA) (v2.00)",
+  "s_romset_alias": "Legacy of Kain - Soul Reaver 2 (USA) (v2.00)",
+  "i_romset_size": 4657250304,
+  "s_romset_crc32": "72585676",
+  "s_romset_platform": "ps2",
+  "s_mdata_serial": "SLUS-20165",
+  "as_mdata_lang_text": [
+    "eng"
+  ],
+  "as_mdata_lang_voice": [
+    "eng"
+  ],
+  "i_mdata_rating_votes": 1,
+  "f_mdata_rating_value": "75",
+  "s_mdata_media_type": "DVD",
+  "i_mdata_media_number": 1,
+  "s_mdata_date": "2001-??-??",
+  "as_mdata_views": [
+    "3rd person"
+  ],
+  "s_mdata_overscan": "",
+  "ai_mdata_players": [
+    "1"
+  ],
+  "as_mdata_multiplayer": [],
+  "as_mdata_screen_titles": [
+    "[usa] The Legacy of Kain Series - Soul Reaver 2"
+  ],
+  "s_mdata_differences": "",
+  "ai_parent_games": [
+    102481
+  ]
+}
