@@ -1,5 +1,6 @@
 {
   "s_type": "game",
+  "s_status": "open",
   "i_nid": 71344,
   "s_title": "Indianapolis 500 - The Simulation",
   "s_synopsis": "The famous Indianapolis 500 Mile race, held annually at the Indianapolis Motor Speedway on the Memorial Day weekend, is one of the most famous automobile racing events in North America. The event is simulated here using 3D polygon graphics to recreate the 33 cars in the race. Players are able to choose their car and customize it with a variety of options. Modifications include wing down-force, tire pressures, wheel stagger (making the right-side wheels larger, to compensate for the banked corners) and turbo output (which provides boost, but stresses the engine and uses more fuel).",

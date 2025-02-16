@@ -1,5 +1,6 @@
 {
   "s_type": "game",
+  "s_status": "open",
   "i_nid": 40133,
   "s_title": "Klax",
   "s_synopsis": "An action/puzzle game, the object is to catch assorted color falling tiles and create rows, columns, or diagonals of a single color. Each level requires a different pattern to be made, and the tiles fall faster, more at a time, and in an increasing number of colors as the game progresses.",

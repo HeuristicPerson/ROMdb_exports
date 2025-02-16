@@ -1,5 +1,6 @@
 {
   "s_type": "game",
+  "s_status": "open",
   "i_nid": 39243,
   "s_title": "Arkanoid",
   "s_synopsis": "The original Breakout concept involves controlling a bat at the bottom of the screen and using it to catch and direct a ball so as to hit all the bricks which are arranged at the top of the screen. It was unpopular for over a decade, before Taito revived it with some new ideas in this arcade game.",

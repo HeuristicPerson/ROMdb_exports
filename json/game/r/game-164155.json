@@ -1,5 +1,6 @@
 {
   "s_type": "game",
+  "s_status": "open",
   "i_nid": 164155,
   "s_title": "Air Combat (A)",
   "s_synopsis": "As the pilot of a F-16 Falcon the objective is to destroy enemy planes using guns or missiles over a succession of sorties and missions. A timer counts down during play and once it reaches zero the pilot is ejected signalling a game over. The timer can be extended by shooting down enemy planes. In between missions the player has to land his jetfighter on an aircraft carrier.",

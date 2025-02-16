@@ -1,5 +1,6 @@
 {
   "s_type": "game",
+  "s_status": "open",
   "i_nid": 44886,
   "s_title": "Action Fighter",
   "s_synopsis": "Top down vertically scrolling shooter, in which you start off as a motorbike. You are quite vulnerable to attack at first, but power ups come in the form of a Sega van which you have to dock with. The first time you dock you get double fire, the second time gives you a rocket, the third gives a rear force field and the fourth invulnerablility.",

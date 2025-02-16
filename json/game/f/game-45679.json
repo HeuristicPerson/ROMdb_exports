@@ -1,5 +1,6 @@
 {
   "s_type": "game",
+  "s_status": "open",
   "i_nid": 45679,
   "s_title": "Atomic Punk",
   "s_synopsis": "The game offers two single player and two multiplayer modes. The single player mode called &quot;Game B&quot; has the classical Bomberman gameplay, while the mode &quot;Game A&quot; introduces several variations. The levels in Game A are divided in nine areas, which can be accessed in any order from a world map. Depending on the time taken to finish a level and the number of blocks destroyed, the player gets a certain amount of gold, which can be used to buy power-ups (called &quot;panels&quot; in the game) in shop, which in term is accessed from the map. Power-ups allow, for example, to revive Bomberman when he dies in a stage or to increase the length of an explosion. Before entering a new area, the player chooses which panels to use in order to complete the area.",

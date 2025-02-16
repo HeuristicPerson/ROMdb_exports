@@ -1,5 +1,6 @@
 {
   "s_type": "game",
+  "s_status": "open",
   "i_nid": 44951,
   "s_title": "Blasteroids",
   "s_synopsis": "As the name suggests, this game updates the basic Asteroids gameplay. That means to say that the main gameplay consists of flying through single-screen wrap-around levels shooting at rocks, which split into smaller rocks when hit, eventually becoming small enough to disappear.\r\n",

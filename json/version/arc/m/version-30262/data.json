@@ -1,5 +1,6 @@
 {
   "s_type": "version",
+  "s_status": "open",
   "i_nid": 30262,
   "s_dat_name": "arc_mame",
   "s_dat_version": "MAME | Simplified with Dat Simplifier - v1.0.2021-11-30 | &quot;0.271 (unknown)&quot;",
@@ -16,12 +17,14 @@
   "f_mdata_rating_value": 0,
   "s_mdata_media_type": "",
   "i_mdata_media_number": 0,
-  "s_mdata_date": "",
+  "s_mdata_date": "1995-??-??",
   "as_mdata_views": [],
   "s_mdata_overscan": "",
   "ai_mdata_players": [],
   "as_mdata_multiplayer": [],
-  "as_mdata_screen_titles": [],
+  "as_mdata_screen_titles": [
+    "[???] Mad Donna"
+  ],
   "s_mdata_differences": "",
   "ai_parent_games": []
 }

@@ -1,5 +1,6 @@
 {
   "s_type": "game",
+  "s_status": "open",
   "i_nid": 47039,
   "s_title": "Tumble Pop",
   "s_synopsis": "Your character has a vacuum cleaner attached to his backpack, and you must use it to suck up enemies into the backpack and shoot them back out before they break out. Enemies will often give out letters that spell out the word TUMBLEPOP. If the player collects all the letters, the current level is bypassed and a bonus game will be played where money, extra lives, and other items can be collected. After several levels, a boss needs to be defeated, and these bosses include a squid, man-eating plant, a genie, a fire creature, snow man, clown throwing bombs, robot, and a giant alien creature.",

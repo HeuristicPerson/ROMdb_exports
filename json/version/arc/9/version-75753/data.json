@@ -1,5 +1,6 @@
 {
   "s_type": "version",
+  "s_status": "open",
   "i_nid": 75753,
   "s_dat_name": "arc_mame",
   "s_dat_version": "MAME | Simplified with Dat Simplifier - v1.0.2021-11-30 | &quot;0.271 (unknown)&quot;",
@@ -16,8 +17,10 @@
   "f_mdata_rating_value": 0,
   "s_mdata_media_type": "",
   "i_mdata_media_number": 0,
-  "s_mdata_date": "",
-  "as_mdata_views": [],
+  "s_mdata_date": "1995-??-??",
+  "as_mdata_views": [
+    "top"
+  ],
   "s_mdata_overscan": "",
   "ai_mdata_players": [],
   "as_mdata_multiplayer": [],
