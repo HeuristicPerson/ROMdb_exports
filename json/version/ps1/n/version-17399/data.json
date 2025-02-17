@@ -1,14 +1,14 @@
 {
   "s_type": "version",
   "s_status": "open",
-  "i_nid": 22562,
+  "i_nid": 17399,
   "s_dat_name": "ps1_redump",
   "s_dat_version": "Sony - PlayStation | Simplified with Dat Simplifier - v1.0.2021-11-30 | &quot;2024-12-24 18-15-06&quot;",
   "s_dat_outdated": "Up-to-date",
-  "s_romset_title": "Mega Man Legends (Europe)",
-  "s_romset_alias": "Mega Man Legends (Europe)",
-  "i_romset_size": 575828400,
-  "s_romset_crc32": "81c1e37d",
+  "s_romset_title": "No Fear Downhill Mountain Biking (Europe) (En, Fr, De, Es, It, Sv)",
+  "s_romset_alias": "No Fear Downhill Mountain Biking (Europe) (En,Fr,De,Es,It,Sv)",
+  "i_romset_size": 441903168,
+  "s_romset_crc32": "0c59d060",
   "s_romset_platform": "ps1",
   "s_mdata_serial": "",
   "as_mdata_lang_text": [],
@@ -25,6 +25,6 @@
   "as_mdata_screen_titles": [],
   "s_mdata_differences": "",
   "ai_parent_games": [
-    164189
+    85803
   ]
 }
